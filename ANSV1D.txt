@@ -1954,6 +1954,207 @@
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-filesWU Support 2.png"
 	        }
+	    },
+	    {
+	        "name": "TESTRARE",
+	        "rarity": "rare",
+	        "mana_cost": "",
+	        "type": "IGNORETHIS",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-filesTESTRARE.png"
+	        }
 	    }
 	]
-	[RareSlot(1 
+	[RareSlot(0)]
+		0 TESTRARE
+	[UncommonSlot(4)]
+		50 Crystal Moon Saloon
+		50 Kaede Bazaar
+		50 Rustic Spirits Tavern
+		50 The Scarlet Citron
+		50 Xenon Cabaret
+		50 Akane, Linearity Breaker
+		50 Alternate Self
+		50 Aspect of the Void
+		50 Become Null
+		50 BG Support 2
+		50 Blade Alley Betrayals
+		50 Browsing Customer
+		50 Canno, the Party-Planner
+		50 Censored Speaker
+		50 Copy Paste
+		50 Crowned by Eldritch Kings
+		50 Cursed Catlover
+		50 Date-Night Duo
+		50 Dies Irae
+		50 Digital Conciousness
+		50 Emberfly Mage
+		50 Evangel of Metamorphosis
+		50 Evans, Soul Salesman
+		50 Excel, Harmony Smasher
+		50 Frustrated Artist
+		50 Gearshift
+		50 Global Network Collapse
+		50 Go Blank
+		50 Hikane, Revel-hearted
+		50 Hydric Botanist
+		50 Iel, Shard of the Preserver
+		50 Keikaku
+		50 Keris, Bathed in Red
+		50 Kura of Dead Hours
+		50 Kylthess, the Pale Lantern
+		50 Merchant of Lives
+		50 Nexus Savant
+		50 Off the Rails
+		50 Parasol Bearer
+		50 Quarentine Lock
+		50 Quasiduplicate
+		50 Rail Line Rider
+		50 Rainbow Seeker
+		50 Red-Eyed Bystander
+		50 RW Support 1
+		50 Search Query
+		50 Serin, Old World Tinker
+		50 Shine Like a Diamond
+		50 Some sort of avatar
+		50 Swallow the Moon
+		50 The Red-Eyed Jester
+		50 Time Spiraled
+		50 Trail of Blood
+		50 Twilight Witch
+		50 Unleash Nemesis Protocols
+		50 UR Support 1
+		50 Valeria, Yri's Second
+		50 Veteren Bladesinger
+		50 Vielle Singer
+		50 Violence Without Reason
+		50 Voc, Eager Idol
+		50 Warden of the Boundary
+		50 Waywarden of the Flow
+		50 WB Support 2
+		50 Welcoming Hostess
+		50 White Lies
+		50 Wield the Strength of Stars
+		50 WU Support 2
+	[CommonSlot(10)]
+		50 A Little Bit Messed Up
+		50 Abeyant Dreamer
+		50 Agent of Digitas
+		50 Alone With My Thoughts
+		50 Avatar of Revels
+		50 Backstab
+		50 Backstreet Brawler
+		50 Bit Flipper
+		50 Blade Maid
+		50 Cheering Fangirl
+		50 Child of Fallacies
+		50 Colossal Metalmaw
+		50 Corrupted Angelic Songs
+		50 Cosmic Splendor
+		50 Crossroads Traveler
+		50 Darkside Accountant
+		50 Deprecated Version
+		50 Dig Through Rubble
+		50 Disconnect
+		50 Dream
+		50 Dreaming of Electric Sheep
+		50 Drinker of Night's Melodies
+		50 Dusklight Roamer
+		50 Eerie Night Stroll
+		50 Electric Dreams
+		50 Enter Mephisto's Gate
+		50 Error 404
+		50 Flâneur
+		50 Forged Through Nightmare
+		50 Foul-Tongued Acolyte
+		50 Gaze Skyward and Weep
+		50 Getaway Driver
+		50 God Mode
+		50 Greetings From Faraway
+		50 Hang and Chill
+		50 Harbinger of Emeria
+		50 Harmonic Darling
+		50 Heaven is Forged From Steel
+		50 His Overwhelming Bloodlust
+		50 Human Intricacy
+		50 Humanity Perseveres
+		50 Idyll Conjurer
+		50 In the Limelight
+		50 Internet Anonymity
+		50 Joyous Shopkeeper
+		50 Kaeda Troublemakers
+		50 Lean on Me
+		50 Lightshow's Ensemble
+		50 Lonely Medium
+		50 Lost to the Music
+		50 Machine of Broken Queries
+		50 Malevolent Heartbreaker
+		50 Midnight Swimmer
+		50 Miseiko Idols
+		50 Moonlit Lantern Festival
+		50 Multifactor Authentication
+		50 Neon City Racer
+		50 Night Alley Hunters
+		50 Nighttime Wanderer
+		50 Nowhere Lurkers
+		50 Off on a Date
+		50 Ominous Discovery
+		50 Onward
+		50 Open Source
+		50 Out of Order
+		50 Overclock
+		50 Party Invite
+		50 Ponder Infinite Misfortunes
+		50 Protagonism
+		50 Reckless Aspirations
+		50 Red Flags
+		50 Red Hot Racer
+		50 Retcon
+		50 Rhythm Seer
+		50 Rippling Curtains
+		50 Satsukai Blade Savant
+		50 Satsukai Fixer
+		50 Scorch
+		50 Serin's Masterwork
+		50 Seventh Street Oracle
+		50 Seventh Street Stalker
+		50 Skyway Fixer
+		50 Smokesign Mystic
+		50 Star of the Show
+		50 Studious Pupil
+		50 Technopath Operative
+		50 The Faceless Many
+		50 Too Much to Drink
+		50 Traveler at Crossroads
+		50 Traverse the City
+		50 User Banned
+		50 Waiting for You
+		50 Watch the Sun Fade
+		50 Waywarden
+		50 Witness of Last Flight
+		50 Witness of New Humanity
+		50 Witness of No Return
+		50 Witness of Red Skies
+		50 Witness of the Brink
+		50 Yri's Frontrunner
+		50 Abandoned Pines Railway
+		50 Azure Sunset Railway
+		50 BG Station
+		50 Blade Alley Railway
+		50 City Skyline
+		50 Evans Company Railway
+		50 GU Station
+		50 RW Station
+		50 Spirit-East Railway
+		50 The Road to Nowhere
+		50 UR Station
+		50 Wayfarer's Shrine Special
+		50 Wayfarer's Shrine
+		50 WU Station
+	[BasicSlot(1)]
+		50 Forest
+		50 Island
+		50 Mountain
+		50 Plains
+		50 Swamp
+	

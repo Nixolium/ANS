@@ -2708,6 +2708,19 @@ Coalesce 5RR (You may cast this from your graveyard for its coalesce cost. If yo
       <tablerow>2</tablerow>
       <text>Whenever you cast your second spell each turn, surveil 1, then draw a card. (Look at the top card of your library. You may put that card into your graveyard.)</text>
     </card>
+    <card>
+      <name>TESTRARE</name>
+      <set rarity="rare">ANS</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>IGNORETHIS</type>
+        <maintype>IGNORETHIS</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text></text>
+    </card>
 
     <!-->Tokens</-->
 
