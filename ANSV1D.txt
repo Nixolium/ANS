@@ -1,0 +1,1959 @@
+[CustomCards]
+	[    {
+	        "name": "Digitize Land",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "Land",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-filesDigitize Land.png"
+	        }
+	    },
+	    {
+	        "name": "A Little Bit Messed Up",
+	        "rarity": "common",
+	        "mana_cost": "{2}{B}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-filesA Little Bit Messed Up.png"
+	        }
+	    },
+	    {
+	        "name": "Abeyant Dreamer",
+	        "mana_cost": "{2}{B}",
+	        "type": "Creature — Horror Angel ",
+	        "image_uris": {
+	            "en": "Abeyant Dreamer.png"
+	        },
+	        "printed names": {
+	            "en": "Abeyant Dreamer"
+	        },
+	        "back": {
+	            "name": "Incomplete",
+	            "printed_names": {
+	                "en": "Incomplete"
+	            },
+	            "image_uris": {
+	                "en": "Incomplete.png"
+	            },
+	            "type": "Sorcery — Tale "
+	        }
+	    },
+	    {
+	        "name": "Agent of Digitas",
+	        "rarity": "common",
+	        "mana_cost": "{4}",
+	        "type": "Creature — Human Cleric ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-filesAgent of Digitas.png"
+	        }
+	    },
+	    {
+	        "name": "Alone With My Thoughts",
+	        "rarity": "common",
+	        "mana_cost": "{U}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-filesAlone With My Thoughts.png"
+	        }
+	    },
+	    {
+	        "name": "Avatar of Revels",
+	        "rarity": "common",
+	        "mana_cost": "{2}{R}",
+	        "type": "Creature — Human Avatar ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-filesAvatar of Revels.png"
+	        }
+	    },
+	    {
+	        "name": "Backstab",
+	        "rarity": "common",
+	        "mana_cost": "{B}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-filesBackstab.png"
+	        }
+	    },
+	    {
+	        "name": "Backstreet Brawler",
+	        "rarity": "common",
+	        "mana_cost": "{3}{G}",
+	        "type": "Creature — Human Rogue ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-filesBackstreet Brawler.png"
+	        }
+	    },
+	    {
+	        "name": "Bit Flipper",
+	        "rarity": "common",
+	        "mana_cost": "{1}{U}",
+	        "type": "Creature — Bird Artificer ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-filesBit Flipper.png"
+	        }
+	    },
+	    {
+	        "name": "Blade Maid",
+	        "rarity": "common",
+	        "mana_cost": "{1}{B}",
+	        "type": "Creature — Human Assassin ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-filesBlade Maid.png"
+	        }
+	    },
+	    {
+	        "name": "Cheering Fangirl",
+	        "rarity": "common",
+	        "mana_cost": "{2}{W}",
+	        "type": "Creature — Human ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-filesCheering Fangirl.png"
+	        }
+	    },
+	    {
+	        "name": "Child of Fallacies",
+	        "rarity": "common",
+	        "mana_cost": "{2}{B}",
+	        "type": "Creature — Human Horror ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-filesChild of Fallacies.png"
+	        }
+	    },
+	    {
+	        "name": "Colossal Metalmaw",
+	        "rarity": "common",
+	        "mana_cost": "{4}{G}{G}",
+	        "type": "Artifact Creature — Dinosaur Construct ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-filesColossal Metalmaw.png"
+	        }
+	    },
+	    {
+	        "name": "Corrupted Angelic Songs",
+	        "rarity": "common",
+	        "mana_cost": "{R}",
+	        "type": "Instant — Revelation ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-filesCorrupted Angelic Songs.png"
+	        }
+	    },
+	    {
+	        "name": "Cosmic Splendor",
+	        "rarity": "common",
+	        "mana_cost": "{X}{X}{W}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-filesCosmic Splendor.png"
+	        }
+	    },
+	    {
+	        "name": "Crossroads Traveler",
+	        "rarity": "common",
+	        "mana_cost": "{1}{G}",
+	        "type": "Creature — Reflection Scout ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-filesCrossroads Traveler.png"
+	        }
+	    },
+	    {
+	        "name": "Darkside Accountant",
+	        "rarity": "common",
+	        "mana_cost": "{B}",
+	        "type": "Creature — Human Advisor ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-filesDarkside Accountant.png"
+	        }
+	    },
+	    {
+	        "name": "Deprecated Version",
+	        "rarity": "common",
+	        "mana_cost": "{W}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-filesDeprecated Version.png"
+	        }
+	    },
+	    {
+	        "name": "Dig Through Rubble",
+	        "rarity": "common",
+	        "mana_cost": "{B}{G}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-filesDig Through Rubble.png"
+	        }
+	    },
+	    {
+	        "name": "Disconnect",
+	        "rarity": "common",
+	        "mana_cost": "{B}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-filesDisconnect.png"
+	        }
+	    },
+	    {
+	        "name": "Dream",
+	        "rarity": "common",
+	        "mana_cost": "{3}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-filesDream.png"
+	        }
+	    },
+	    {
+	        "name": "Dreaming of Electric Sheep",
+	        "rarity": "common",
+	        "mana_cost": "{U}{R}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-filesDreaming of Electric Sheep.png"
+	        }
+	    },
+	    {
+	        "name": "Drinker of Night's Melodies",
+	        "rarity": "common",
+	        "mana_cost": "{1}{W}",
+	        "type": "Creature — Human ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-filesDrinker of Night's Melodies.png"
+	        }
+	    },
+	    {
+	        "name": "Dusklight Roamer",
+	        "rarity": "common",
+	        "mana_cost": "{1}{U}{B}",
+	        "type": "Creature — Butterfly Horror ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-filesDusklight Roamer.png"
+	        }
+	    },
+	    {
+	        "name": "Eerie Night Stroll",
+	        "rarity": "common",
+	        "mana_cost": "{1}{B}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-filesEerie Night Stroll.png"
+	        }
+	    },
+	    {
+	        "name": "Electric Dreams",
+	        "rarity": "common",
+	        "mana_cost": "{2}{R}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-filesElectric Dreams.png"
+	        }
+	    },
+	    {
+	        "name": "Enter Mephisto's Gate",
+	        "rarity": "common",
+	        "mana_cost": "{B}{R}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-filesEnter Mephisto's Gate.png"
+	        }
+	    },
+	    {
+	        "name": "Error 404",
+	        "rarity": "common",
+	        "mana_cost": "{7}{B}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-filesError 404.png"
+	        }
+	    },
+	    {
+	        "name": "Flâneur",
+	        "rarity": "common",
+	        "mana_cost": "{1}{W}",
+	        "type": "Enchantment",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-filesFlâneur.png"
+	        }
+	    },
+	    {
+	        "name": "Forged Through Nightmare",
+	        "rarity": "common",
+	        "mana_cost": "{2}{B}",
+	        "type": "Sorcery — Revelation ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-filesForged Through Nightmare.png"
+	        }
+	    },
+	    {
+	        "name": "Foul-Tongued Acolyte",
+	        "rarity": "common",
+	        "mana_cost": "{R}",
+	        "type": "Creature — Human Cleric ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-filesFoul-Tongued Acolyte.png"
+	        }
+	    },
+	    {
+	        "name": "Gaze Skyward and Weep",
+	        "rarity": "common",
+	        "mana_cost": "{U}",
+	        "type": "Sorcery — Revelation ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-filesGaze Skyward and Weep.png"
+	        }
+	    },
+	    {
+	        "name": "Getaway Driver",
+	        "rarity": "common",
+	        "mana_cost": "{2}{R}",
+	        "type": "Creature — Human Pilot ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-filesGetaway Driver.png"
+	        }
+	    },
+	    {
+	        "name": "God Mode",
+	        "rarity": "common",
+	        "mana_cost": "{G}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-filesGod Mode.png"
+	        }
+	    },
+	    {
+	        "name": "Greetings From Faraway",
+	        "rarity": "common",
+	        "mana_cost": "{1}{W}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-filesGreetings From Faraway.png"
+	        }
+	    },
+	    {
+	        "name": "Hang and Chill",
+	        "rarity": "common",
+	        "mana_cost": "{G}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-filesHang and Chill.png"
+	        }
+	    },
+	    {
+	        "name": "Harbinger of Emeria",
+	        "rarity": "common",
+	        "mana_cost": "{2}{W}",
+	        "type": "Creature — Human Avatar ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-filesHarbinger of Emeria.png"
+	        }
+	    },
+	    {
+	        "name": "Harmonic Darling",
+	        "rarity": "common",
+	        "mana_cost": "{U}",
+	        "type": "Creature — Human Artist ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-filesHarmonic Darling.png"
+	        }
+	    },
+	    {
+	        "name": "Heaven is Forged From Steel",
+	        "rarity": "common",
+	        "mana_cost": "{2}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-filesHeaven is Forged From Steel.png"
+	        }
+	    },
+	    {
+	        "name": "His Overwhelming Bloodlust",
+	        "rarity": "common",
+	        "mana_cost": "{R}",
+	        "type": "Sorcery — Revelation ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-filesHis Overwhelming Bloodlust.png"
+	        }
+	    },
+	    {
+	        "name": "Human Intricacy",
+	        "rarity": "common",
+	        "mana_cost": "{2}{G}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-filesHuman Intricacy.png"
+	        }
+	    },
+	    {
+	        "name": "Humanity Perseveres",
+	        "rarity": "common",
+	        "mana_cost": "{2}{W}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-filesHumanity Perseveres.png"
+	        }
+	    },
+	    {
+	        "name": "Idyll Conjurer",
+	        "rarity": "common",
+	        "mana_cost": "{2}{R}",
+	        "type": "Creature — Human Wizard ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-filesIdyll Conjurer.png"
+	        }
+	    },
+	    {
+	        "name": "In the Limelight",
+	        "rarity": "common",
+	        "mana_cost": "{1}{G}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-filesIn the Limelight.png"
+	        }
+	    },
+	    {
+	        "name": "Internet Anonymity",
+	        "rarity": "common",
+	        "mana_cost": "{W}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-filesInternet Anonymity.png"
+	        }
+	    },
+	    {
+	        "name": "Joyous Shopkeeper",
+	        "rarity": "common",
+	        "mana_cost": "{G}",
+	        "type": "Creature — Human Druid ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-filesJoyous Shopkeeper.png"
+	        }
+	    },
+	    {
+	        "name": "Kaeda Troublemakers",
+	        "mana_cost": "{2}{R}",
+	        "type": "Creature — Human Rogue ",
+	        "image_uris": {
+	            "en": "Kaeda Troublemakers.png"
+	        },
+	        "printed names": {
+	            "en": "Kaeda Troublemakers"
+	        },
+	        "back": {
+	            "name": "Oops, Collateral",
+	            "printed_names": {
+	                "en": "Oops, Collateral"
+	            },
+	            "image_uris": {
+	                "en": "Oops, Collateral.png"
+	            },
+	            "type": "Sorcery — Tale "
+	        }
+	    },
+	    {
+	        "name": "Lean on Me",
+	        "rarity": "common",
+	        "mana_cost": "{1}{W}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-filesLean on Me.png"
+	        }
+	    },
+	    {
+	        "name": "Lightshow's Ensemble",
+	        "mana_cost": "{4}{W}",
+	        "type": "Creature — Human Artist ",
+	        "image_uris": {
+	            "en": "Lightshow's Ensemble.png"
+	        },
+	        "printed names": {
+	            "en": "Lightshow's Ensemble"
+	        },
+	        "back": {
+	            "name": "Scream Out",
+	            "printed_names": {
+	                "en": "Scream Out"
+	            },
+	            "image_uris": {
+	                "en": "Scream Out.png"
+	            },
+	            "type": "Sorcery — Tale "
+	        }
+	    },
+	    {
+	        "name": "Lonely Medium",
+	        "rarity": "common",
+	        "mana_cost": "{2}{W}",
+	        "type": "Creature — Human Cleric ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-filesLonely Medium.png"
+	        }
+	    },
+	    {
+	        "name": "Lost to the Music",
+	        "rarity": "common",
+	        "mana_cost": "{3}{U}",
+	        "type": "Enchantment — Aura ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-filesLost to the Music.png"
+	        }
+	    },
+	    {
+	        "name": "Machine of Broken Queries",
+	        "rarity": "common",
+	        "mana_cost": "{4}",
+	        "type": "Artifact Creature — Construct Horror ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-filesMachine of Broken Queries.png"
+	        }
+	    },
+	    {
+	        "name": "Malevolent Heartbreaker",
+	        "rarity": "common",
+	        "mana_cost": "{3}{B}",
+	        "type": "Creature — Human ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-filesMalevolent Heartbreaker.png"
+	        }
+	    },
+	    {
+	        "name": "Midnight Swimmer",
+	        "rarity": "common",
+	        "mana_cost": "{1}",
+	        "type": "Creature — Human ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-filesMidnight Swimmer.png"
+	        }
+	    },
+	    {
+	        "name": "Miseiko Idols",
+	        "rarity": "common",
+	        "mana_cost": "{1}{U}",
+	        "type": "Creature — Human Artist ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-filesMiseiko Idols.png"
+	        }
+	    },
+	    {
+	        "name": "Moonlit Lantern Festival",
+	        "rarity": "common",
+	        "mana_cost": "{G}{U}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-filesMoonlit Lantern Festival.png"
+	        }
+	    },
+	    {
+	        "name": "Multifactor Authentication",
+	        "rarity": "common",
+	        "mana_cost": "{1}{G}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-filesMultifactor Authentication.png"
+	        }
+	    },
+	    {
+	        "name": "Neon City Racer",
+	        "rarity": "common",
+	        "mana_cost": "{R}",
+	        "type": "Creature — Reflection Pilot ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-filesNeon City Racer.png"
+	        }
+	    },
+	    {
+	        "name": "Night Alley Hunters",
+	        "rarity": "common",
+	        "mana_cost": "{4}{G}",
+	        "type": "Creature — Human Warrior ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-filesNight Alley Hunters.png"
+	        }
+	    },
+	    {
+	        "name": "Nighttime Wanderer",
+	        "rarity": "common",
+	        "mana_cost": "{1}{G}",
+	        "type": "Creature — Human Scout ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-filesNighttime Wanderer.png"
+	        }
+	    },
+	    {
+	        "name": "Nowhere Lurkers",
+	        "mana_cost": "{2}{G}",
+	        "type": "Creature — Horror ",
+	        "image_uris": {
+	            "en": "Nowhere Lurkers.png"
+	        },
+	        "printed names": {
+	            "en": "Nowhere Lurkers"
+	        },
+	        "back": {
+	            "name": "Escape Eternity",
+	            "printed_names": {
+	                "en": "Escape Eternity"
+	            },
+	            "image_uris": {
+	                "en": "Escape Eternity.png"
+	            },
+	            "type": "Sorcery — Tale "
+	        }
+	    },
+	    {
+	        "name": "Off on a Date",
+	        "rarity": "common",
+	        "mana_cost": "{1}{W}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-filesOff on a Date.png"
+	        }
+	    },
+	    {
+	        "name": "Ominous Discovery",
+	        "rarity": "common",
+	        "mana_cost": "{1}{U}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-filesOminous Discovery.png"
+	        }
+	    },
+	    {
+	        "name": "Onward",
+	        "rarity": "common",
+	        "mana_cost": "{X}{G}{W}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-filesOnward.png"
+	        }
+	    },
+	    {
+	        "name": "Open Source",
+	        "rarity": "common",
+	        "mana_cost": "{3}{U}{U}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-filesOpen Source.png"
+	        }
+	    },
+	    {
+	        "name": "Out of Order",
+	        "rarity": "common",
+	        "mana_cost": "{W}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-filesOut of Order.png"
+	        }
+	    },
+	    {
+	        "name": "Overclock",
+	        "rarity": "common",
+	        "mana_cost": "{1}{R}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-filesOverclock.png"
+	        }
+	    },
+	    {
+	        "name": "Party Invite",
+	        "rarity": "common",
+	        "mana_cost": "{W}",
+	        "type": "Artifact",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-filesParty Invite.png"
+	        }
+	    },
+	    {
+	        "name": "Ponder Infinite Misfortunes",
+	        "rarity": "common",
+	        "mana_cost": "{U}",
+	        "type": "Sorcery — Revelation ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-filesPonder Infinite Misfortunes.png"
+	        }
+	    },
+	    {
+	        "name": "Protagonism",
+	        "rarity": "common",
+	        "mana_cost": "{X}{R}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-filesProtagonism.png"
+	        }
+	    },
+	    {
+	        "name": "Reckless Aspirations",
+	        "rarity": "common",
+	        "mana_cost": "{R}{G}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-filesReckless Aspirations.png"
+	        }
+	    },
+	    {
+	        "name": "Red Flags",
+	        "rarity": "common",
+	        "mana_cost": "{R}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-filesRed Flags.png"
+	        }
+	    },
+	    {
+	        "name": "Red Hot Racer",
+	        "rarity": "common",
+	        "mana_cost": "{1}{R}",
+	        "type": "Artifact — Vehicle ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-filesRed Hot Racer.png"
+	        }
+	    },
+	    {
+	        "name": "Retcon",
+	        "rarity": "common",
+	        "mana_cost": "{W}{U}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-filesRetcon.png"
+	        }
+	    },
+	    {
+	        "name": "Rhythm Seer",
+	        "rarity": "common",
+	        "mana_cost": "{3}{U}",
+	        "type": "Creature — Human Wizard ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-filesRhythm Seer.png"
+	        }
+	    },
+	    {
+	        "name": "Rippling Curtains",
+	        "rarity": "common",
+	        "mana_cost": "{U}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-filesRippling Curtains.png"
+	        }
+	    },
+	    {
+	        "name": "Satsukai Blade Savant",
+	        "rarity": "common",
+	        "mana_cost": "{R}{W}",
+	        "type": "Creature — Human ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-filesSatsukai Blade Savant.png"
+	        }
+	    },
+	    {
+	        "name": "Satsukai Fixer",
+	        "rarity": "common",
+	        "mana_cost": "{1}{R}",
+	        "type": "Creature — Human Scout ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-filesSatsukai Fixer.png"
+	        }
+	    },
+	    {
+	        "name": "Scorch",
+	        "rarity": "common",
+	        "mana_cost": "{R}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-filesScorch.png"
+	        }
+	    },
+	    {
+	        "name": "Serin's Masterwork",
+	        "rarity": "common",
+	        "mana_cost": "{8}{G}",
+	        "type": "Artifact Creature — Dragon Construct ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-filesSerin's Masterwork.png"
+	        }
+	    },
+	    {
+	        "name": "Seventh Street Oracle",
+	        "rarity": "common",
+	        "mana_cost": "{2}{B}",
+	        "type": "Creature — Human Cleric ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-filesSeventh Street Oracle.png"
+	        }
+	    },
+	    {
+	        "name": "Seventh Street Stalker",
+	        "rarity": "common",
+	        "mana_cost": "{1}{G}",
+	        "type": "Creature — Human Scout ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-filesSeventh Street Stalker.png"
+	        }
+	    },
+	    {
+	        "name": "Skyway Fixer",
+	        "rarity": "common",
+	        "mana_cost": "{1}{G}",
+	        "type": "Creature — Human Scout ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-filesSkyway Fixer.png"
+	        }
+	    },
+	    {
+	        "name": "Smokesign Mystic",
+	        "rarity": "common",
+	        "mana_cost": "{3}{U}",
+	        "type": "Creature — Human Wizard ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-filesSmokesign Mystic.png"
+	        }
+	    },
+	    {
+	        "name": "Star of the Show",
+	        "rarity": "common",
+	        "mana_cost": "{W}",
+	        "type": "Creature — Human Artist ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-filesStar of the Show.png"
+	        }
+	    },
+	    {
+	        "name": "Studious Pupil",
+	        "rarity": "common",
+	        "mana_cost": "{1}{B}",
+	        "type": "Creature — Human ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-filesStudious Pupil.png"
+	        }
+	    },
+	    {
+	        "name": "Technopath Operative",
+	        "rarity": "common",
+	        "mana_cost": "{2}{U}",
+	        "type": "Creature — Human Artificer ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-filesTechnopath Operative.png"
+	        }
+	    },
+	    {
+	        "name": "The Faceless Many",
+	        "rarity": "common",
+	        "mana_cost": "{1}{W}{B}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-filesThe Faceless Many.png"
+	        }
+	    },
+	    {
+	        "name": "Too Much to Drink",
+	        "rarity": "common",
+	        "mana_cost": "{B}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-filesToo Much to Drink.png"
+	        }
+	    },
+	    {
+	        "name": "Traveler at Crossroads",
+	        "mana_cost": "{U}",
+	        "type": "Creature — Human Scout ",
+	        "image_uris": {
+	            "en": "Traveler at Crossroads.png"
+	        },
+	        "printed names": {
+	            "en": "Traveler at Crossroads"
+	        },
+	        "back": {
+	            "name": "New Roads",
+	            "printed_names": {
+	                "en": "New Roads"
+	            },
+	            "image_uris": {
+	                "en": "New Roads.png"
+	            },
+	            "type": "Sorcery — Tale "
+	        }
+	    },
+	    {
+	        "name": "Traverse the City",
+	        "rarity": "common",
+	        "mana_cost": "{G}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-filesTraverse the City.png"
+	        }
+	    },
+	    {
+	        "name": "User Banned",
+	        "rarity": "common",
+	        "mana_cost": "{1}{U}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-filesUser Banned.png"
+	        }
+	    },
+	    {
+	        "name": "Waiting for You",
+	        "rarity": "common",
+	        "mana_cost": "{R}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-filesWaiting for You.png"
+	        }
+	    },
+	    {
+	        "name": "Watch the Sun Fade",
+	        "rarity": "common",
+	        "mana_cost": "{B}",
+	        "type": "Instant — Revelation ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-filesWatch the Sun Fade.png"
+	        }
+	    },
+	    {
+	        "name": "Waywarden",
+	        "rarity": "common",
+	        "mana_cost": "{2}{U}",
+	        "type": "Creature — Human Artist ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-filesWaywarden.png"
+	        }
+	    },
+	    {
+	        "name": "Witness of Last Flight",
+	        "rarity": "common",
+	        "mana_cost": "{2}{U}",
+	        "type": "Creature — Human Avatar ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-filesWitness of Last Flight.png"
+	        }
+	    },
+	    {
+	        "name": "Witness of New Humanity",
+	        "rarity": "common",
+	        "mana_cost": "{2}{W}",
+	        "type": "Creature — Human Avatar ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-filesWitness of New Humanity.png"
+	        }
+	    },
+	    {
+	        "name": "Witness of No Return",
+	        "rarity": "common",
+	        "mana_cost": "{2}{B}",
+	        "type": "Creature — Human Avatar ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-filesWitness of No Return.png"
+	        }
+	    },
+	    {
+	        "name": "Witness of Red Skies",
+	        "rarity": "common",
+	        "mana_cost": "{2}{R}",
+	        "type": "Creature — Human Avatar ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-filesWitness of Red Skies.png"
+	        }
+	    },
+	    {
+	        "name": "Witness of the Brink",
+	        "rarity": "common",
+	        "mana_cost": "{2}{G}",
+	        "type": "Creature — Human Avatar ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-filesWitness of the Brink.png"
+	        }
+	    },
+	    {
+	        "name": "Yri's Frontrunner",
+	        "rarity": "common",
+	        "mana_cost": "{B}",
+	        "type": "Creature — Human Rogue ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-filesYri's Frontrunner.png"
+	        }
+	    },
+	    {
+	        "name": "Forest",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "Basic Land — Forest ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-filesForest.png"
+	        }
+	    },
+	    {
+	        "name": "Island",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "Basic Land — Island ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-filesIsland.png"
+	        }
+	    },
+	    {
+	        "name": "Mountain",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "Basic Land — Mountain ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-filesMountain.png"
+	        }
+	    },
+	    {
+	        "name": "Plains",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "Basic Land — Plains ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-filesPlains.png"
+	        }
+	    },
+	    {
+	        "name": "Swamp",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "Basic Land — Swamp ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-filesSwamp.png"
+	        }
+	    },
+	    {
+	        "name": "Abandoned Pines Railway",
+	        "mana_cost": "",
+	        "type": "Land — Station ",
+	        "image_uris": {
+	            "en": "Abandoned Pines Railway.png"
+	        },
+	        "printed names": {
+	            "en": "Abandoned Pines Railway"
+	        },
+	        "back": {
+	            "name": "Ticket to Nyano",
+	            "printed_names": {
+	                "en": "Ticket to Nyano"
+	            },
+	            "image_uris": {
+	                "en": "Ticket to Nyano.png"
+	            },
+	            "type": "Sorcery — Tale "
+	        }
+	    },
+	    {
+	        "name": "Azure Sunset Railway",
+	        "mana_cost": "",
+	        "type": "Land — Station ",
+	        "image_uris": {
+	            "en": "Azure Sunset Railway.png"
+	        },
+	        "printed names": {
+	            "en": "Azure Sunset Railway"
+	        },
+	        "back": {
+	            "name": "Ticket to Tsukuri",
+	            "printed_names": {
+	                "en": "Ticket to Tsukuri"
+	            },
+	            "image_uris": {
+	                "en": "Ticket to Tsukuri.png"
+	            },
+	            "type": "Sorcery — Tale "
+	        }
+	    },
+	    {
+	        "name": "BG Station",
+	        "mana_cost": "",
+	        "type": "Land — Station ",
+	        "image_uris": {
+	            "en": "BG Station.png"
+	        },
+	        "printed names": {
+	            "en": "BG Station"
+	        },
+	        "back": {
+	            "name": "Ticket to",
+	            "printed_names": {
+	                "en": "Ticket to"
+	            },
+	            "image_uris": {
+	                "en": "Ticket to.png"
+	            },
+	            "type": "Sorcery — Tale "
+	        }
+	    },
+	    {
+	        "name": "Blade Alley Railway",
+	        "mana_cost": "",
+	        "type": "Land — Station ",
+	        "image_uris": {
+	            "en": "Blade Alley Railway.png"
+	        },
+	        "printed names": {
+	            "en": "Blade Alley Railway"
+	        },
+	        "back": {
+	            "name": "Ticket to Kaede",
+	            "printed_names": {
+	                "en": "Ticket to Kaede"
+	            },
+	            "image_uris": {
+	                "en": "Ticket to Kaede.png"
+	            },
+	            "type": "Sorcery — Tale "
+	        }
+	    },
+	    {
+	        "name": "City Skyline",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "Land",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-filesCity Skyline.png"
+	        }
+	    },
+	    {
+	        "name": "Evans Company Railway",
+	        "mana_cost": "",
+	        "type": "Land — Station ",
+	        "image_uris": {
+	            "en": "Evans Company Railway.png"
+	        },
+	        "printed names": {
+	            "en": "Evans Company Railway"
+	        },
+	        "back": {
+	            "name": "Ticket to Satsukai",
+	            "printed_names": {
+	                "en": "Ticket to Satsukai"
+	            },
+	            "image_uris": {
+	                "en": "Ticket to Satsukai.png"
+	            },
+	            "type": "Sorcery — Tale "
+	        }
+	    },
+	    {
+	        "name": "GU Station",
+	        "mana_cost": "",
+	        "type": "Land — Station ",
+	        "image_uris": {
+	            "en": "GU Station.png"
+	        },
+	        "printed names": {
+	            "en": "GU Station"
+	        },
+	        "back": {
+	            "name": "Ticket to",
+	            "printed_names": {
+	                "en": "Ticket to"
+	            },
+	            "image_uris": {
+	                "en": "Ticket to.png"
+	            },
+	            "type": "Sorcery — Tale "
+	        }
+	    },
+	    {
+	        "name": "RW Station",
+	        "mana_cost": "",
+	        "type": "Land — Station ",
+	        "image_uris": {
+	            "en": "RW Station.png"
+	        },
+	        "printed names": {
+	            "en": "RW Station"
+	        },
+	        "back": {
+	            "name": "Ticket to",
+	            "printed_names": {
+	                "en": "Ticket to"
+	            },
+	            "image_uris": {
+	                "en": "Ticket to.png"
+	            },
+	            "type": "Sorcery — Tale "
+	        }
+	    },
+	    {
+	        "name": "Spirit-East Railway",
+	        "mana_cost": "",
+	        "type": "Land — Station ",
+	        "image_uris": {
+	            "en": "Spirit-East Railway.png"
+	        },
+	        "printed names": {
+	            "en": "Spirit-East Railway"
+	        },
+	        "back": {
+	            "name": "Ticket to Miseiko",
+	            "printed_names": {
+	                "en": "Ticket to Miseiko"
+	            },
+	            "image_uris": {
+	                "en": "Ticket to Miseiko.png"
+	            },
+	            "type": "Sorcery — Tale "
+	        }
+	    },
+	    {
+	        "name": "The Road to Nowhere",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "Land",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-filesThe Road to Nowhere.png"
+	        }
+	    },
+	    {
+	        "name": "UR Station",
+	        "mana_cost": "",
+	        "type": "Land — Station ",
+	        "image_uris": {
+	            "en": "UR Station.png"
+	        },
+	        "printed names": {
+	            "en": "UR Station"
+	        },
+	        "back": {
+	            "name": "Ticket to",
+	            "printed_names": {
+	                "en": "Ticket to"
+	            },
+	            "image_uris": {
+	                "en": "Ticket to.png"
+	            },
+	            "type": "Sorcery — Tale "
+	        }
+	    },
+	    {
+	        "name": "Wayfarer's Shrine Special",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "Land",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-filesWayfarer's Shrine Special.png"
+	        }
+	    },
+	    {
+	        "name": "Wayfarer's Shrine",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "Land",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-filesWayfarer's Shrine.png"
+	        }
+	    },
+	    {
+	        "name": "WU Station",
+	        "mana_cost": "",
+	        "type": "Land — Station ",
+	        "image_uris": {
+	            "en": "WU Station.png"
+	        },
+	        "printed names": {
+	            "en": "WU Station"
+	        },
+	        "back": {
+	            "name": "Ticket to",
+	            "printed_names": {
+	                "en": "Ticket to"
+	            },
+	            "image_uris": {
+	                "en": "Ticket to.png"
+	            },
+	            "type": "Sorcery — Tale "
+	        }
+	    },
+	    {
+	        "name": "Crystal Moon Saloon",
+	        "rarity": "uncommon",
+	        "mana_cost": "",
+	        "type": "Land",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-filesCrystal Moon Saloon.png"
+	        }
+	    },
+	    {
+	        "name": "Kaede Bazaar",
+	        "rarity": "uncommon",
+	        "mana_cost": "",
+	        "type": "Land",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-filesKaede Bazaar.png"
+	        }
+	    },
+	    {
+	        "name": "Rustic Spirits Tavern",
+	        "rarity": "uncommon",
+	        "mana_cost": "",
+	        "type": "Land",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-filesRustic Spirits Tavern.png"
+	        }
+	    },
+	    {
+	        "name": "The Scarlet Citron",
+	        "rarity": "uncommon",
+	        "mana_cost": "",
+	        "type": "Land",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-filesThe Scarlet Citron.png"
+	        }
+	    },
+	    {
+	        "name": "Xenon Cabaret",
+	        "rarity": "uncommon",
+	        "mana_cost": "",
+	        "type": "Land",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-filesXenon Cabaret.png"
+	        }
+	    },
+	    {
+	        "name": "Akane, Linearity Breaker",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{U}",
+	        "type": "Legendary Creature — Human Artist ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-filesAkane, Linearity Breaker.png"
+	        }
+	    },
+	    {
+	        "name": "Alternate Self",
+	        "rarity": "uncommon",
+	        "mana_cost": "{G}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-filesAlternate Self.png"
+	        }
+	    },
+	    {
+	        "name": "Aspect of the Void",
+	        "rarity": "uncommon",
+	        "mana_cost": "{5}{G}",
+	        "type": "Creature — Avatar ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-filesAspect of the Void.png"
+	        }
+	    },
+	    {
+	        "name": "Become Null",
+	        "rarity": "uncommon",
+	        "mana_cost": "{5}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-filesBecome Null.png"
+	        }
+	    },
+	    {
+	        "name": "BG Support 2",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{G}",
+	        "type": "Creature — Human Artist ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-filesBG Support 2.png"
+	        }
+	    },
+	    {
+	        "name": "Blade Alley Betrayals",
+	        "rarity": "uncommon",
+	        "mana_cost": "{2}{B}",
+	        "type": "Enchantment",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-filesBlade Alley Betrayals.png"
+	        }
+	    },
+	    {
+	        "name": "Browsing Customer",
+	        "mana_cost": "{W}",
+	        "type": "Creature — Human Scout ",
+	        "image_uris": {
+	            "en": "Browsing Customer.png"
+	        },
+	        "printed names": {
+	            "en": "Browsing Customer"
+	        },
+	        "back": {
+	            "name": "A New Read",
+	            "printed_names": {
+	                "en": "A New Read"
+	            },
+	            "image_uris": {
+	                "en": "A New Read.png"
+	            },
+	            "type": "Sorcery — Tale "
+	        }
+	    },
+	    {
+	        "name": "Canno, the Party-Planner",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{G}{W}",
+	        "type": "Legendary Creature — Human Advisor ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-filesCanno, the Party-Planner.png"
+	        }
+	    },
+	    {
+	        "name": "Censored Speaker",
+	        "mana_cost": "{1}{U}",
+	        "type": "Creature — Human Rogue ",
+	        "image_uris": {
+	            "en": "Censored Speaker.png"
+	        },
+	        "printed names": {
+	            "en": "Censored Speaker"
+	        },
+	        "back": {
+	            "name": "Say the Word",
+	            "printed_names": {
+	                "en": "Say the Word"
+	            },
+	            "image_uris": {
+	                "en": "Say the Word.png"
+	            },
+	            "type": "Sorcery — Tale "
+	        }
+	    },
+	    {
+	        "name": "Copy Paste",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{U}{U}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-filesCopy Paste.png"
+	        }
+	    },
+	    {
+	        "name": "Crowned by Eldritch Kings",
+	        "rarity": "uncommon",
+	        "mana_cost": "{B}",
+	        "type": "Sorcery — Revelation ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-filesCrowned by Eldritch Kings.png"
+	        }
+	    },
+	    {
+	        "name": "Cursed Catlover",
+	        "rarity": "uncommon",
+	        "mana_cost": "{2}{W}{W}",
+	        "type": "Creature — Human Wizard ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-filesCursed Catlover.png"
+	        }
+	    },
+	    {
+	        "name": "Date-Night Duo",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{G}",
+	        "type": "Creature — Human ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-filesDate-Night Duo.png"
+	        }
+	    },
+	    {
+	        "name": "Dies Irae",
+	        "rarity": "uncommon",
+	        "mana_cost": "{2}{W}{W}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-filesDies Irae.png"
+	        }
+	    },
+	    {
+	        "name": "Digital Conciousness",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{W}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-filesDigital Conciousness.png"
+	        }
+	    },
+	    {
+	        "name": "Emberfly Mage",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{R}",
+	        "type": "Creature — Human Wizard ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-filesEmberfly Mage.png"
+	        }
+	    },
+	    {
+	        "name": "Evangel of Metamorphosis",
+	        "rarity": "uncommon",
+	        "mana_cost": "{B}",
+	        "type": "Creature — Horror Angel ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-filesEvangel of Metamorphosis.png"
+	        }
+	    },
+	    {
+	        "name": "Evans, Soul Salesman",
+	        "rarity": "uncommon",
+	        "mana_cost": "{3}{B}{R}",
+	        "type": "Legendary Creature — Human Horror ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-filesEvans, Soul Salesman.png"
+	        }
+	    },
+	    {
+	        "name": "Excel, Harmony Smasher",
+	        "rarity": "uncommon",
+	        "mana_cost": "{B}{G}",
+	        "type": "Legendary Creature — Human Artist ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-filesExcel, Harmony Smasher.png"
+	        }
+	    },
+	    {
+	        "name": "Frustrated Artist",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{R}",
+	        "type": "Creature — Human Artist ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-filesFrustrated Artist.png"
+	        }
+	    },
+	    {
+	        "name": "Gearshift",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{U}",
+	        "type": "Enchantment",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-filesGearshift.png"
+	        }
+	    },
+	    {
+	        "name": "Global Network Collapse",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{B}{B}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-filesGlobal Network Collapse.png"
+	        }
+	    },
+	    {
+	        "name": "Go Blank",
+	        "rarity": "uncommon",
+	        "mana_cost": "{2}{B}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-filesGo Blank.png"
+	        }
+	    },
+	    {
+	        "name": "Hikane, Revel-hearted",
+	        "rarity": "uncommon",
+	        "mana_cost": "{2}{R}{G}",
+	        "type": "Legendary Creature — Human Scout ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-filesHikane, Revel-hearted.png"
+	        }
+	    },
+	    {
+	        "name": "Hydric Botanist",
+	        "rarity": "uncommon",
+	        "mana_cost": "{X}{G}{G}",
+	        "type": "Creature — Human Druid ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-filesHydric Botanist.png"
+	        }
+	    },
+	    {
+	        "name": "Iel, Shard of the Preserver",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{G}{U}",
+	        "type": "Legendary Creature — Human Avatar ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-filesIel, Shard of the Preserver.png"
+	        }
+	    },
+	    {
+	        "name": "Keikaku",
+	        "rarity": "uncommon",
+	        "mana_cost": "{0}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-filesKeikaku.png"
+	        }
+	    },
+	    {
+	        "name": "Keris, Bathed in Red",
+	        "rarity": "uncommon",
+	        "mana_cost": "{2}{R}{W}",
+	        "type": "Legendary Creature — Human Warrior ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-filesKeris, Bathed in Red.png"
+	        }
+	    },
+	    {
+	        "name": "Kura of Dead Hours",
+	        "mana_cost": "{1}{U}{B}",
+	        "type": "Legendary Creature — Horror Artist ",
+	        "image_uris": {
+	            "en": "Kura of Dead Hours.png"
+	        },
+	        "printed names": {
+	            "en": "Kura of Dead Hours"
+	        },
+	        "back": {
+	            "name": "Follow the Trail",
+	            "printed_names": {
+	                "en": "Follow the Trail"
+	            },
+	            "image_uris": {
+	                "en": "Follow the Trail.png"
+	            },
+	            "type": "Instant — Tale "
+	        }
+	    },
+	    {
+	        "name": "Kylthess, the Pale Lantern",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{U}{U}",
+	        "type": "Legendary Creature — Human Scout ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-filesKylthess, the Pale Lantern.png"
+	        }
+	    },
+	    {
+	        "name": "Merchant of Lives",
+	        "rarity": "uncommon",
+	        "mana_cost": "{3}{R}",
+	        "type": "Creature — Horror Human ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-filesMerchant of Lives.png"
+	        }
+	    },
+	    {
+	        "name": "Nexus Savant",
+	        "rarity": "uncommon",
+	        "mana_cost": "{2}{R}",
+	        "type": "Creature — Human Artificer ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-filesNexus Savant.png"
+	        }
+	    },
+	    {
+	        "name": "Off the Rails",
+	        "rarity": "uncommon",
+	        "mana_cost": "{X}{R}{R}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-filesOff the Rails.png"
+	        }
+	    },
+	    {
+	        "name": "Parasol Bearer",
+	        "mana_cost": "{1}{W}",
+	        "type": "Creature — Human Artist ",
+	        "image_uris": {
+	            "en": "Parasol Bearer.png"
+	        },
+	        "printed names": {
+	            "en": "Parasol Bearer"
+	        },
+	        "back": {
+	            "name": "Rain or Shine",
+	            "printed_names": {
+	                "en": "Rain or Shine"
+	            },
+	            "image_uris": {
+	                "en": "Rain or Shine.png"
+	            },
+	            "type": "Instant — Tale "
+	        }
+	    },
+	    {
+	        "name": "Quarentine Lock",
+	        "rarity": "uncommon",
+	        "mana_cost": "{2}{W}",
+	        "type": "Enchantment",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-filesQuarentine Lock.png"
+	        }
+	    },
+	    {
+	        "name": "Quasiduplicate",
+	        "rarity": "uncommon",
+	        "mana_cost": "{2}{R}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-filesQuasiduplicate.png"
+	        }
+	    },
+	    {
+	        "name": "Rail Line Rider",
+	        "rarity": "uncommon",
+	        "mana_cost": "{3}",
+	        "type": "Creature — Human ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-filesRail Line Rider.png"
+	        }
+	    },
+	    {
+	        "name": "Rainbow Seeker",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{G}",
+	        "type": "Creature — Human Scout ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-filesRainbow Seeker.png"
+	        }
+	    },
+	    {
+	        "name": "Red-Eyed Bystander",
+	        "rarity": "uncommon",
+	        "mana_cost": "{3}{W}",
+	        "type": "Creature — Human Cleric ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-filesRed-Eyed Bystander.png"
+	        }
+	    },
+	    {
+	        "name": "RW Support 1",
+	        "rarity": "uncommon",
+	        "mana_cost": "{2}{R}",
+	        "type": "Creature — Human Warrior ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-filesRW Support 1.png"
+	        }
+	    },
+	    {
+	        "name": "Search Query",
+	        "rarity": "uncommon",
+	        "mana_cost": "{2}{G}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-filesSearch Query.png"
+	        }
+	    },
+	    {
+	        "name": "Serin, Old World Tinker",
+	        "rarity": "uncommon",
+	        "mana_cost": "{U}{R}",
+	        "type": "Legendary Creature — Human Artificer ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-filesSerin, Old World Tinker.png"
+	        }
+	    },
+	    {
+	        "name": "Shine Like a Diamond",
+	        "rarity": "uncommon",
+	        "mana_cost": "{U}{U}{U}",
+	        "type": "Instant — Revelation ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-filesShine Like a Diamond.png"
+	        }
+	    },
+	    {
+	        "name": "Some sort of avatar",
+	        "rarity": "uncommon",
+	        "mana_cost": "{X}{G}{G}",
+	        "type": "Creature — Avatar ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-filesSome sort of avatar.png"
+	        }
+	    },
+	    {
+	        "name": "Swallow the Moon",
+	        "rarity": "uncommon",
+	        "mana_cost": "{U}",
+	        "type": "Sorcery — Revelation ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-filesSwallow the Moon.png"
+	        }
+	    },
+	    {
+	        "name": "The Red-Eyed Jester",
+	        "rarity": "uncommon",
+	        "mana_cost": "{2}{W}{B}",
+	        "type": "Legendary Creature — Human Assassin ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-filesThe Red-Eyed Jester.png"
+	        }
+	    },
+	    {
+	        "name": "Time Spiraled",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{U}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-filesTime Spiraled.png"
+	        }
+	    },
+	    {
+	        "name": "Trail of Blood",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}",
+	        "type": "Artifact — Clue ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-filesTrail of Blood.png"
+	        }
+	    },
+	    {
+	        "name": "Twilight Witch",
+	        "mana_cost": "{2}{G}{G}",
+	        "type": "Creature — Human Artist ",
+	        "image_uris": {
+	            "en": "Twilight Witch.png"
+	        },
+	        "printed names": {
+	            "en": "Twilight Witch"
+	        },
+	        "back": {
+	            "name": "Saturday Magic",
+	            "printed_names": {
+	                "en": "Saturday Magic"
+	            },
+	            "image_uris": {
+	                "en": "Saturday Magic.png"
+	            },
+	            "type": "Sorcery — Tale "
+	        }
+	    },
+	    {
+	        "name": "Unleash Nemesis Protocols",
+	        "rarity": "uncommon",
+	        "mana_cost": "{B}{B}",
+	        "type": "Instant — Revelation ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-filesUnleash Nemesis Protocols.png"
+	        }
+	    },
+	    {
+	        "name": "UR Support 1",
+	        "mana_cost": "{2}{U}",
+	        "type": "Creature — Human Artificer ",
+	        "image_uris": {
+	            "en": "UR Support 1.png"
+	        },
+	        "printed names": {
+	            "en": "UR Support 1"
+	        },
+	        "back": {
+	            "name": "Tinker Fugue",
+	            "printed_names": {
+	                "en": "Tinker Fugue"
+	            },
+	            "image_uris": {
+	                "en": "Tinker Fugue.png"
+	            },
+	            "type": "Sorcery — Tale "
+	        }
+	    },
+	    {
+	        "name": "Valeria, Yri's Second",
+	        "rarity": "uncommon",
+	        "mana_cost": "{2}{B}",
+	        "type": "Legendary Creature — Human Rogue ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-filesValeria, Yri's Second.png"
+	        }
+	    },
+	    {
+	        "name": "Veteren Bladesinger",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{R}",
+	        "type": "Creature — Human Warrior ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-filesVeteren Bladesinger.png"
+	        }
+	    },
+	    {
+	        "name": "Vielle Singer",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{B}",
+	        "type": "Legendary Creature — Human Assassin ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-filesVielle Singer.png"
+	        }
+	    },
+	    {
+	        "name": "Violence Without Reason",
+	        "rarity": "uncommon",
+	        "mana_cost": "{R}{R}",
+	        "type": "Sorcery — Revelation ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-filesViolence Without Reason.png"
+	        }
+	    },
+	    {
+	        "name": "Voc, Eager Idol",
+	        "mana_cost": "{1}{W}{U}",
+	        "type": "Legendary Creature — Human Artist ",
+	        "image_uris": {
+	            "en": "Voc, Eager Idol.png"
+	        },
+	        "printed names": {
+	            "en": "Voc, Eager Idol"
+	        },
+	        "back": {
+	            "name": "Sing With Me",
+	            "printed_names": {
+	                "en": "Sing With Me"
+	            },
+	            "image_uris": {
+	                "en": "Sing With Me.png"
+	            },
+	            "type": "Sorcery — Tale "
+	        }
+	    },
+	    {
+	        "name": "Warden of the Boundary",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{B}",
+	        "type": "Creature — Horror Cleric ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-filesWarden of the Boundary.png"
+	        }
+	    },
+	    {
+	        "name": "Waywarden of the Flow",
+	        "rarity": "uncommon",
+	        "mana_cost": "{2}{U}",
+	        "type": "Creature — Human Artist ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-filesWaywarden of the Flow.png"
+	        }
+	    },
+	    {
+	        "name": "WB Support 2",
+	        "rarity": "uncommon",
+	        "mana_cost": "{B}",
+	        "type": "Creature — Horror ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-filesWB Support 2.png"
+	        }
+	    },
+	    {
+	        "name": "Welcoming Hostess",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{G}",
+	        "type": "Creature — Human ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-filesWelcoming Hostess.png"
+	        }
+	    },
+	    {
+	        "name": "White Lies",
+	        "rarity": "uncommon",
+	        "mana_cost": "{W}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-filesWhite Lies.png"
+	        }
+	    },
+	    {
+	        "name": "Wield the Strength of Stars",
+	        "rarity": "uncommon",
+	        "mana_cost": "{2}{R}{R}",
+	        "type": "Sorcery — Revelation ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-filesWield the Strength of Stars.png"
+	        }
+	    },
+	    {
+	        "name": "WU Support 2",
+	        "rarity": "uncommon",
+	        "mana_cost": "{4}{U}",
+	        "type": "Creature — Human Artist ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-filesWU Support 2.png"
+	        }
+	    }
+	]
+	[RareSlot(1 
