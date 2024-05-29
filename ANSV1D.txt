@@ -1965,8 +1965,6 @@
 	        }
 	    }
 	]
-	[RareSlot(0)]
-		0 TESTRARE
 	[UncommonSlot(4)]
 		50 Crystal Moon Saloon
 		50 Kaede Bazaar
