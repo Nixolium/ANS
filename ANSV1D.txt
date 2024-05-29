@@ -22,7 +22,7 @@
 	        "mana_cost": "{2}{B}",
 	        "type": "Creature — Horror Angel ",
 	        "image_uris": {
-	            "en": "Abeyant Dreamer.png"
+	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-files/Abeyant Dreamer.png"
 	        },
 	        "printed names": {
 	            "en": "Abeyant Dreamer"
@@ -33,7 +33,7 @@
 	                "en": "Incomplete"
 	            },
 	            "image_uris": {
-	                "en": "Incomplete.png"
+	                "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-files/Incomplete.png"
 	            },
 	            "type": "Sorcery — Tale "
 	        }
@@ -430,7 +430,7 @@
 	        "mana_cost": "{2}{R}",
 	        "type": "Creature — Human Rogue ",
 	        "image_uris": {
-	            "en": "Kaeda Troublemakers.png"
+	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-files/Kaeda Troublemakers.png"
 	        },
 	        "printed names": {
 	            "en": "Kaeda Troublemakers"
@@ -441,7 +441,7 @@
 	                "en": "Oops, Collateral"
 	            },
 	            "image_uris": {
-	                "en": "Oops, Collateral.png"
+	                "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-files/Oops, Collateral.png"
 	            },
 	            "type": "Sorcery — Tale "
 	        }
@@ -460,7 +460,7 @@
 	        "mana_cost": "{4}{W}",
 	        "type": "Creature — Human Artist ",
 	        "image_uris": {
-	            "en": "Lightshow's Ensemble.png"
+	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-files/Lightshow's Ensemble.png"
 	        },
 	        "printed names": {
 	            "en": "Lightshow's Ensemble"
@@ -471,7 +471,7 @@
 	                "en": "Scream Out"
 	            },
 	            "image_uris": {
-	                "en": "Scream Out.png"
+	                "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-files/Scream Out.png"
 	            },
 	            "type": "Sorcery — Tale "
 	        }
@@ -580,7 +580,7 @@
 	        "mana_cost": "{2}{G}",
 	        "type": "Creature — Horror ",
 	        "image_uris": {
-	            "en": "Nowhere Lurkers.png"
+	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-files/Nowhere Lurkers.png"
 	        },
 	        "printed names": {
 	            "en": "Nowhere Lurkers"
@@ -591,7 +591,7 @@
 	                "en": "Escape Eternity"
 	            },
 	            "image_uris": {
-	                "en": "Escape Eternity.png"
+	                "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-files/Escape Eternity.png"
 	            },
 	            "type": "Sorcery — Tale "
 	        }
@@ -853,7 +853,7 @@
 	        "mana_cost": "{U}",
 	        "type": "Creature — Human Scout ",
 	        "image_uris": {
-	            "en": "Traveler at Crossroads.png"
+	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-files/Traveler at Crossroads.png"
 	        },
 	        "printed names": {
 	            "en": "Traveler at Crossroads"
@@ -864,7 +864,7 @@
 	                "en": "New Roads"
 	            },
 	            "image_uris": {
-	                "en": "New Roads.png"
+	                "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-files/New Roads.png"
 	            },
 	            "type": "Sorcery — Tale "
 	        }
@@ -1018,7 +1018,7 @@
 	        "mana_cost": "",
 	        "type": "Land — Station ",
 	        "image_uris": {
-	            "en": "Abandoned Pines Railway.png"
+	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-files/Abandoned Pines Railway.png"
 	        },
 	        "printed names": {
 	            "en": "Abandoned Pines Railway"
@@ -1029,7 +1029,7 @@
 	                "en": "Ticket to Nyano"
 	            },
 	            "image_uris": {
-	                "en": "Ticket to Nyano.png"
+	                "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-files/Ticket to Nyano.png"
 	            },
 	            "type": "Sorcery — Tale "
 	        }
@@ -1039,7 +1039,7 @@
 	        "mana_cost": "",
 	        "type": "Land — Station ",
 	        "image_uris": {
-	            "en": "Azure Sunset Railway.png"
+	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-files/Azure Sunset Railway.png"
 	        },
 	        "printed names": {
 	            "en": "Azure Sunset Railway"
@@ -1050,7 +1050,7 @@
 	                "en": "Ticket to Tsukuri"
 	            },
 	            "image_uris": {
-	                "en": "Ticket to Tsukuri.png"
+	                "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-files/Ticket to Tsukuri.png"
 	            },
 	            "type": "Sorcery — Tale "
 	        }
@@ -1060,7 +1060,7 @@
 	        "mana_cost": "",
 	        "type": "Land — Station ",
 	        "image_uris": {
-	            "en": "BG Station.png"
+	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-files/BG Station.png"
 	        },
 	        "printed names": {
 	            "en": "BG Station"
@@ -1071,7 +1071,7 @@
 	                "en": "Ticket to"
 	            },
 	            "image_uris": {
-	                "en": "Ticket to.png"
+	                "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-files/Ticket to.png"
 	            },
 	            "type": "Sorcery — Tale "
 	        }
@@ -1081,7 +1081,7 @@
 	        "mana_cost": "",
 	        "type": "Land — Station ",
 	        "image_uris": {
-	            "en": "Blade Alley Railway.png"
+	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-files/Blade Alley Railway.png"
 	        },
 	        "printed names": {
 	            "en": "Blade Alley Railway"
@@ -1092,7 +1092,7 @@
 	                "en": "Ticket to Kaede"
 	            },
 	            "image_uris": {
-	                "en": "Ticket to Kaede.png"
+	                "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-files/Ticket to Kaede.png"
 	            },
 	            "type": "Sorcery — Tale "
 	        }
@@ -1111,7 +1111,7 @@
 	        "mana_cost": "",
 	        "type": "Land — Station ",
 	        "image_uris": {
-	            "en": "Evans Company Railway.png"
+	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-files/Evans Company Railway.png"
 	        },
 	        "printed names": {
 	            "en": "Evans Company Railway"
@@ -1122,7 +1122,7 @@
 	                "en": "Ticket to Satsukai"
 	            },
 	            "image_uris": {
-	                "en": "Ticket to Satsukai.png"
+	                "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-files/Ticket to Satsukai.png"
 	            },
 	            "type": "Sorcery — Tale "
 	        }
@@ -1132,7 +1132,7 @@
 	        "mana_cost": "",
 	        "type": "Land — Station ",
 	        "image_uris": {
-	            "en": "GU Station.png"
+	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-files/GU Station.png"
 	        },
 	        "printed names": {
 	            "en": "GU Station"
@@ -1143,7 +1143,7 @@
 	                "en": "Ticket to"
 	            },
 	            "image_uris": {
-	                "en": "Ticket to.png"
+	                "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-files/Ticket to.png"
 	            },
 	            "type": "Sorcery — Tale "
 	        }
@@ -1153,7 +1153,7 @@
 	        "mana_cost": "",
 	        "type": "Land — Station ",
 	        "image_uris": {
-	            "en": "RW Station.png"
+	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-files/RW Station.png"
 	        },
 	        "printed names": {
 	            "en": "RW Station"
@@ -1164,7 +1164,7 @@
 	                "en": "Ticket to"
 	            },
 	            "image_uris": {
-	                "en": "Ticket to.png"
+	                "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-files/Ticket to.png"
 	            },
 	            "type": "Sorcery — Tale "
 	        }
@@ -1174,7 +1174,7 @@
 	        "mana_cost": "",
 	        "type": "Land — Station ",
 	        "image_uris": {
-	            "en": "Spirit-East Railway.png"
+	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-files/Spirit-East Railway.png"
 	        },
 	        "printed names": {
 	            "en": "Spirit-East Railway"
@@ -1185,7 +1185,7 @@
 	                "en": "Ticket to Miseiko"
 	            },
 	            "image_uris": {
-	                "en": "Ticket to Miseiko.png"
+	                "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-files/Ticket to Miseiko.png"
 	            },
 	            "type": "Sorcery — Tale "
 	        }
@@ -1204,7 +1204,7 @@
 	        "mana_cost": "",
 	        "type": "Land — Station ",
 	        "image_uris": {
-	            "en": "UR Station.png"
+	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-files/UR Station.png"
 	        },
 	        "printed names": {
 	            "en": "UR Station"
@@ -1215,7 +1215,7 @@
 	                "en": "Ticket to"
 	            },
 	            "image_uris": {
-	                "en": "Ticket to.png"
+	                "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-files/Ticket to.png"
 	            },
 	            "type": "Sorcery — Tale "
 	        }
@@ -1243,7 +1243,7 @@
 	        "mana_cost": "",
 	        "type": "Land — Station ",
 	        "image_uris": {
-	            "en": "WU Station.png"
+	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-files/WU Station.png"
 	        },
 	        "printed names": {
 	            "en": "WU Station"
@@ -1254,7 +1254,7 @@
 	                "en": "Ticket to"
 	            },
 	            "image_uris": {
-	                "en": "Ticket to.png"
+	                "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-files/Ticket to.png"
 	            },
 	            "type": "Sorcery — Tale "
 	        }
@@ -1363,7 +1363,7 @@
 	        "mana_cost": "{W}",
 	        "type": "Creature — Human Scout ",
 	        "image_uris": {
-	            "en": "Browsing Customer.png"
+	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-files/Browsing Customer.png"
 	        },
 	        "printed names": {
 	            "en": "Browsing Customer"
@@ -1374,7 +1374,7 @@
 	                "en": "A New Read"
 	            },
 	            "image_uris": {
-	                "en": "A New Read.png"
+	                "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-files/A New Read.png"
 	            },
 	            "type": "Sorcery — Tale "
 	        }
@@ -1393,7 +1393,7 @@
 	        "mana_cost": "{1}{U}",
 	        "type": "Creature — Human Rogue ",
 	        "image_uris": {
-	            "en": "Censored Speaker.png"
+	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-files/Censored Speaker.png"
 	        },
 	        "printed names": {
 	            "en": "Censored Speaker"
@@ -1404,7 +1404,7 @@
 	                "en": "Say the Word"
 	            },
 	            "image_uris": {
-	                "en": "Say the Word.png"
+	                "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-files/Say the Word.png"
 	            },
 	            "type": "Sorcery — Tale "
 	        }
@@ -1585,7 +1585,7 @@
 	        "mana_cost": "{1}{U}{B}",
 	        "type": "Legendary Creature — Horror Artist ",
 	        "image_uris": {
-	            "en": "Kura of Dead Hours.png"
+	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-files/Kura of Dead Hours.png"
 	        },
 	        "printed names": {
 	            "en": "Kura of Dead Hours"
@@ -1596,7 +1596,7 @@
 	                "en": "Follow the Trail"
 	            },
 	            "image_uris": {
-	                "en": "Follow the Trail.png"
+	                "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-files/Follow the Trail.png"
 	            },
 	            "type": "Instant — Tale "
 	        }
@@ -1642,7 +1642,7 @@
 	        "mana_cost": "{1}{W}",
 	        "type": "Creature — Human Artist ",
 	        "image_uris": {
-	            "en": "Parasol Bearer.png"
+	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-files/Parasol Bearer.png"
 	        },
 	        "printed names": {
 	            "en": "Parasol Bearer"
@@ -1653,7 +1653,7 @@
 	                "en": "Rain or Shine"
 	            },
 	            "image_uris": {
-	                "en": "Rain or Shine.png"
+	                "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-files/Rain or Shine.png"
 	            },
 	            "type": "Instant — Tale "
 	        }
@@ -1789,7 +1789,7 @@
 	        "mana_cost": "{2}{G}{G}",
 	        "type": "Creature — Human Artist ",
 	        "image_uris": {
-	            "en": "Twilight Witch.png"
+	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-files/Twilight Witch.png"
 	        },
 	        "printed names": {
 	            "en": "Twilight Witch"
@@ -1800,7 +1800,7 @@
 	                "en": "Saturday Magic"
 	            },
 	            "image_uris": {
-	                "en": "Saturday Magic.png"
+	                "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-files/Saturday Magic.png"
 	            },
 	            "type": "Sorcery — Tale "
 	        }
@@ -1819,7 +1819,7 @@
 	        "mana_cost": "{2}{U}",
 	        "type": "Creature — Human Artificer ",
 	        "image_uris": {
-	            "en": "UR Support 1.png"
+	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-files/UR Support 1.png"
 	        },
 	        "printed names": {
 	            "en": "UR Support 1"
@@ -1830,7 +1830,7 @@
 	                "en": "Tinker Fugue"
 	            },
 	            "image_uris": {
-	                "en": "Tinker Fugue.png"
+	                "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-files/Tinker Fugue.png"
 	            },
 	            "type": "Sorcery — Tale "
 	        }
@@ -1876,7 +1876,7 @@
 	        "mana_cost": "{1}{W}{U}",
 	        "type": "Legendary Creature — Human Artist ",
 	        "image_uris": {
-	            "en": "Voc, Eager Idol.png"
+	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-files/Voc, Eager Idol.png"
 	        },
 	        "printed names": {
 	            "en": "Voc, Eager Idol"
@@ -1887,7 +1887,7 @@
 	                "en": "Sing With Me"
 	            },
 	            "image_uris": {
-	                "en": "Sing With Me.png"
+	                "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-files/Sing With Me.png"
 	            },
 	            "type": "Sorcery — Tale "
 	        }
@@ -1965,6 +1965,8 @@
 	        }
 	    }
 	]
+	[RareSlot(0)]
+		0 TESTRARE
 	[UncommonSlot(4)]
 		50 Crystal Moon Saloon
 		50 Kaede Bazaar
