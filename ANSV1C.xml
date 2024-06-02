@@ -3207,19 +3207,6 @@ Exile Ezren Challenges the Elders.</text>
       <text>Your life total becomes 10. The next time a creature would enter the battlefield under your control this turn, it enters with +1/+1 counters on it equal to the amount of life gained this way.</text>
     </card>
     <card>
-      <name>Waiting for You</name>
-      <set rarity="rare">ANS</set>
-      <prop>
-        <colors>R</colors>
-        <manacost>R</manacost>
-        <cmc>1</cmc>
-        <type>Sorcery</type>
-        <maintype>Sorcery</maintype>
-      </prop>
-      <tablerow>3</tablerow>
-      <text>Exile the top three cards of your library. Until end of turn, you may play one of those cards.</text>
-    </card>
-    <card>
       <name>Murder Your Gods</name>
       <set rarity="rare">ANS</set>
       <prop>
