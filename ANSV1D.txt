@@ -1954,10 +1954,489 @@
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-files/Trail of Blood.png"
 	        }
+	    },
+	    {
+	        "name": "Blasphemous Displacer",
+	        "rarity": "rare",
+	        "mana_cost": "{2}{U}",
+	        "type": "Creature — Angel Horror ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-files/Blasphemous Displacer.png"
+	        }
+	    },
+	    {
+	        "name": "Enigmatic Myth",
+	        "rarity": "rare",
+	        "mana_cost": "{2}{G}{G}{G}",
+	        "type": "Creature — Elemental Demigod ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-files/Enigmatic Myth.png"
+	        }
+	    },
+	    {
+	        "name": "Vengeant Administrator",
+	        "rarity": "rare",
+	        "mana_cost": "{1}{R}{R}",
+	        "type": "Creature — Horror Advisor ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-files/Vengeant Administrator.png"
+	        }
+	    },
+	    {
+	        "name": "Idol of the Schism",
+	        "rarity": "rare",
+	        "mana_cost": "{2}{U}",
+	        "type": "Creature — Human Artist ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-files/Idol of the Schism.png"
+	        }
+	    },
+	    {
+	        "name": "Mistendawn Resplendant",
+	        "rarity": "rare",
+	        "mana_cost": "{1}{G}",
+	        "type": "Creature — Human Artist ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-files/Mistendawn Resplendant.png"
+	        }
+	    },
+	    {
+	        "name": "Starflame Songstress",
+	        "rarity": "rare",
+	        "mana_cost": "{R}{R}{R}",
+	        "type": "Creature — Human Artist ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-files/Starflame Songstress.png"
+	        }
+	    },
+	    {
+	        "name": "Social Executioner",
+	        "rarity": "rare",
+	        "mana_cost": "{2}{G}{G}",
+	        "type": "Creature — Human Assassin Artist ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-files/Social Executioner.png"
+	        }
+	    },
+	    {
+	        "name": "Digital Champion",
+	        "rarity": "rare",
+	        "mana_cost": "{U}",
+	        "type": "Creature — Human Gamer ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-files/Digital Champion.png"
+	        }
+	    },
+	    {
+	        "name": "Kura of the Zombie Network",
+	        "rarity": "rare",
+	        "mana_cost": "{2}{B}{B}",
+	        "type": "Creature — Human Horror Artist ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-files/Kura of the Zombie Network.png"
+	        }
+	    },
+	    {
+	        "name": "Crafters of Fantasy",
+	        "rarity": "rare",
+	        "mana_cost": "{2}{W}",
+	        "type": "Creature — Human Knight Rogue Wizard ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-files/Crafters of Fantasy.png"
+	        }
+	    },
+	    {
+	        "name": "Auspicious Traveller",
+	        "rarity": "rare",
+	        "mana_cost": "{1}{W}",
+	        "type": "Creature — Human Scout ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-files/Auspicious Traveller.png"
+	        }
+	    },
+	    {
+	        "name": "Children of the Lanterns",
+	        "rarity": "rare",
+	        "mana_cost": "{3}{R}{R}",
+	        "type": "Creature — Human Spirit ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-files/Children of the Lanterns.png"
+	        }
+	    },
+	    {
+	        "name": "Blade Alley Peacekeeper",
+	        "rarity": "rare",
+	        "mana_cost": "{1}{W}",
+	        "type": "Creature — Human Wizard ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-files/Blade Alley Peacekeeper.png"
+	        }
+	    },
+	    {
+	        "name": "Apeiron",
+	        "rarity": "mythic",
+	        "mana_cost": "{W}{W}{W}",
+	        "type": "Enchantment",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-files/Apeiron.png"
+	        }
+	    },
+	    {
+	        "name": "Barhopping in Miseko",
+	        "rarity": "rare",
+	        "mana_cost": "{2}{W}",
+	        "type": "Enchantment",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-files/Barhopping in Miseko.png"
+	        }
+	    },
+	    {
+	        "name": "Blackout Zone",
+	        "rarity": "rare",
+	        "mana_cost": "{B}{B}",
+	        "type": "Enchantment",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-files/Blackout Zone.png"
+	        }
+	    },
+	    {
+	        "name": "Divinity Burn",
+	        "rarity": "mythic",
+	        "mana_cost": "{R}{R}{R}",
+	        "type": "Enchantment",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-files/Divinity Burn.png"
+	        }
+	    },
+	    {
+	        "name": "Katalepsis",
+	        "rarity": "mythic",
+	        "mana_cost": "{U}{U}{U}",
+	        "type": "Enchantment",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-files/Katalepsis.png"
+	        }
+	    },
+	    {
+	        "name": "Live Large",
+	        "rarity": "rare",
+	        "mana_cost": "{1}{G}",
+	        "type": "Enchantment",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-files/Live Large.png"
+	        }
+	    },
+	    {
+	        "name": "Lucid Nightmares",
+	        "rarity": "rare",
+	        "mana_cost": "{1}{U}",
+	        "type": "Enchantment",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-files/Lucid Nightmares.png"
+	        }
+	    },
+	    {
+	        "name": "Necroelysia",
+	        "rarity": "mythic",
+	        "mana_cost": "{B}{B}{B}",
+	        "type": "Enchantment",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-files/Necroelysia.png"
+	        }
+	    },
+	    {
+	        "name": "Planescupt",
+	        "rarity": "rare",
+	        "mana_cost": "{G}{G}{G}",
+	        "type": "Enchantment",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-files/Planescupt.png"
+	        }
+	    },
+	    {
+	        "name": "Tired and Can't Sleep",
+	        "rarity": "rare",
+	        "mana_cost": "{U}",
+	        "type": "Enchantment",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-files/Tired and Can't Sleep.png"
+	        }
+	    },
+	    {
+	        "name": "Ambiance Flood",
+	        "rarity": "rare",
+	        "mana_cost": "{5}{U}{U}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-files/Ambiance Flood.png"
+	        }
+	    },
+	    {
+	        "name": "Nonchalance",
+	        "rarity": "rare",
+	        "mana_cost": "{2}{R}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-files/Nonchalance.png"
+	        }
+	    },
+	    {
+	        "name": "Lost in Translation",
+	        "rarity": "rare",
+	        "mana_cost": "{1}{U}",
+	        "type": "Instant — Revelation ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-files/Lost in Translation.png"
+	        }
+	    },
+	    {
+	        "name": "Aethion, the Suncaster",
+	        "rarity": "mythic",
+	        "mana_cost": "{R}{W}",
+	        "type": "Legendary Artifact",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-files/Aethion, the Suncaster.png"
+	        }
+	    },
+	    {
+	        "name": "Harbinger V",
+	        "rarity": "rare",
+	        "mana_cost": "{1}{G}",
+	        "type": "Legendary Artifact — Vehicle Shaman ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-files/Harbinger V.png"
+	        }
+	    },
+	    {
+	        "name": "Equiel, the Preserver",
+	        "rarity": "mythic",
+	        "mana_cost": "{4}{G}{W}{U}",
+	        "type": "Legendary Creature — Angel Demigod ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-files/Equiel, the Preserver.png"
+	        }
+	    },
+	    {
+	        "name": "Fractia, Angel of None",
+	        "rarity": "rare",
+	        "mana_cost": "{2}{B}{B}",
+	        "type": "Legendary Creature — Angel Reflection ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-files/Fractia, Angel of None.png"
+	        }
+	    },
+	    {
+	        "name": "Isolani, the One and Only",
+	        "rarity": "mythic",
+	        "mana_cost": "{13}",
+	        "type": "Legendary Creature — Elder God Reflection ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-files/Isolani, the One and Only.png"
+	        }
+	    },
+	    {
+	        "name": "Kalista, Gilded Mixologist",
+	        "rarity": "rare",
+	        "mana_cost": "{1}{W}",
+	        "type": "Legendary Creature — Human Advisor ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-files/Kalista, Gilded Mixologist.png"
+	        }
+	    },
+	    {
+	        "name": "Kyv, Blood-Red Night",
+	        "rarity": "rare",
+	        "mana_cost": "{B}{R}",
+	        "type": "Legendary Creature — Human Cleric ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-files/Kyv, Blood-Red Night.png"
+	        }
+	    },
+	    {
+	        "name": "Ezren, Steelwing Ascendant",
+	        "rarity": "rare",
+	        "mana_cost": "{U}{R}{W}",
+	        "type": "Legendary Creature — Human Pilot ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-files/Ezren, Steelwing Ascendant.png"
+	        }
+	    },
+	    {
+	        "name": "Yri, Who Rejects Victory",
+	        "rarity": "rare",
+	        "mana_cost": "{1}{B}",
+	        "type": "Legendary Creature — Human Rogue ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-files/Yri, Who Rejects Victory.png"
+	        }
+	    },
+	    {
+	        "name": "Alicia, the Final Dawn",
+	        "rarity": "rare",
+	        "mana_cost": "{3}{R}",
+	        "type": "Legendary Creature — Human Wizard ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-files/Alicia, the Final Dawn.png"
+	        }
+	    },
+	    {
+	        "name": "Emeria, Once Lost",
+	        "rarity": "mythic",
+	        "mana_cost": "{2}{W}{W}",
+	        "type": "Legendary Planeswalker — Emeria ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-files/Emeria, Once Lost.png"
+	        }
+	    },
+	    {
+	        "name": "Aekyu Never Sleeps",
+	        "rarity": "rare",
+	        "mana_cost": "{1}{W}{U}{B}{R}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-files/Aekyu Never Sleeps.png"
+	        }
+	    },
+	    {
+	        "name": "Backstreets of Kaeda",
+	        "rarity": "rare",
+	        "mana_cost": "{1}{B}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-files/Backstreets of Kaeda.png"
+	        }
+	    },
+	    {
+	        "name": "Ezren Challenges the Elders",
+	        "rarity": "rare",
+	        "mana_cost": "{5}{U}{R}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-files/Ezren Challenges the Elders.png"
+	        }
+	    },
+	    {
+	        "name": "Here Without You",
+	        "rarity": "rare",
+	        "mana_cost": "{1}{B}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-files/Here Without You.png"
+	        }
+	    },
+	    {
+	        "name": "Isolani's Will",
+	        "rarity": "rare",
+	        "mana_cost": "{W}{B}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-files/Isolani's Will.png"
+	        }
+	    },
+	    {
+	        "name": "Waiting for You",
+	        "rarity": "rare",
+	        "mana_cost": "{R}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-files/Waiting for You.png"
+	        }
+	    },
+	    {
+	        "name": "Murder Your Gods",
+	        "rarity": "rare",
+	        "mana_cost": "{2}{R}{R}{R}",
+	        "type": "Sorcery — Revelation ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-files/Murder Your Gods.png"
+	        }
+	    },
+	    {
+	        "name": "Science Gone Too Far",
+	        "rarity": "rare",
+	        "mana_cost": "{X}{G}",
+	        "type": "Sorcery — Revelation ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-files/Science Gone Too Far.png"
+	        }
+	    },
+	    {
+	        "name": "Such Lovely Screams",
+	        "rarity": "rare",
+	        "mana_cost": "{4}{B}{B}",
+	        "type": "Sorcery — Revelation ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-files/Such Lovely Screams.png"
+	        }
+	    },
+	    {
+	        "name": "This Empty World",
+	        "rarity": "rare",
+	        "mana_cost": "{W}",
+	        "type": "Sorcery — Revelation ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-files/This Empty World.png"
+	        }
+	    },
+	    {
+	        "name": "Aksin, the Hero",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "Token Legendary Creature — Human ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-files/Aksin, the Hero.png"
+	        }
 	    }
 	]
-	[RareSlot(0)]
-	[UncommonSlot(4)]
+	[RareSlot(1)]
+		10 Blasphemous Displacer
+		10 Enigmatic Myth
+		10 Vengeant Administrator
+		10 Idol of the Schism
+		10 Mistendawn Resplendant
+		10 Starflame Songstress
+		10 Social Executioner
+		10 Digital Champion
+		10 Kura of the Zombie Network
+		10 Crafters of Fantasy
+		10 Auspicious Traveller
+		10 Children of the Lanterns
+		10 Blade Alley Peacekeeper
+		10 Barhopping in Miseko
+		10 Blackout Zone
+		10 Live Large
+		10 Lucid Nightmares
+		10 Planescupt
+		10 Tired and Can't Sleep
+		10 Ambiance Flood
+		10 Nonchalance
+		10 Lost in Translation
+		10 Harbinger V
+		10 Fractia, Angel of None
+		10 Kalista, Gilded Mixologist
+		10 Kyv, Blood-Red Night
+		10 Ezren, Steelwing Ascendant
+		10 Yri, Who Rejects Victory
+		10 Alicia, the Final Dawn
+		10 Aekyu Never Sleeps
+		10 Backstreets of Kaeda
+		10 Ezren Challenges the Elders
+		10 Here Without You
+		10 Isolani's Will
+		10 Waiting for You
+		10 Murder Your Gods
+		10 Science Gone Too Far
+		10 Such Lovely Screams
+		10 This Empty World
+		0 Apeiron
+		0 Divinity Burn
+		0 Katalepsis
+		0 Necroelysia
+		0 Aethion, the Suncaster
+		0 Equiel, the Preserver
+		0 Isolani, the One and Only
+		0 Emeria, Once Lost
+	[UncommonSlot(3)]
 		50 Crystal Moon Saloon
 		50 Kaede Bazaar
 		50 Rustic Spirits Tavern

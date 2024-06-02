@@ -2715,6 +2715,570 @@ Create two 1/1 white Human creature tokens. You gain 2 life.</text>
       <text>Whenever you sacrifice Trail of Blood or another Clue, surveil 1.
 {2}, Sacrifice Trail of Blood: Draw a card. Add one mana of any color.</text>
     </card>
+    <card>
+      <name>Blasphemous Displacer</name>
+      <set rarity="rare">ANS</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>2U</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Angel Horror </type>
+        <maintype>Creature</maintype>
+        <pt>2/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying
+Whenever Blasphemous Displacer deals combat damage, exile up to that many permanents you control without flying, then return them to the battlefield with a flying counter.</text>
+    </card>
+    <card>
+      <name>Enigmatic Myth</name>
+      <set rarity="rare">ANS</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>2GGG</manacost>
+        <cmc>5</cmc>
+        <type>Creature - Elemental Demigod </type>
+        <maintype>Creature</maintype>
+        <pt>6/6</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Enigmatic Myth can’t be blocked by creatures with power 2 or less.
+When Enigmatic Myth dies, create a green enchantment token named “Aekyu’s Blessing” with “At the beginning of your upkeep, create a 1/1 white Human creature token.”</text>
+    </card>
+    <card>
+      <name>Vengeant Administrator</name>
+      <set rarity="rare">ANS</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>1RR</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Horror Advisor </type>
+        <maintype>Creature</maintype>
+        <pt>3/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Menace
+When Vengeant Administrator enters, gain control of up to one target nonland permanent with mana value 2 or less until end of turn unless its controller sacrifices it. Untap it. It gains haste until end of turn.</text>
+    </card>
+    <card>
+      <name>Idol of the Schism</name>
+      <set rarity="rare">ANS</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>2U</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Human Artist </type>
+        <maintype>Creature</maintype>
+        <pt>2/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Ward {1}
+Whenever Idol of the Schism attacks a player with the most cards in hand, draw a card.
+Whenever Idol of the Schism attacks while you have the most cards in hand, create a Treasure token.</text>
+    </card>
+    <card>
+      <name>Mistendawn Resplendant</name>
+      <set rarity="rare">ANS</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>1G</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Human Artist </type>
+        <maintype>Creature</maintype>
+        <pt>3/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flash
+Whenever an opponent searches their library, create two 1/1 white Human creature tokens.</text>
+    </card>
+    <card>
+      <name>Starflame Songstress</name>
+      <set rarity="rare">ANS</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>RRR</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Human Artist </type>
+        <maintype>Creature</maintype>
+        <pt>3/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>First strike
+Whenever Starflame Songstress deals damage, add that much red mana, then put a +1/+1 counter on it.</text>
+    </card>
+    <card>
+      <name>Social Executioner</name>
+      <set rarity="rare">ANS</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>2GG</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Human Assassin Artist </type>
+        <maintype>Creature</maintype>
+        <pt>5/5</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Trample, ward {2}
+At the beginning of your end step, any player may create a 1/1 white Human creature token.
+Whenever you attack, Artists you control get +1/+1 for each Human the defending player controls.</text>
+    </card>
+    <card>
+      <name>Digital Champion</name>
+      <set rarity="rare">ANS</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>U</manacost>
+        <cmc>1</cmc>
+        <type>Creature - Human Gamer </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Ward {2}
+Digital Champion can only attack or block alone.
+Wayward — Whenever you cast a spell from outside your hand, put a +1/+1 counter on Digital Champion.</text>
+    </card>
+    <card>
+      <name>Kura of the Zombie Network</name>
+      <set rarity="rare">ANS</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>2BB</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Human Horror Artist </type>
+        <maintype>Creature</maintype>
+        <pt>5/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever a nontoken creature dies, you may pay its mana cost. If you do, create a token that’s a copy of it except its a 2/2 black Skeleton artifact creature. (It loses all other colors and types.)</text>
+    </card>
+    <card>
+      <name>Crafters of Fantasy</name>
+      <set rarity="rare">ANS</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>2W</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Human Knight Rogue Wizard </type>
+        <maintype>Creature</maintype>
+        <pt>3/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Players can’t cast noncreature spells unless they control a legendary creature or planeswalker.
+{2}: Create a 3/2 white legendary Human creature token named “Aksin, the Hero.” Any player may activate this ability as a sorcery.</text>
+    </card>
+    <card>
+      <name>Auspicious Traveller</name>
+      <set rarity="rare">ANS</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>1W</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Human Scout </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Auspicious Traveller enters, exile up to one target nonland permanent with mana value less than or equal to the number of Humans you control.</text>
+    </card>
+    <card>
+      <name>Children of the Lanterns</name>
+      <set rarity="rare">ANS</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>3RR</manacost>
+        <cmc>5</cmc>
+        <type>Creature - Human Spirit </type>
+        <maintype>Creature</maintype>
+        <pt>3/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Children of the Lanterns enters, it deals 3 damage to any target.
+Whenever Children of the Lanterns deals excess damage to a permanent, exile that many cards from the top of your library. You may play those cards until the end of your next turn.</text>
+    </card>
+    <card>
+      <name>Blade Alley Peacekeeper</name>
+      <set rarity="rare">ANS</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>1W</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Human Wizard </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever you or a permanent you control becomes the target of a spell or ability an opponent controls, exile it unless its controller pays {1}.</text>
+    </card>
+    <card>
+      <name>Barhopping in Miseko</name>
+      <set rarity="rare">ANS</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>2W</manacost>
+        <cmc>3</cmc>
+        <type>Enchantment</type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>When Barhopping in Miseko enters, target opponent draws up to four cards. Then you draw up to four cards.
+Spells players with the most cards in hand cast cost {1} more to cast.</text>
+    </card>
+    <card>
+      <name>Blackout Zone</name>
+      <set rarity="rare">ANS</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>BB</manacost>
+        <cmc>2</cmc>
+        <type>Enchantment</type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Once each turn, when you sacrifice a creature, add BB.
+Once each turn, when you sacrifice a noncreature permanent, create a 1/1 white Human creature token.</text>
+    </card>
+    <card>
+      <name>Live Large</name>
+      <set rarity="rare">ANS</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>1G</manacost>
+        <cmc>2</cmc>
+        <type>Enchantment</type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Flash
+Whenever a creature would enter the battlefield under an opponent’s control, you may cast a creature spell with greater power from your hand. It costs {2} less to cast this way.</text>
+    </card>
+    <card>
+      <name>Lucid Nightmares</name>
+      <set rarity="rare">ANS</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>1U</manacost>
+        <cmc>2</cmc>
+        <type>Enchantment</type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Whenever you spend 5 or more mana to cast a spell, cache. (Create a Clue or Treasure token.)
+Each sorcery card in your graveyard has coalesce as 4/4. Its coalesce cost is its mana cost plus {4}.</text>
+    </card>
+    <card>
+      <name>Planescupt</name>
+      <set rarity="rare">ANS</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>GGG</manacost>
+        <cmc>3</cmc>
+        <type>Enchantment</type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Whenever a land enters the battlefield under your control, put a lore counter on Planescupt.
+At the beginning of your upkeep, you may put a permanent card with mana value less than or equal to the number of lore counters on Planescupt from your hand onto the battlefield.</text>
+    </card>
+    <card>
+      <name>Tired and Can&apos;t Sleep</name>
+      <set rarity="rare">ANS</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>U</manacost>
+        <cmc>1</cmc>
+        <type>Enchantment</type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>At the beginning of your post-combat main phase, take an additional end step after this step.</text>
+    </card>
+    <card>
+      <name>Ambiance Flood</name>
+      <set rarity="rare">ANS</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>5UU</manacost>
+        <cmc>7</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>This spell costs {1} less to cast for each token you control.
+Each player chooses up to six lands they control. Return each other nontoken permanents to its owner’s hand.</text>
+    </card>
+    <card>
+      <name>Nonchalance</name>
+      <set rarity="rare">ANS</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>2R</manacost>
+        <cmc>3</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Surveil 3, then exile the top card of your library face down. As long as its exiled, you may cast it as though it had flash. If it has mana value 3 or less, you may cast it this way without paying its mana cost.</text>
+    </card>
+    <card>
+      <name>Lost in Translation</name>
+      <set rarity="rare">ANS</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>1U</manacost>
+        <cmc>2</cmc>
+        <type>Instant - Revelation </type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Each number and amount of target instant or sorcery spell, activated nonland ability, or triggered ability you don’t control becomes 0. Its controller may choose new targets for it. (Amounts are number words, X values, and “a” or “an” used as 1.)
+Coalesce 5UU
+Lost in Translation can’t block.</text>
+    </card>
+    <card>
+      <name>Harbinger V</name>
+      <set rarity="rare">ANS</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>1G</manacost>
+        <cmc>2</cmc>
+        <type>Legendary Artifact - Vehicle Shaman </type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Whenever Harbinger V enters or attacks, draw a card. You may play an additional land this turn.
+Crew 5</text>
+    </card>
+    <card>
+      <name>Fractia, Angel of None</name>
+      <set rarity="rare">ANS</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>2BB</manacost>
+        <cmc>4</cmc>
+        <type>Legendary Creature - Angel Reflection </type>
+        <maintype>Creature</maintype>
+        <pt>4/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying, first strike, lifelink
+When you sacrifice Fractia, Angel of None, add BBBB.</text>
+    </card>
+    <card>
+      <name>Kalista, Gilded Mixologist</name>
+      <set rarity="rare">ANS</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>1W</manacost>
+        <cmc>2</cmc>
+        <type>Legendary Creature - Human Advisor </type>
+        <maintype>Creature</maintype>
+        <pt>1/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Permanent spells opponents cast enter the battlefield under your control. When it does, its owner gains control of it.
+You can’t sacrifice permanents.</text>
+    </card>
+    <card>
+      <name>Kyv, Blood-Red Night</name>
+      <set rarity="rare">ANS</set>
+      <prop>
+        <colors>BR</colors>
+        <manacost>BR</manacost>
+        <cmc>2</cmc>
+        <type>Legendary Creature - Human Cleric </type>
+        <maintype>Creature</maintype>
+        <pt>2/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Deathtouch, haste
+Whenever you lose life, put a -1/-1 counter on Kyv, Blood-Red Night.
+{T}: Move a counter on Kyv to another target creature.</text>
+    </card>
+    <card>
+      <name>Ezren, Steelwing Ascendant</name>
+      <set rarity="rare">ANS</set>
+      <prop>
+        <colors>WUR</colors>
+        <manacost>URW</manacost>
+        <cmc>3</cmc>
+        <type>Legendary Creature - Human Pilot </type>
+        <maintype>Creature</maintype>
+        <pt>3/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying, lifelink, haste
+When Ezren enters, you may have her deal 3 damage to any target. If you do, tap Ezren and put two stun counters on her.</text>
+    </card>
+    <card>
+      <name>Yri, Who Rejects Victory</name>
+      <set rarity="rare">ANS</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>1B</manacost>
+        <cmc>2</cmc>
+        <type>Legendary Creature - Human Rogue </type>
+        <maintype>Creature</maintype>
+        <pt>2/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever exactly two creatures you control attack, choose a black instant or sorcery spell you own from outside the game with mana value 1. You may cast it without paying its mana cost.</text>
+    </card>
+    <card>
+      <name>Alicia, the Final Dawn</name>
+      <set rarity="rare">ANS</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>3R</manacost>
+        <cmc>4</cmc>
+        <type>Legendary Creature - Human Wizard </type>
+        <maintype>Creature</maintype>
+        <pt>3/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>First strike
+Whenever Alicia enters or attacks, put an ignite counter on target permanent. As long as that permanent has an ignite counter, it has “At the beginning of your upkeep, this deals 2 damage to you, then you may sacrifice it.”</text>
+    </card>
+    <card>
+      <name>Aekyu Never Sleeps</name>
+      <set rarity="rare">ANS</set>
+      <prop>
+        <colors>WUBR</colors>
+        <manacost>1WUBR</manacost>
+        <cmc>5</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>This spell can’t be countered.
+Exile all spells, nonland permanents, graveyards, and the top twenty cards of each library face down. (Exile Aekyu Never Sleeps if it’s a spell.)</text>
+    </card>
+    <card>
+      <name>Backstreets of Kaeda</name>
+      <set rarity="rare">ANS</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>1B</manacost>
+        <cmc>2</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Search your library for a card with an activated ability that costs life, reveal it, and put it into your hand, then shuffle. (An ability costs life if it requires a player to pay life.)</text>
+    </card>
+    <card>
+      <name>Ezren Challenges the Elders</name>
+      <set rarity="rare">ANS</set>
+      <prop>
+        <colors>UR</colors>
+        <manacost>5UR</manacost>
+        <cmc>7</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Take an extra turn after this one. At the beginning of that turn’s upkeep, exile your hand and the top seven cards of your library. You may play those cards that turn.
+Exile Ezren Challenges the Elders.</text>
+    </card>
+    <card>
+      <name>Here Without You</name>
+      <set rarity="rare">ANS</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>1B</manacost>
+        <cmc>2</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Target opponent may pay 2 life. If they do, draw two cards. Otherwise, create a 4/4 black Horror creature token.</text>
+    </card>
+    <card>
+      <name>Isolani&apos;s Will</name>
+      <set rarity="rare">ANS</set>
+      <prop>
+        <colors>WB</colors>
+        <manacost>WB</manacost>
+        <cmc>2</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Your life total becomes 10. The next time a creature would enter the battlefield under your control this turn, it enters with +1/+1 counters on it equal to the amount of life gained this way.</text>
+    </card>
+    <card>
+      <name>Waiting for You</name>
+      <set rarity="rare">ANS</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>R</manacost>
+        <cmc>1</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Exile the top three cards of your library. Until end of turn, you may play one of those cards.</text>
+    </card>
+    <card>
+      <name>Murder Your Gods</name>
+      <set rarity="rare">ANS</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>2RRR</manacost>
+        <cmc>5</cmc>
+        <type>Sorcery - Revelation </type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Target opponent separates all permanents they control into two piles. Choose one of the piles for them to sacrifice.
+Coalesce 9RRRR
+At the beginning of your upkeep, create a copy of Murder Your Gods. You may cast the copy. (You still pay its costs.)</text>
+    </card>
+    <card>
+      <name>Science Gone Too Far</name>
+      <set rarity="rare">ANS</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>XG</manacost>
+        <cmc>1</cmc>
+        <type>Sorcery - Revelation </type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Put X +1/+1 counters and a trample counter on target creature you control.
+Coalesce—1GG, Remove X counters from target permanent you control.
+{T}: Double the number of counters of each kind on target creature.</text>
+    </card>
+    <card>
+      <name>Such Lovely Screams</name>
+      <set rarity="rare">ANS</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>4BB</manacost>
+        <cmc>6</cmc>
+        <type>Sorcery - Revelation </type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>If an opponent would lose life this turn, they lose twice that much life instead. (Damage causes loss of life.)
+Coalesce—Sacrifice three creatures
+When Such Lovely Screams enters the battlefield, each opponent loses 2 life.</text>
+    </card>
+    <card>
+      <name>This Empty World</name>
+      <set rarity="rare">ANS</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>W</manacost>
+        <cmc>1</cmc>
+        <type>Sorcery - Revelation </type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Your life total becomes 1. Until end of turn, your life total can’t change. (You can’t gain, lose, or pay life.)
+Coalesce 5WWW
+Your life total can’t change.</text>
+    </card>
 
     <!-->Tokens</-->
 
@@ -2728,6 +3292,19 @@ Create two 1/1 white Human creature tokens. You gain 2 life.</text>
       </prop>
       <tablerow>0</tablerow>
       <text>{T}: Add {C}.</text>
+      <token>1</token>
+    </card>
+    <card>
+      <name>Aksin, the Hero</name>
+      <set>ANS</set>
+      <prop>
+        <colors>W</colors>
+        <type>Token Legendary Creature - Human </type>
+        <maintype>Creature</maintype>
+        <pt>3/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text></text>
       <token>1</token>
     </card>
 
