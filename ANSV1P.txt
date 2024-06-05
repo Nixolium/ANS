@@ -1,0 +1,5293 @@
+Aekyu Never Repents
+1.0
+
+normal
+102/230
+3
+uncommon
+A Little Bit Messed Up
+black
+<img src='magic-mana-small-2.png' alt='2' width='14' height='14'><img src='magic-mana-small-B.png' alt='B' width='14' height='14'>
+Instant
+
+
+<i>Wayward</i> &#8212; If you&#8217;ve cast a spell from outside your hand this turn, this spell costs <span class="symbol"><img src='magic-mana-small-2.png' alt='2' width='14' height='14'></span> less to cast.<br>///br///Target creature gets -5/-5 until end of turn.
+
+Kan
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+45/230
+2
+uncommon
+Akane, Linearity Breaker
+blue
+<img src='magic-mana-small-1.png' alt='1' width='14' height='14'><img src='magic-mana-small-U.png' alt='U' width='14' height='14'>
+Legendary Creature — Human Artist 
+2
+2
+When Akane enters, you may exile a card from your hand.<br>///br///When Akane leaves the battlefield, you may conjure two duplicates of a card exiled by them into your hand.
+<i>&#8220;I&#8217;ve learned a trick from Shiroyuki. It turns out existence is malleable.&#8221;</i>
+O Penguin
+
+colorless
+
+
+
+
+
+
+
+===========
+vsplit
+193/230
+3
+uncommon
+Aris of Dead Hours
+blue, black, multicolor, horizontal
+<img src='magic-mana-small-1.png' alt='1' width='14' height='14'><img src='magic-mana-small-U.png' alt='U' width='14' height='14'><img src='magic-mana-small-B.png' alt='B' width='14' height='14'>
+Legendary Creature — Horror Artist 
+2
+3
+Menace<br>///br///Whenever you surveil, you may return Aris of Dead Hours from your graveyard to your hand.
+
+QYS3
+Follow the Trail
+blue, black, multicolor, horizontal
+<img src='magic-mana-small-U.png' alt='U' width='14' height='14'><img src='magic-mana-small-B.png' alt='B' width='14' height='14'>
+Instant — Tale 
+
+
+Surveil 2. <i>(You may cast a copy of this spell once while this creature is on the battlefield.)</i>
+
+
+===========
+normal
+9/230
+2
+uncommon
+Auspicious Traveller
+white
+<img src='magic-mana-small-W.png' alt='W' width='14' height='14'><img src='magic-mana-small-W.png' alt='W' width='14' height='14'>
+Creature — Human Scout 
+1
+1
+When Auspicious Traveller enters, exile up to one target creature with mana value less than or equal to the number of Humans you control.
+<i>Wait not for fortune.</i>
+Lifeline
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+155/230
+3
+uncommon
+Backstreet Brawler
+green
+<img src='magic-mana-small-2.png' alt='2' width='14' height='14'><img src='magic-mana-small-G.png' alt='G' width='14' height='14'>
+Creature — Human Rogue 
+2
+2
+Whenever you create one or more creature tokens, put a +1/+1 counter on Backstreet Brawler.
+
+Replie
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+2/230
+5
+uncommon
+Become Null
+colorless
+<img src='magic-mana-small-5.png' alt='5' width='14' height='14'>
+Sorcery
+
+
+Exile target nonland permanent.<br>///br///Digitize <i>(You may play this face down as a tapped land with &#8220;<span class="symbol"><img src='magic-mana-small-T.png' alt='T' width='14' height='14'></span>: Add <span class="symbol"><img src='magic-mana-small-C.png' alt='C' width='14' height='14'></span>.&#8221;)</i>
+<i>Bleeding magic. Sacrifice. Her goodbye.</i>
+Lifeline
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+47/230
+2
+uncommon
+Bit Flipper
+blue
+<img src='magic-mana-small-1.png' alt='1' width='14' height='14'><img src='magic-mana-small-U.png' alt='U' width='14' height='14'>
+Creature — Bird Artificer 
+1
+3
+Prowess<br>///br///Whenever Bit Flipper attacks, you may swap its power and toughness.
+
+Kopukur
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+84/230
+3
+uncommon
+Blade Alley Betrayals
+black
+<img src='magic-mana-small-2.png' alt='2' width='14' height='14'><img src='magic-mana-small-B.png' alt='B' width='14' height='14'>
+Enchantment
+
+
+When Blade Alley Betrayals enters, each player sacrifices a creature.<br>///br///Once each turn, when a creature dies, you may discard a card. If you do, create a 2/2 black Horror creature token with deathtouch.
+
+Lifeline
+
+colorless
+
+
+
+
+
+
+
+===========
+vsplit
+13/230
+1
+uncommon
+Browsing Customer
+white
+<img src='magic-mana-small-W.png' alt='W' width='14' height='14'>
+Creature — Human Scout 
+1
+1
+Lifelink
+
+Xilmo
+A New Read
+white
+<img src='magic-mana-small-2.png' alt='2' width='14' height='14'><img src='magic-mana-small-W.png' alt='W' width='14' height='14'>
+Sorcery — Tale 
+
+
+Search your library for an Artifact card with a mana ability, reveal it, put it into your hand, then shuffle.
+
+
+===========
+normal
+194/230
+3
+uncommon
+Canno, the Party-Planner
+white, green, multicolor, horizontal
+<img src='magic-mana-small-1.png' alt='1' width='14' height='14'><img src='magic-mana-small-G.png' alt='G' width='14' height='14'><img src='magic-mana-small-W.png' alt='W' width='14' height='14'>
+Legendary Creature — Human Advisor 
+2
+3
+Token creatures you control get +1/+0 and have &#8220;<span class="symbol"><img src='magic-mana-small-T.png' alt='T' width='14' height='14'></span>: Add <span class="symbol"><img src='magic-mana-small-G.png' alt='G' width='14' height='14'></span> or <span class="symbol"><img src='magic-mana-small-W.png' alt='W' width='14' height='14'></span>.&#8221;<br>///br///At the beginning of your end step, you may pay <span class="symbol"><img src='magic-mana-small-1.png' alt='1' width='14' height='14'></span>. If you do, create a 1/1 white Human creature token.
+<i>The best battles are fought with confetti and camaraderie.</i>
+KUU
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+50/230
+3
+uncommon
+Copy Paste
+blue
+<img src='magic-mana-small-1.png' alt='1' width='14' height='14'><img src='magic-mana-small-U.png' alt='U' width='14' height='14'><img src='magic-mana-small-U.png' alt='U' width='14' height='14'>
+Sorcery
+
+
+Create a token that&#8217;s a copy of target creature or planeswalker, except it isn&#8217;t legendary.<br>///br///Digitize <i>(You may play this face down as a tapped land with &#8220;<span class="symbol"><img src='magic-mana-small-T.png' alt='T' width='14' height='14'></span>: Add <span class="symbol"><img src='magic-mana-small-C.png' alt='C' width='14' height='14'></span>.&#8221;)</i>
+
+youko-shima
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+87/230
+1
+uncommon
+Crowned by Eldritch Kings
+black
+<img src='magic-mana-small-B.png' alt='B' width='14' height='14'>
+Sorcery — Revelation 
+5
+3
+Return target creature or Revelation card from your graveyard to your hand.<br>///br///Coalesce <span class="symbol"><img src='magic-mana-small-5.png' alt='5' width='14' height='14'><img src='magic-mana-small-B.png' alt='B' width='14' height='14'><img src='magic-mana-small-B.png' alt='B' width='14' height='14'></span> <i>(You may cast this from your graveyard for its coalesce cost. If you do, put it onto the battlefield as a Horror creature after it resolves. Exile it if it would leave the battlefield or not resolve.)</i>
+<i>Weird that hats were evil twice.</i>
+Neg101
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+51/230
+2
+uncommon
+Crystal Moon Saloon
+blue
+<img src='magic-mana-small-1.png' alt='1' width='14' height='14'><img src='magic-mana-small-U.png' alt='U' width='14' height='14'>
+Legendary Enchantment
+
+
+When Xenon Cabaret enters, draw a card.<br>///br///At the beginning of your upkeep, choose an Adventure or Tale of a permanent you control. You may cast a copy of it. <i>(You still pay its costs.)</i>
+<i>Sleep approaches like a steady pulse. Yet you still find the strength to sing.</i>
+Mahiro
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+17/230
+4
+uncommon
+Cursed Catlover
+white
+<img src='magic-mana-small-2.png' alt='2' width='14' height='14'><img src='magic-mana-small-W.png' alt='W' width='14' height='14'><img src='magic-mana-small-W.png' alt='W' width='14' height='14'>
+Creature — Human Wizard 
+2
+2
+When Cursed Catlover enters, create two 1/1 black Cat creature tokens with menace.<br>///br///Sacrifice a token: Target creature you control gains lifelink until end of turn.
+
+Rotarran
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+157/230
+2
+uncommon
+Date-Night Duo
+green
+<img src='magic-mana-small-1.png' alt='1' width='14' height='14'><img src='magic-mana-small-G.png' alt='G' width='14' height='14'>
+Creature — Human 
+2
+2
+If you would create one or more tokens, create an additional Food token. <i>(It&#8217;s an artifact with &#8220;<span class="symbol"><img src='magic-mana-small-2.png' alt='2' width='14' height='14'></span>, <span class="symbol"><img src='magic-mana-small-T.png' alt='T' width='14' height='14'></span>, Sacrifice this artifact: You gain 3 life.&#8221;)</i><br>///br///<span class="symbol"><img src='magic-mana-small-4.png' alt='4' width='14' height='14'><img src='magic-mana-small-G.png' alt='G' width='14' height='14'></span>, <span class="symbol"><img src='magic-mana-small-T.png' alt='T' width='14' height='14'></span>: Create two 1/1 white Human creature tokens.
+
+MORI
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+18/230
+1
+uncommon
+Deprecated Version
+white
+<img src='magic-mana-small-W.png' alt='W' width='14' height='14'>
+Sorcery
+
+
+Target player sacrifices an artifact or enchantment. When they do, they gain life equal to its mana value.<br>///br///Digitize <i>(You may play this face down as a tapped land with &#8220;<span class="symbol"><img src='magic-mana-small-T.png' alt='T' width='14' height='14'></span>: Add <span class="symbol"><img src='magic-mana-small-C.png' alt='C' width='14' height='14'></span>.&#8221;)</i>
+
+Neg101
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+19/230
+5
+uncommon
+Dies Irae
+white
+<img src='magic-mana-small-3.png' alt='3' width='14' height='14'><img src='magic-mana-small-W.png' alt='W' width='14' height='14'><img src='magic-mana-small-W.png' alt='W' width='14' height='14'>
+Sorcery
+
+
+Destroy all creatures.<br>///br///Each player draws three cards.
+
+Neg101
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+123/230
+2
+uncommon
+Emberfly Mage
+red
+<img src='magic-mana-small-1.png' alt='1' width='14' height='14'><img src='magic-mana-small-R.png' alt='R' width='14' height='14'>
+Creature — Human Artist 
+1
+3
+Flying<br>///br///Whenever one or more cards you own enter or leave exile, Emberfly Mage deals 1 damage to any target.
+
+Mika Pikazo
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+53/230
+3
+uncommon
+Emotions Like a Rain Cloud
+blue
+<img src='magic-mana-small-2.png' alt='2' width='14' height='14'><img src='magic-mana-small-U.png' alt='U' width='14' height='14'>
+Enchantment
+
+
+Whenever you cast a spell, if you cast it for an alternative cost or cast it from outside your hand, create two 1/1 blue Elemental creature tokens with flying. <i>(Coalesce and free spells are alternative costs. Graveyard and exile are zones that are outside of your hand.)</i>
+
+Sandara
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+199/230
+5
+uncommon
+Evans, Soul Salesman
+black, red, multicolor, horizontal
+<img src='magic-mana-small-3.png' alt='3' width='14' height='14'><img src='magic-mana-small-B.png' alt='B' width='14' height='14'><img src='magic-mana-small-R.png' alt='R' width='14' height='14'>
+Legendary Creature — Human Horror 
+4
+5
+When Evans, Soul Salesman enters, you may search your library for a Revelation card, put it into your graveyard, then shuffle.<br>///br///Whenever another Horror enters the battlefield, create a 2/2 black Horror creature token with deathtouch.
+
+Jahrtist
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+200/230
+2
+uncommon
+Excel, Harmony Smasher
+black, green, multicolor, horizontal
+<img src='magic-mana-small-B.png' alt='B' width='14' height='14'><img src='magic-mana-small-G.png' alt='G' width='14' height='14'>
+Legendary Creature — Human Artist 
+2
+2
+Once each turn, when you put one or more cards from your library into your graveyard, put two +1/+1 counter on Excel and add one mana of any color.
+<i>&#8220;If I&#8217;m destined to die today, I sure as hell won&#8217;t go out quietly.&#8221;</i>
+dae
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+55/230
+2
+uncommon
+Gearshift
+blue
+<img src='magic-mana-small-1.png' alt='1' width='14' height='14'><img src='magic-mana-small-U.png' alt='U' width='14' height='14'>
+Enchantment
+
+
+Noncreature artifact tokens you control are 2/2 Construct creatures in addition to their other types.<br>///br///<span class="symbol"><img src='magic-mana-small-3.png' alt='3' width='14' height='14'><img src='magic-mana-small-U.png' alt='U' width='14' height='14'><img src='magic-mana-small-U.png' alt='U' width='14' height='14'></span>: Cache. Activate this ability only as a sorcery. <i>(Create a Clue or Treasure token.)</i>
+
+NUEE
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+96/230
+4
+uncommon
+Global Network Collapse
+black
+<img src='magic-mana-small-2.png' alt='2' width='14' height='14'><img src='magic-mana-small-B.png' alt='B' width='14' height='14'><img src='magic-mana-small-B.png' alt='B' width='14' height='14'>
+Sorcery
+
+
+All creatures get -2/-2 until end of turn. Remove 2 loyalty counters from each planeswalker.<br>///br///Digitize <i>(You may play this face down as a tapped land with &#8220;<span class="symbol"><img src='magic-mana-small-T.png' alt='T' width='14' height='14'></span>: Add <span class="symbol"><img src='magic-mana-small-C.png' alt='C' width='14' height='14'></span>.&#8221;)</i>
+
+Scott Uminga
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+97/230
+3
+uncommon
+Go Blank
+black
+<img src='magic-mana-small-2.png' alt='2' width='14' height='14'><img src='magic-mana-small-B.png' alt='B' width='14' height='14'>
+Sorcery
+
+
+Target player discards two cards. Then exile that player&#8217;s graveyard.
+
+Rhysgriffiths
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+98/230
+2
+uncommon
+Here Without You
+black
+<img src='magic-mana-small-1.png' alt='1' width='14' height='14'><img src='magic-mana-small-B.png' alt='B' width='14' height='14'>
+Sorcery
+
+
+Target opponent may pay 2 life. If they do, draw two cards. Otherwise, create a 4/4 black Horror creature token.
+<i>&#8220;Hey, I know what we said about us. I&#8217;m so helpless without you... I don&#8217;t think I can get through this alone.&#8221;</i>
+ziro_
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+205/230
+4
+uncommon
+Hikane, Revel-hearted
+red, green, multicolor, horizontal
+<img src='magic-mana-small-2.png' alt='2' width='14' height='14'><img src='magic-mana-small-R.png' alt='R' width='14' height='14'><img src='magic-mana-small-G.png' alt='G' width='14' height='14'>
+Legendary Creature — Human Scout 
+2
+4
+Whenever one or more cards you own enter or leave exile, create a 1/1 white Human creature token.<br>///br///Whenever two or more creatures you control attack, exile the top card of your library. You may play it this turn.
+
+Mika Pikazo
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+127/230
+6
+uncommon
+Hikane's Sharpshooter
+red
+<img src='magic-mana-small-4.png' alt='4' width='14' height='14'><img src='magic-mana-small-R.png' alt='R' width='14' height='14'><img src='magic-mana-small-R.png' alt='R' width='14' height='14'>
+Creature — Human Rogue 
+3
+3
+Hikane&#8217;s Sharpshooter costs <span class="symbol"><img src='magic-mana-small-1.png' alt='1' width='14' height='14'></span> less for each card you own in exile.<br>///br///Reach<br>///br///When Hikane&#8217;s Sharpshooter enters, it deals 3 damage to any target.
+
+Oka Yuto
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+164/230
+2
+uncommon
+Hydric Botanist
+green
+<img src='magic-mana-small-X.png' alt='X' width='14' height='14'><img src='magic-mana-small-G.png' alt='G' width='14' height='14'><img src='magic-mana-small-G.png' alt='G' width='14' height='14'>
+Creature — Human Druid 
+1
+1
+Hydric Botanist enters with X +1/+1 counters.<br>///br///<span class="symbol"><img src='magic-mana-small-T.png' alt='T' width='14' height='14'></span>: Add X mana of any color, where X is Hydric Botanist&#8217;s power. Spend this mana only to cast spells with mana value 5 or greater or with <span class="symbol"><img src='magic-mana-small-X.png' alt='X' width='14' height='14'></span> in its mana cost
+<i>Gotta love going exponential.</i>
+skeb
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+208/230
+3
+uncommon
+Iel, Shard of the Preserver
+blue, green, multicolor, horizontal
+<img src='magic-mana-small-1.png' alt='1' width='14' height='14'><img src='magic-mana-small-G.png' alt='G' width='14' height='14'><img src='magic-mana-small-U.png' alt='U' width='14' height='14'>
+Legendary Creature — Human Avatar 
+1
+3
+Flying<br>///br///You may play an additional land during each of your turns.<br>///br///At the beginning of your end step, if you control ten or more permanents, you draw a card and gain 2 life.
+
+RHADS
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+99/230
+3
+uncommon
+Kaede Bazaar
+black
+<img src='magic-mana-small-2.png' alt='2' width='14' height='14'><img src='magic-mana-small-B.png' alt='B' width='14' height='14'>
+Legendary Enchantment
+
+
+When Kaede Bazaar enters, draw a card.<br>///br///Once each turn, you may cast a creature card from your graveyard by paying <span class="symbol"><img src='magic-mana-small-1.png' alt='1' width='14' height='14'><img src='magic-mana-small-B.png' alt='B' width='14' height='14'></span> in addition to its other costs.
+<i>The place to go for all things legal and illegal, moral and immoral.</i>
+andreasrocha
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+100/230
+0
+uncommon
+Keikaku
+black
+<img src='magic-mana-small-0.png' alt='0' width='14' height='14'>
+Sorcery
+
+
+Look at target player&#8217;s hand.<br>///br///Flashback <span class="symbol"><img src='magic-mana-small-B.png' alt='B' width='14' height='14'></span> <i>(You may cast this card from your graveyard for its flashback cost. Then exile it.)</i>
+<i>Yri didn&#8217;t like making plans. They had a tendency to make life too easy.</i>
+&#32043;&#38642;
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+210/230
+4
+uncommon
+Keris, Bathed in Red
+white, red, multicolor, horizontal
+<img src='magic-mana-small-2.png' alt='2' width='14' height='14'><img src='magic-mana-small-R.png' alt='R' width='14' height='14'><img src='magic-mana-small-W.png' alt='W' width='14' height='14'>
+Legendary Creature — Human Warrior 
+2
+3
+Double strike<br>///br///Whenever Keris attacks, you may exile another target attacking Human you control, then return it to the battlefield tapped. If you do, create a token that&#8217;s a copy of it that&#8217;s tapped and attacking. Sacrifice it at the end of combat.
+
+Homutan
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+27/230
+6
+uncommon
+Lan, Arbiter of Secrets
+white
+<img src='magic-mana-small-4.png' alt='4' width='14' height='14'><img src='magic-mana-small-W.png' alt='W' width='14' height='14'><img src='magic-mana-small-W.png' alt='W' width='14' height='14'>
+Legendary Creature — Nephil Cleric 
+4
+4
+Flying, vigilance<br>///br///When Lan, Arbiter of Secrets enters, exile target nonland permanent. When Lan is no longer on the battlefield, return that card to its owner&#8217;s hand.
+<i>FT</i>
+&#12371;&#12383;&#12429;&#12358;
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+133/230
+2
+uncommon
+Lantern-Drawn Path
+red
+<img src='magic-mana-small-1.png' alt='1' width='14' height='14'><img src='magic-mana-small-R.png' alt='R' width='14' height='14'>
+Enchantment
+
+
+Whenever two or more creatures you control attack, exile the top card of your library. You may play that card until the end of your next turn.
+<i>Will and way are not so separate.</i>
+Pinlin
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+103/230
+4
+uncommon
+Malevolent Heartbreaker
+black
+<img src='magic-mana-small-3.png' alt='3' width='14' height='14'><img src='magic-mana-small-B.png' alt='B' width='14' height='14'>
+Creature — Human 
+3
+2
+Malevolent Heartbreaker gets +2/+2 while you control another Human.<br>///br///When Malevolent Heartbreaker dies, each player sacrifices a creature.
+<i>Would it have been better to not know?</i>
+Mimi N
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+134/230
+4
+uncommon
+Merchant of Lives
+red
+<img src='magic-mana-small-3.png' alt='3' width='14' height='14'><img src='magic-mana-small-R.png' alt='R' width='14' height='14'>
+Creature — Horror Human 
+4
+3
+Ward&#8212;Pay 4 life<br>///br///Other Horror and Human creatures you control get +1/+1 and have &#8220;Ward&#8212;Pay 4 life.&#8221;
+<i>As society falls, so does morality.</i>
+EXTRASPIKEY
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+65/230
+5
+uncommon
+Mysterious Idol
+blue
+<img src='magic-mana-small-4.png' alt='4' width='14' height='14'><img src='magic-mana-small-U.png' alt='U' width='14' height='14'>
+Creature — Human Artist 
+4
+5
+Whenever you cast a noncreature spell, surveil 1. If its the second spell you&#8217;ve cast this turn, draw a card.
+<i>They&#8217;re one thing on stage, but nobody knows what they become the moment they step away.</i>
+to____e
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+137/230
+3
+uncommon
+Nexus Savant
+red
+<img src='magic-mana-small-2.png' alt='2' width='14' height='14'><img src='magic-mana-small-R.png' alt='R' width='14' height='14'>
+Creature — Human Artificer 
+2
+3
+Sacrifice a noncreature token: Nexus Savant gets +2/+1 until end of turn.<br>///br///<span class="symbol"><img src='magic-mana-small-3.png' alt='3' width='14' height='14'><img src='magic-mana-small-R.png' alt='R' width='14' height='14'></span>, <span class="symbol"><img src='magic-mana-small-T.png' alt='T' width='14' height='14'></span>: Cache. <i>(Create a Clue or Treasure token.)</i>
+<i>&#8220;Augh! He has all the calculating power in the world, and yet wastes it all on his pointless little digital games.&#8221;</i>
+Soareverix
+
+colorless
+
+
+
+
+
+
+
+===========
+vsplit
+173/230
+3
+uncommon
+Nowhere Lurkers
+green
+<img src='magic-mana-small-2.png' alt='2' width='14' height='14'><img src='magic-mana-small-G.png' alt='G' width='14' height='14'>
+Creature — Horror 
+2
+3
+When Nowhere Lurkers enters or leaves exile, you may cast a copy of  its Tale without paying its mana cost.
+
+Ninerio
+Scape Shaping
+green
+<img src='magic-mana-small-1.png' alt='1' width='14' height='14'><img src='magic-mana-small-G.png' alt='G' width='14' height='14'>
+Sorcery — Tale 
+
+
+Create a token that&#8217;s a copy of target land you control.
+
+
+===========
+normal
+174/230
+2
+uncommon
+Off the Rails
+green
+<img src='magic-mana-small-X.png' alt='X' width='14' height='14'><img src='magic-mana-small-G.png' alt='G' width='14' height='14'><img src='magic-mana-small-G.png' alt='G' width='14' height='14'>
+Sorcery
+
+
+Affinity for Stations <i>(This spell costs <span class="symbol"><img src='magic-mana-small-1.png' alt='1' width='14' height='14'></span> less to cast for each Station you control.)</i><br>///br///Target creature you control gets +X/+X and trample until end of turn. You may have it fight target creature you don&#8217;t control.
+
+yoyoshiko
+
+colorless
+
+
+
+
+
+
+
+===========
+vsplit
+35/230
+2
+uncommon
+Parasol Bearer
+white
+<img src='magic-mana-small-1.png' alt='1' width='14' height='14'><img src='magic-mana-small-W.png' alt='W' width='14' height='14'>
+Creature — Human Artist 
+3
+3
+Defender
+<i>&#8220;In the desert, men pay gold for shade.&#8221;<br>///br///&#8220;It&#8217;s 2am, Iason.&#8221;</i>
+z3zz4
+Rain or Shine
+white
+<img src='magic-mana-small-W.png' alt='W' width='14' height='14'>
+Instant — Tale 
+
+
+Counter up to one target spell or ability that targets you or a permanent you control.
+
+
+===========
+normal
+141/230
+3
+uncommon
+Quasiduplicate
+red
+<img src='magic-mana-small-2.png' alt='2' width='14' height='14'><img src='magic-mana-small-R.png' alt='R' width='14' height='14'>
+Sorcery
+
+
+Create a token that&#8217;s a copy of target permanent. If it&#8217;s a creature, it gains haste until end of turn. Sacrifice it at the beginning of your next end step.<br>///br///Digitize <i>(You may play this face down as a tapped land with &#8220;<span class="symbol"><img src='magic-mana-small-T.png' alt='T' width='14' height='14'></span>: Add <span class="symbol"><img src='magic-mana-small-C.png' alt='C' width='14' height='14'></span>.&#8221;)</i>
+
+ray rain
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+7/230
+3
+uncommon
+Rail Line Rider
+colorless
+<img src='magic-mana-small-3.png' alt='3' width='14' height='14'>
+Creature — Human 
+2
+2
+When Rail Line Rider enters, cache once for each Station you control. <i>(Create a Clue or Treasure token.)</i>
+
+Aenami
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+142/230
+3
+uncommon
+Red Flags
+red
+<img src='magic-mana-small-2.png' alt='2' width='14' height='14'><img src='magic-mana-small-R.png' alt='R' width='14' height='14'>
+Sorcery
+
+
+Red Flags deals 4 damage to target creature or planeswalker. If excess damage is dealt this way, create that many red Flag artifact token. <i>(It has no abilities.)</i>
+
+Neg101
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+37/230
+4
+uncommon
+Red-Eyed Bystander
+white
+<img src='magic-mana-small-3.png' alt='3' width='14' height='14'><img src='magic-mana-small-W.png' alt='W' width='14' height='14'>
+Creature — Human Cleric 
+2
+3
+Whenever a creature you control dies, draw a card. If it&#8217;s a Human, put a +1/+1 counter on Red-Eyed Bystander. This ability triggers only once each turn.
+
+&#12364;&#12431;&#12371;
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+177/230
+5
+uncommon
+Rustic Spirits Tavern
+green
+<img src='magic-mana-small-4.png' alt='4' width='14' height='14'><img src='magic-mana-small-G.png' alt='G' width='14' height='14'>
+Legendary Enchantment
+
+
+When Rustic Spirits Tavern enters, draw a card.<br>///br///Creature tokens you control get +2/+2 and have trample.
+<i>Rustic Spirits now has self-reassembling chairs. It&#8217;s done wonders for sustainability.</i>
+Sinlaire
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+179/230
+3
+uncommon
+Search Query
+green
+<img src='magic-mana-small-2.png' alt='2' width='14' height='14'><img src='magic-mana-small-G.png' alt='G' width='14' height='14'>
+Sorcery
+
+
+Return target card from your graveyard to your hand.<br>///br///Digitize <i>(You may play this face down as a tapped land with &#8220;<span class="symbol"><img src='magic-mana-small-T.png' alt='T' width='14' height='14'></span>: Add <span class="symbol"><img src='magic-mana-small-C.png' alt='C' width='14' height='14'></span>.&#8221;)</i>
+
+Scott Uminga
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+218/230
+2
+uncommon
+Serin, Old World Tinker
+blue, red, multicolor, horizontal
+<img src='magic-mana-small-U.png' alt='U' width='14' height='14'><img src='magic-mana-small-R.png' alt='R' width='14' height='14'>
+Legendary Creature — Human Artificer 
+1
+3
+If you would create a Clue or Treasure token, create both instead.<br>///br///Sacrifice ten artifact tokens: Serin deals 10 damage to any target.
+<i>&#8220;We have guns and modern weapons. Why are there still some idiots out there trying to wave around a sword?&#8221;</i>
+CoreWaifu
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+70/230
+3
+uncommon
+Shine Like a Diamond
+blue
+<img src='magic-mana-small-U.png' alt='U' width='14' height='14'><img src='magic-mana-small-U.png' alt='U' width='14' height='14'><img src='magic-mana-small-U.png' alt='U' width='14' height='14'>
+Instant — Revelation 
+5
+5
+Draw two cards.<br>///br///Coalesce <span class="symbol"><img src='magic-mana-small-4.png' alt='4' width='14' height='14'><img src='magic-mana-small-U.png' alt='U' width='14' height='14'><img src='magic-mana-small-U.png' alt='U' width='14' height='14'><img src='magic-mana-small-U.png' alt='U' width='14' height='14'></span> <i>(You may cast this from your graveyard for its coalesce cost. If you do, put it onto the battlefield as a Horror creature after it resolves. Exile it if it would leave the battlefield or not resolve.)</i><br>///br///Coalesce only as a sorcery.
+
+&#26143;&#23470;&#12354;&#12365;
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+72/230
+1
+uncommon
+Swallow the Moon
+blue
+<img src='magic-mana-small-U.png' alt='U' width='14' height='14'>
+Sorcery — Revelation 
+4
+3
+Target nonland permanent phases out.<br>///br///Coalesce <span class="symbol"><img src='magic-mana-small-4.png' alt='4' width='14' height='14'><img src='magic-mana-small-U.png' alt='U' width='14' height='14'><img src='magic-mana-small-U.png' alt='U' width='14' height='14'></span> <i>(You may cast this from your graveyard for its coalesce cost. If you do, put it onto the battlefield as a Horror creature after it resolves. Exile it if it would leave the battlefield or not resolve.)</i>
+<i>And the stars fell one by one.</i>
+Scissorrunner
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+159/230
+2
+uncommon
+The Fervent Conductor
+green
+<img src='magic-mana-small-X.png' alt='X' width='14' height='14'><img src='magic-mana-small-G.png' alt='G' width='14' height='14'><img src='magic-mana-small-G.png' alt='G' width='14' height='14'>
+Legendary Creature — Horror Artist 
+0
+0
+Affinity for tokens <i>(This spell costs <span class="symbol"><img src='magic-mana-small-1.png' alt='1' width='14' height='14'></span> less to cast for each token you control.)</i><br>///br///Trample<br>///br///The Fervent Conductor enters with X +1/+1 counters.
+
+kan
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+215/230
+4
+uncommon
+The Red-Eyed Jester
+white, black, multicolor, horizontal
+<img src='magic-mana-small-2.png' alt='2' width='14' height='14'><img src='magic-mana-small-W.png' alt='W' width='14' height='14'><img src='magic-mana-small-B.png' alt='B' width='14' height='14'>
+Legendary Creature — Human Assassin 
+2
+2
+Deathtouch<br>///br///Sacrifice a creature or token: Put a +1/+1 counter on The Red-Eyed Jester. Activate only as a sorcery.
+<i>&#8220;Oh no, he&#8217;s dead!&#8221;</i>
+&#27225;&#33457;&#12514;&#12464;&#12521;
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+38/230
+4
+uncommon
+The Scarlet Citron
+white
+<img src='magic-mana-small-3.png' alt='3' width='14' height='14'><img src='magic-mana-small-W.png' alt='W' width='14' height='14'>
+Legendary Enchantment
+
+
+When The Scarlet Citron enters, draw a card.<br>///br///At the beginning of your upkeep, create a 1/1 white Human creature token.
+<i>Where better to spend the night, away from the terrors of the dreary day.</i>
+Alcd
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+222/230
+1
+uncommon
+Trail of Blood
+artifact
+<img src='magic-mana-small-1.png' alt='1' width='14' height='14'>
+Artifact — Clue 
+
+
+Whenever you sacrifice Trail of Blood or another Clue, surveil 1.<br>///br///<span class="symbol"><img src='magic-mana-small-2.png' alt='2' width='14' height='14'></span>, Sacrifice Trail of Blood: Draw a card. Add one mana of any color.
+
+LIATE
+
+colorless
+
+
+
+
+
+
+
+===========
+vsplit
+76/230
+4
+uncommon
+Trinket Princess
+blue
+<img src='magic-mana-small-3.png' alt='3' width='14' height='14'><img src='magic-mana-small-U.png' alt='U' width='14' height='14'>
+Creature — Human Artificer Noble 
+3
+2
+At the beginning of your end step, you may cast a copy of Trinket Princess&#8217;s Tale without paying its mana cost.
+
+7aehyun
+Tinker Fugue
+colorless
+<img src='magic-mana-small-2.png' alt='2' width='14' height='14'>
+Sorcery — Tale 
+
+
+Cache. <i>(Create a Clue or Treasure token.)</i>
+
+
+===========
+normal
+187/230
+1
+uncommon
+Twist the Threads
+green
+<img src='magic-mana-small-G.png' alt='G' width='14' height='14'>
+Instant
+
+
+You may exchange a creature you both own and control with a creature card in your hand that has the same mana value.<br>///br///Flashback <span class="symbol"><img src='magic-mana-small-1.png' alt='1' width='14' height='14'><img src='magic-mana-small-G.png' alt='G' width='14' height='14'></span> <i>(You may cast this card from your graveyard for its flashback cost. Then exile it.)</i>
+
+Scott Uminga
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+111/230
+2
+uncommon
+Unleash Nemesis Protocols
+black
+<img src='magic-mana-small-B.png' alt='B' width='14' height='14'><img src='magic-mana-small-B.png' alt='B' width='14' height='14'>
+Instant — Revelation 
+4
+3
+Target creature gets -3/-3 until end of turn.<br>///br///Coalesce <span class="symbol"><img src='magic-mana-small-4.png' alt='4' width='14' height='14'><img src='magic-mana-small-B.png' alt='B' width='14' height='14'><img src='magic-mana-small-B.png' alt='B' width='14' height='14'><img src='magic-mana-small-B.png' alt='B' width='14' height='14'></span> <i>(You may cast this from your graveyard for its coalesce cost. If you do, put it onto the battlefield as a Horror creature after it resolves. Exile it if it would leave the battlefield or not resolve.)</i><br>///br///Coalesce only as a sorcery.
+
+MITUKI
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+112/230
+3
+uncommon
+Valeria, Yri's Second
+black
+<img src='magic-mana-small-2.png' alt='2' width='14' height='14'><img src='magic-mana-small-B.png' alt='B' width='14' height='14'>
+Legendary Creature — Human Rogue 
+3
+2
+Once each turn, when you put one or more cards from your library into your graveyard, each opponent loses 2 life and you gain 2 life.
+<i>&#8220;Yri might offer you a speech about morality. I am not Yri. You get five seconds to answer.&#8221;</i>
+&#33590;&#12293;&#12398;&#12371;
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+149/230
+2
+uncommon
+Veteren Bladesinger
+red
+<img src='magic-mana-small-1.png' alt='1' width='14' height='14'><img src='magic-mana-small-R.png' alt='R' width='14' height='14'>
+Creature — Human Warrior 
+2
+2
+Whenever two or more creatures you control attack, create a 1/1 white Human creature token that&#8217;s tapped and attacking.
+<i>&#8220;While all of you became doctors and bankers, I studied the blade. Who&#8217;s disappointing society now?&#8221;</i>
+Paul Nong
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+42/230
+2
+uncommon
+Vielle Singer
+white
+<img src='magic-mana-small-1.png' alt='1' width='14' height='14'><img src='magic-mana-small-W.png' alt='W' width='14' height='14'>
+Legendary Creature — Human Assassin 
+2
+3
+Protection from legendary<br>///br///Whenever a legendary permanent dies, you gain 2 life.
+<i>&#8220;Keep meowing, little one.&#8221;</i>
+GUWEIZ
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+150/230
+2
+uncommon
+Violence Without Reason
+red
+<img src='magic-mana-small-R.png' alt='R' width='14' height='14'><img src='magic-mana-small-R.png' alt='R' width='14' height='14'>
+Sorcery — Revelation 
+5
+3
+Create two 1/1 white Human creature tokens. Violence Without Reason deals 1 damage to each creature and planeswalker.<br>///br///Coalesce <span class="symbol"><img src='magic-mana-small-4.png' alt='4' width='14' height='14'><img src='magic-mana-small-R.png' alt='R' width='14' height='14'><img src='magic-mana-small-R.png' alt='R' width='14' height='14'></span> <i>(You may cast this from your graveyard for its coalesce cost. If you do, put it onto the battlefield as a Horror creature after it resolves. Exile it if it would leave the battlefield or not resolve.)</i>
+
+Neg101
+
+colorless
+
+
+
+
+
+
+
+===========
+vsplit
+219/230
+3
+uncommon
+Voc, Eager Idol
+white, blue, multicolor, horizontal
+<img src='magic-mana-small-1.png' alt='1' width='14' height='14'><img src='magic-mana-small-W.png' alt='W' width='14' height='14'><img src='magic-mana-small-U.png' alt='U' width='14' height='14'>
+Legendary Creature — Angel Artist 
+2
+2
+When Voc, Eager Idol enters, create a 1/1 white Human creature token.
+<i>&#8220;HELLOOOO SATSUKAI!!!&#8221;</i>
+Pinlin
+One More Song
+white, blue, hybrid, horizontal
+<img src='magic-mana-small-WU.png' alt='W/U' width='16' height='16'>
+Sorcery — Tale 
+
+
+Return target permanent you control to its owner&#8217;s hand.
+
+
+===========
+normal
+188/230
+6
+uncommon
+Void Tyrant
+green
+<img src='magic-mana-small-5.png' alt='5' width='14' height='14'><img src='magic-mana-small-G.png' alt='G' width='14' height='14'>
+Creature — Horror Giant 
+4
+4
+Trample<br>///br///Void Tyrant gets +1/+1 for each creature token you control.
+
+TMT
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+79/230
+4
+uncommon
+Waywarden of the Flow
+blue
+<img src='magic-mana-small-3.png' alt='3' width='14' height='14'><img src='magic-mana-small-U.png' alt='U' width='14' height='14'>
+Creature — Human Artist 
+3
+3
+When Waywarden of the Flow enters, draw a card, then discard a card.<br>///br///<i>Wayward</i> &#8212; Whenever you cast a spell from outside your hand, exile another target permanent, then return it to the battlefield.
+
+Shilin
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+189/230
+2
+uncommon
+Welcoming Hostess
+green
+<img src='magic-mana-small-1.png' alt='1' width='14' height='14'><img src='magic-mana-small-G.png' alt='G' width='14' height='14'>
+Creature — Human 
+2
+2
+Modified Humans you control are Cats in addition to their other types.<br>///br///Cat Human creatures you control get +1/+1 and have trample.
+<i>&#8220;I&#8217;m not wearing that.&#8221;<br>///br///&#8212;Vielle &#8220;LAAAAME&#8221; Singer</i>
+Eccvi
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+152/230
+4
+uncommon
+Wield the Strength of Stars
+red
+<img src='magic-mana-small-2.png' alt='2' width='14' height='14'><img src='magic-mana-small-R.png' alt='R' width='14' height='14'><img src='magic-mana-small-R.png' alt='R' width='14' height='14'>
+Sorcery — Revelation 
+5
+5
+Add five mana of any one color.<br>///br///Coalesce <span class="symbol"><img src='magic-mana-small-5.png' alt='5' width='14' height='14'><img src='magic-mana-small-R.png' alt='R' width='14' height='14'><img src='magic-mana-small-R.png' alt='R' width='14' height='14'></span> <i>(You may cast this from your graveyard for its coalesce cost. If you do, put it onto the battlefield as a Horror creature after it resolves. Exile it if it would leave the battlefield or not resolve.)</i>
+
+PlanetsAndMagic
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+154/230
+2
+uncommon
+Xenon Cabaret
+red
+<img src='magic-mana-small-1.png' alt='1' width='14' height='14'><img src='magic-mana-small-R.png' alt='R' width='14' height='14'>
+Legendary Enchantment
+
+
+When Xenon Cabaret enters, draw a card.<br>///br///At the beginning of your upkeep, you may discard a card. If you do, exile the top two cards of your library. You may play one of those cards this turn.
+<i>Where the music is free and the memories you make are priceless.</i>
+AlvezFabricioXD
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+191/230
+5
+mythic rare
+Aekyu Never Sleeps
+multicolor
+<img src='magic-mana-small-1.png' alt='1' width='14' height='14'><img src='magic-mana-small-W.png' alt='W' width='14' height='14'><img src='magic-mana-small-U.png' alt='U' width='14' height='14'><img src='magic-mana-small-B.png' alt='B' width='14' height='14'><img src='magic-mana-small-R.png' alt='R' width='14' height='14'>
+Sorcery
+
+
+This spell can&#8217;t be countered.<br>///br///Exile all spells, nonland permanents, graveyards, and the top twenty cards of each library face down. <i>(Exile Aekyu Never Sleeps if it&#8217;s a spell.)</i>
+
+Aisno Games
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+8/230
+3
+mythic rare
+Apeiron
+white
+<img src='magic-mana-small-W.png' alt='W' width='14' height='14'><img src='magic-mana-small-W.png' alt='W' width='14' height='14'><img src='magic-mana-small-W.png' alt='W' width='14' height='14'>
+Enchantment
+
+
+Whenever one or more cards enters or leaves exile, put a lore counter on Apeiron.<br>///br///At the beginning of your upkeep, you may exile target nonland permanent with mana value less than or equal to the number of lore counters on Apeiron.
+<i>In Eternity, one and infinity are synonymous.</i>
+Marks Trofimov
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+122/230
+3
+mythic rare
+Divinity Burn
+red
+<img src='magic-mana-small-R.png' alt='R' width='14' height='14'><img src='magic-mana-small-R.png' alt='R' width='14' height='14'><img src='magic-mana-small-R.png' alt='R' width='14' height='14'>
+Enchantment
+
+
+Whenever a source deals damage to you, put a lore counter on Divinity Burn.<br>///br///At the beginning of your upkeep, Divinity Burn deals damage to each opponent equal to the number of lore counter on it. Then you may have it deal 1 damage to you.
+<i>In those moments, she burned everything for power. Her flesh. Her soul. Her spark.</i>
+Vetyr
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+22/230
+4
+mythic rare
+Emeria, Once Lost
+white
+<img src='magic-mana-small-2.png' alt='2' width='14' height='14'><img src='magic-mana-small-W.png' alt='W' width='14' height='14'><img src='magic-mana-small-W.png' alt='W' width='14' height='14'>
+Legendary Planeswalker — Emeria 
+
+
+During your turn, opponents can&#8217;t cast spells or activate non-mana abilities.<br>///br///+2: Each player creates a 1/1 white Human creature token.<br>///br///[-X]: Exile target nonland permanent with mana value X or less.<br>///br///-15: Emeria becomes a 15/15 Eldrazi creature with flying and annihilator 6 until end of turn.<br>///br///Starting loyalty: 5
+
+MITUKI
+
+colorless
+
+
+
+
+-15: 
+
+
+===========
+normal
+198/230
+7
+mythic rare
+Equiel, the Preserver
+multicolor
+<img src='magic-mana-small-3.png' alt='3' width='14' height='14'><img src='magic-mana-small-R.png' alt='R' width='14' height='14'><img src='magic-mana-small-G.png' alt='G' width='14' height='14'><img src='magic-mana-small-W.png' alt='W' width='14' height='14'><img src='magic-mana-small-U.png' alt='U' width='14' height='14'>
+Legendary Creature — Angel Demigod 
+7
+7
+Flying, lifelink<br>///br///When Equiel, the Preserver enters, reveal the top ten cards of your library. You may put any number of cards with different mana values from among them into your hand. Put the rest into your graveyard.
+
+Yuumei
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+5/230
+13
+mythic rare
+Isolani, the One and Only
+colorless
+<img src='magic-mana-small-13.png' alt='13' width='14' height='14'>
+Legendary Creature — Elder God Reflection 
+13
+13
+When Isolani, the One and Only enters, you lose the game.<br>///br///Protection from nonlegendary<br>///br///<span class="symbol"><img src='magic-mana-small-13.png' alt='13' width='14' height='14'></span>: Put Isolani, the One and Only from your hand onto the battlefield. End the turn. <i>(Exile all spells and abilities.)</i>
+<i>A living fragment of infinity.</i>
+Neg101
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+209/230
+2
+mythic rare
+Isolani's Curiosity
+white, black, multicolor, horizontal
+<img src='magic-mana-small-W.png' alt='W' width='14' height='14'><img src='magic-mana-small-B.png' alt='B' width='14' height='14'>
+Sorcery
+
+
+Your life total becomes 10. The next time a creature would enter the battlefield under your control this turn, it enters with +1/+1 counters on it equal to the amount of life gained this way.
+<i>All she did was rearrange some limbs. What was so horrible about it?</i>
+hatater
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+59/230
+3
+mythic rare
+Katalepsis
+blue
+<img src='magic-mana-small-U.png' alt='U' width='14' height='14'><img src='magic-mana-small-U.png' alt='U' width='14' height='14'><img src='magic-mana-small-U.png' alt='U' width='14' height='14'>
+Enchantment
+
+
+Whenever you draw a card, put a lore counter on Katalepsis.<br>///br///At the beginning of your upkeep, search your library for a card with mana value equal to the number of lore counters on Katalepsis, reveal it, put it into your hand, then shuffle.
+<i>And so she stood at the end of the world, the last cathedral falling apart... and her spark blazed.</i>
+Joezunzun
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+211/230
+2
+mythic rare
+Kyv, Blood-Red Night
+black, red, multicolor, horizontal
+<img src='magic-mana-small-B.png' alt='B' width='14' height='14'><img src='magic-mana-small-R.png' alt='R' width='14' height='14'>
+Legendary Creature — Human Cleric 
+2
+3
+Deathtouch, haste<br>///br///Whenever you lose life, put a -1/-1 counter on Kyv, Blood-Red Night.<br>///br///<span class="symbol"><img src='magic-mana-small-T.png' alt='T' width='14' height='14'></span>: Move a counter on Kyv to another target creature.
+
+&#26481;&#35199;
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+104/230
+3
+mythic rare
+Necroelysia
+black
+<img src='magic-mana-small-B.png' alt='B' width='14' height='14'><img src='magic-mana-small-B.png' alt='B' width='14' height='14'><img src='magic-mana-small-B.png' alt='B' width='14' height='14'>
+Enchantment
+
+
+Whenever a nontoken creature dies, put a lore counter on Necroelysia.<br>///br///At the beginning of your upkeep, create a tapped 1/1 white Horror creature token with &#8220;<span class="symbol"><img src='magic-mana-small-T.png' alt='T' width='14' height='14'></span>, Sacrifice this creature: Add <span class="symbol"><img src='magic-mana-small-B.png' alt='B' width='14' height='14'></span>.&#8221; for each lore counter on Necroelysia.
+<i>Aekyu may be dead, but she was not.</i>
+yurichtofen
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+175/230
+3
+mythic rare
+Planescupt
+green
+<img src='magic-mana-small-G.png' alt='G' width='14' height='14'><img src='magic-mana-small-G.png' alt='G' width='14' height='14'><img src='magic-mana-small-G.png' alt='G' width='14' height='14'>
+Enchantment
+
+
+Whenever a land enters the battlefield under your control, put a lore counter on Planescupt.<br>///br///At the beginning of your upkeep, you may put a permanent card with mana value less than or equal to the number of lore counters on Planescupt from your hand onto the battlefield.
+<i>From that genesis came the birth of a new plane. Another paradoxical Eternity forged from lies.</i>
+Yuumei
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+220/230
+1
+rare
+Aetherdrifter's Bauble
+artifact
+<img src='magic-mana-small-1.png' alt='1' width='14' height='14'>
+Artifact
+
+
+Whenever a spell becomes countered, its controller may draw a card.<br>///br///<span class="symbol"><img src='magic-mana-small-1.png' alt='1' width='14' height='14'></span>, <span class="symbol"><img src='magic-mana-small-T.png' alt='T' width='14' height='14'></span>, Sacrifice Aetherdrifter&#8217;s Bauble: Draw a card.
+<i>The drifter made sure all his toys were self-assembling, just in case they broke.</i>
+Sandara
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+192/230
+2
+rare
+Aethion, the Suncaster
+white, red, artifact, multicolor, horizontal
+<img src='magic-mana-small-R.png' alt='R' width='14' height='14'><img src='magic-mana-small-W.png' alt='W' width='14' height='14'>
+Legendary Artifact — Umbrella 
+
+
+Lifelink, indestructible<br>///br///Remove a loyalty counter target permanent you control: Aethion deals 1 damage to any target.<br>///br///<span class="symbol"><img src='magic-mana-small-4.png' alt='4' width='14' height='14'><img src='magic-mana-small-R.png' alt='R' width='14' height='14'><img src='magic-mana-small-W.png' alt='W' width='14' height='14'></span>: Put a loyalty counter on target permanent.
+
+GUWEIZ
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+118/230
+4
+rare
+Alicia, the Final Dawn
+red
+<img src='magic-mana-small-3.png' alt='3' width='14' height='14'><img src='magic-mana-small-R.png' alt='R' width='14' height='14'>
+Legendary Creature — Human Artist 
+3
+4
+First strike<br>///br///Whenever Alicia enters or attacks, put an ignite counter on target permanent. As long as that permanent has an ignite counter, it has &#8220;At the beginning of your upkeep, this deals 2 damage to you, then you may sacrifice it.&#8221;
+
+nid417
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+82/230
+2
+rare
+Backstreets of Kaeda
+black
+<img src='magic-mana-small-1.png' alt='1' width='14' height='14'><img src='magic-mana-small-B.png' alt='B' width='14' height='14'>
+Sorcery
+
+
+Search your library for a card with an activated ability that costs life, reveal it, and put it into your hand, then shuffle. <i>(An ability costs life if it requires a player to pay life.)</i>
+<i>Sometimes, to have a little fun, you have to get a little dangerous.</i>
+RhysGriffiths
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+10/230
+3
+rare
+Barhopping in Miseko
+white
+<img src='magic-mana-small-2.png' alt='2' width='14' height='14'><img src='magic-mana-small-W.png' alt='W' width='14' height='14'>
+Enchantment
+
+
+When Barhopping in Miseko enters, each player draws up to four cards.<br>///br///As long as an opponent has four or more cards in hand, spells they cast cost <span class="symbol"><img src='magic-mana-small-1.png' alt='1' width='14' height='14'></span> more to cast.
+<i>Just one more drink...</i>
+Jiu Ye Sang
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+83/230
+2
+rare
+Blackout Zone
+black
+<img src='magic-mana-small-B.png' alt='B' width='14' height='14'><img src='magic-mana-small-B.png' alt='B' width='14' height='14'>
+Enchantment
+
+
+Once each turn, when you sacrifice a creature, add <span class="symbol"><img src='magic-mana-small-B.png' alt='B' width='14' height='14'><img src='magic-mana-small-B.png' alt='B' width='14' height='14'></span>.<br>///br///Once each turn, when you sacrifice a noncreature permanent, create a 1/1 white Human creature token.
+<i>Things that look human come and go, but they&#8217;re all empty husks without a soul.</i>
+Rhysgriffiths
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+48/230
+2
+rare
+Blade Alley Peacekeeper
+blue
+<img src='magic-mana-small-1.png' alt='1' width='14' height='14'><img src='magic-mana-small-U.png' alt='U' width='14' height='14'>
+Creature — Human Warrior 
+2
+2
+Whenever you or a permanent you control becomes the target of a spell or ability an opponent controls, exile it unless its controller pays <span class="symbol"><img src='magic-mana-small-1.png' alt='1' width='14' height='14'></span>.
+<i>Alicia groaned. Iason looked confused. Vielle moved to run. Law enforcement made everything less fun.</i>
+Tatiana Vetrova
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+11/230
+3
+rare
+Blasphemous Displacer
+white
+<img src='magic-mana-small-2.png' alt='2' width='14' height='14'><img src='magic-mana-small-W.png' alt='W' width='14' height='14'>
+Creature — Angel Horror 
+2
+4
+Flying<br>///br///Whenever Blasphemous Displacer deals combat damage, exile up to that many permanents you control without flying, then return them to the battlefield with a flying counter.
+<i>Angelophobia rates up 29543%</i>
+7nix
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+120/230
+5
+rare
+Children of the Lanterns
+red
+<img src='magic-mana-small-3.png' alt='3' width='14' height='14'><img src='magic-mana-small-R.png' alt='R' width='14' height='14'><img src='magic-mana-small-R.png' alt='R' width='14' height='14'>
+Creature — Human Spirit 
+3
+2
+When Children of the Lanterns enters, it deals 3 damage to any target.<br>///br///Whenever a source you control deals excess damage to a permanent, exile that many cards from the top of your library. You may play those cards until the end of your next turn.
+
+Tsubonari
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+16/230
+3
+rare
+Crafters of Fantasy
+white
+<img src='magic-mana-small-2.png' alt='2' width='14' height='14'><img src='magic-mana-small-W.png' alt='W' width='14' height='14'>
+Creature — Human Knight Rogue Wizard 
+3
+4
+Players can&#8217;t cast noncreature spells unless they control a legendary creature or planeswalker.<br>///br///<span class="symbol"><img src='magic-mana-small-2.png' alt='2' width='14' height='14'></span>: Create a 3/2 white legendary Human creature token named &#8220;Aksin, the Hero.&#8221; Any player may activate this ability as a sorcery.
+
+Chakotata
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+52/230
+1
+rare
+Digital Champion
+blue
+<img src='magic-mana-small-U.png' alt='U' width='14' height='14'>
+Creature — Human Gamer 
+1
+1
+Ward <span class="symbol"><img src='magic-mana-small-2.png' alt='2' width='14' height='14'></span><br>///br///Digital Champion can only attack or block alone.<br>///br///<i>Wayward</i> &#8212; Whenever you cast a spell from outside your hand, put a +1/+1 counter on Digital Champion.
+<i>&#8220;I live on your tears.&#8221;</i>
+Project Moon &#8212; Lobotomy Corp
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+20/230
+2
+rare
+Doomsday Sirens
+white
+<img src='magic-mana-small-X.png' alt='X' width='14' height='14'><img src='magic-mana-small-W.png' alt='W' width='14' height='14'><img src='magic-mana-small-W.png' alt='W' width='14' height='14'>
+Enchantment
+
+
+Vanishing 5 <i>(This permanent enters the battlefield with five time counters on it. At the beginning of your upkeep, remove a time counter from it. When the last is removed, sacrifice it.)</i><br>///br///When Doomsday Sirens enters the battlefield, remove X time counters from it.<br>///br///When Doomsday Sirens leaves the battlefield, destroy all creatures and planeswalkers.
+
+lulo0o
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+158/230
+5
+rare
+Enigmatic Myth
+green
+<img src='magic-mana-small-2.png' alt='2' width='14' height='14'><img src='magic-mana-small-G.png' alt='G' width='14' height='14'><img src='magic-mana-small-G.png' alt='G' width='14' height='14'><img src='magic-mana-small-G.png' alt='G' width='14' height='14'>
+Creature — Elemental Demigod 
+6
+6
+Enigmatic Myth can&#8217;t be blocked by creatures with power 2 or less.<br>///br///When Enigmatic Myth dies, create Aekyu&#8217;s Blessing, a green enchantment token with &#8220;At the beginning of your upkeep, create a 1/1 white Human creature token.&#8221;
+
+Seerlight
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+93/230
+1
+rare
+Evangel of Metamorphosis
+black
+<img src='magic-mana-small-B.png' alt='B' width='14' height='14'>
+Creature — Nephil Cleric 
+1
+1
+Deathtouch<br>///br///Whenever a creature you control deals combat damage to a player, you may sacrifice it. When you do, create a 2/2 black Horror creature token with deathtouch.
+
+Afterdarqq
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+201/230
+7
+rare
+Ezren Challenges the Elders
+blue, red, multicolor, horizontal
+<img src='magic-mana-small-5.png' alt='5' width='14' height='14'><img src='magic-mana-small-U.png' alt='U' width='14' height='14'><img src='magic-mana-small-R.png' alt='R' width='14' height='14'>
+Sorcery
+
+
+Take an extra turn after this one. At the beginning of that turn&#8217;s upkeep, exile your hand and the top seven cards of your library. You may play those cards that turn.<br>///br///Exile Ezren Challenges the Elders.
+
+Astero
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+202/230
+3
+rare
+Ezren, Steelwing Ascendant
+multicolor
+<img src='magic-mana-small-U.png' alt='U' width='14' height='14'><img src='magic-mana-small-R.png' alt='R' width='14' height='14'><img src='magic-mana-small-W.png' alt='W' width='14' height='14'>
+Legendary Creature — Human Pilot 
+3
+1
+Flying, lifelink, haste<br>///br///When Ezren enters, you may have her deal 3 damage to any target. If you do, tap Ezren and put two stun counters on her.
+
+Astero
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+95/230
+4
+rare
+Fractia, Angel of None
+black
+<img src='magic-mana-small-2.png' alt='2' width='14' height='14'><img src='magic-mana-small-B.png' alt='B' width='14' height='14'><img src='magic-mana-small-B.png' alt='B' width='14' height='14'>
+Legendary Creature — Angel Reflection 
+4
+3
+Flying, first strike, lifelink<br>///br///When you sacrifice Fractia, Angel of None, add <span class="symbol"><img src='magic-mana-small-B.png' alt='B' width='14' height='14'><img src='magic-mana-small-B.png' alt='B' width='14' height='14'><img src='magic-mana-small-B.png' alt='B' width='14' height='14'><img src='magic-mana-small-B.png' alt='B' width='14' height='14'></span>.
+
+AfterDarqq
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+56/230
+2
+rare
+Halcyon Steel Revolution
+blue
+<img src='magic-mana-small-X.png' alt='X' width='14' height='14'><img src='magic-mana-small-U.png' alt='U' width='14' height='14'><img src='magic-mana-small-U.png' alt='U' width='14' height='14'>
+Sorcery
+
+
+Gain control of any number of target creatures or planeswalkers with total mana value X or less. They become artifacts and lose all other card types.
+<i>As the veil rose, the conscious, digital, and phobic realities merged. </i>
+Chun Hay Au Yeung
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+204/230
+2
+rare
+Harbinger V
+blue, green, artifact, multicolor, horizontal
+<img src='magic-mana-small-G.png' alt='G' width='14' height='14'><img src='magic-mana-small-U.png' alt='U' width='14' height='14'>
+Legendary Artifact — Vehicle Shaman 
+5
+5
+Whenever Harbinger V enters or attacks, draw a card. You may play an additional land this turn.<br>///br///Crew 5
+<i>&#8220;We made a machine to see the future, but all it did was scream.&#8221;</i>
+UGUGUG
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+162/230
+7
+rare
+Hazreim, Vertical Stampede
+green
+<img src='magic-mana-small-X.png' alt='X' width='14' height='14'><img src='magic-mana-small-5.png' alt='5' width='14' height='14'><img src='magic-mana-small-G.png' alt='G' width='14' height='14'><img src='magic-mana-small-G.png' alt='G' width='14' height='14'>
+Legendary Creature — Human Warlock 
+7
+7
+When Hazreim enters, other creatures you control get +X/+0 and gain trample until end of turn.<br>///br///Whenever you cast a spell or activate an ability with <span class="symbol"><img src='magic-mana-small-X.png' alt='X' width='14' height='14'></span> in its cost, you may have X become 7. <i>(This replaces its original value.)</i>
+<i>They came as a tide, inexorable.</i>
+shilin
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+207/230
+5
+rare
+Hyacin, Rosegold Princess
+white, blue, multicolor, horizontal
+<img src='magic-mana-small-3.png' alt='3' width='14' height='14'><img src='magic-mana-small-W.png' alt='W' width='14' height='14'><img src='magic-mana-small-U.png' alt='U' width='14' height='14'>
+Legendary Creature — Human Artist 
+3
+4
+Flash<br>///br///You may cast Artist and sorcery spells as though they had flash.<br>///br///Whenever an Artist enters the battlefield under your control, you draw a card and gain 3 life.
+
+Pinlin
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+58/230
+3
+rare
+Idol of the Schism
+blue
+<img src='magic-mana-small-2.png' alt='2' width='14' height='14'><img src='magic-mana-small-U.png' alt='U' width='14' height='14'>
+Creature — Human Artist 
+2
+4
+Ward <span class="symbol"><img src='magic-mana-small-1.png' alt='1' width='14' height='14'></span><br>///br///Whenever Idol of the Schism attacks a player with the most cards in hand, draw a card.<br>///br///Whenever Idol of the Schism attacks while you have the most cards in hand, create a Treasure token.
+
+&#26449;&#12459;&#12523;&#12461;
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+26/230
+2
+rare
+Kalista, Gilded Mixologist
+white
+<img src='magic-mana-small-1.png' alt='1' width='14' height='14'><img src='magic-mana-small-W.png' alt='W' width='14' height='14'>
+Legendary Creature — Human Advisor 
+1
+3
+Lifelink<br>///br///Once each turn, when an opponent sacrifices a permanent, you may create a token that&#8217;s a copy of it.
+<i>&#8220;Welcome to the Scarlet Citron!&#8221;</i>
+ALCD
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+101/230
+5
+rare
+Kura of the Zombie Network
+black
+<img src='magic-mana-small-3.png' alt='3' width='14' height='14'><img src='magic-mana-small-B.png' alt='B' width='14' height='14'><img src='magic-mana-small-B.png' alt='B' width='14' height='14'>
+Creature — Skeleton Horror Artist 
+4
+4
+Whenever a non-Skeleton creature you control dies, you may pay its mana cost. If you do, create a token that&#8217;s a copy of it except its a 2/2 black Skeleton artifact creature. <i>(It loses all other colors and types.)</i>
+
+&#26449;&#12459;&#12523;&#12461;
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+132/230
+3
+rare
+Kylthess, the Pale Lantern
+red
+<img src='magic-mana-small-2.png' alt='2' width='14' height='14'><img src='magic-mana-small-R.png' alt='R' width='14' height='14'>
+Legendary Creature — Human Scout 
+3
+2
+Whenever an instant or sorcery card is put into your graveyard from your library, you may exile it. As long as its exiled, you may pay <span class="symbol"><img src='magic-mana-small-2.png' alt='2' width='14' height='14'></span> as a sorcery to put it into your hand.
+<i>&#8220;They called me godslayer and martyr maker. Who are you then?&#8221;</i>
+Lifeline
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+167/230
+2
+rare
+Live Large
+green
+<img src='magic-mana-small-1.png' alt='1' width='14' height='14'><img src='magic-mana-small-G.png' alt='G' width='14' height='14'>
+Enchantment
+
+
+Flash<br>///br///Whenever a creature enters the battlefield under an opponent&#8217;s control, you may cast a creature spell with greater power than it from your hand. Creature spells cast this way enter the battlefield with two +1/+1 counter and a trample counter.
+
+&#12506;&#12531;&#12383;&#12429;&#12358;
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+60/230
+2
+rare
+Lost in Translation
+blue
+<img src='magic-mana-small-1.png' alt='1' width='14' height='14'><img src='magic-mana-small-U.png' alt='U' width='14' height='14'>
+Instant — Revelation 
+5
+6
+Each number and amount of target instant or sorcery spell, activated nonland ability, or triggered ability you don&#8217;t control becomes 0. Its controller may choose new targets for it. <i>(Amounts are number words, X values, and &#8220;a&#8221; or &#8220;an&#8221; used as 1.)</i><br>///br///Coalesce <span class="symbol"><img src='magic-mana-small-5.png' alt='5' width='14' height='14'><img src='magic-mana-small-U.png' alt='U' width='14' height='14'><img src='magic-mana-small-U.png' alt='U' width='14' height='14'></span><br>///br///Lost in Translation can&#8217;t block.
+
+&#24112;&#36335;
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+62/230
+2
+rare
+Lucid Nightmares
+blue
+<img src='magic-mana-small-1.png' alt='1' width='14' height='14'><img src='magic-mana-small-U.png' alt='U' width='14' height='14'>
+Enchantment
+
+
+Whenever you spend 5 or more mana to cast a spell, cache. <i>(Create a Clue or Treasure token.)</i><br>///br///Each sorcery card in your graveyard has coalesce as 4/4. Its coalesce cost is its mana cost plus <span class="symbol"><img src='magic-mana-small-4.png' alt='4' width='14' height='14'></span>.
+
+&#32117;&#25551;&#12461;&#29275;
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+169/230
+2
+rare
+Mistencharm Resplendant
+green
+<img src='magic-mana-small-1.png' alt='1' width='14' height='14'><img src='magic-mana-small-G.png' alt='G' width='14' height='14'>
+Creature — Human Artist 
+3
+2
+Flash<br>///br///Whenever an opponent searches their library, create two 1/1 white Human creature tokens.
+<i>You will see no more than a few seconds of performance. But to her, it was the culmination of a lifetime.</i>
+BullseyeTroll
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+135/230
+5
+rare
+Murder Your Gods
+red
+<img src='magic-mana-small-2.png' alt='2' width='14' height='14'><img src='magic-mana-small-R.png' alt='R' width='14' height='14'><img src='magic-mana-small-R.png' alt='R' width='14' height='14'><img src='magic-mana-small-R.png' alt='R' width='14' height='14'>
+Sorcery — Revelation 
+7
+6
+Target opponent separates all permanents they control into two piles. Choose one of the piles for them to sacrifice.<br>///br///Coalesce <span class="symbol"><img src='magic-mana-small-9.png' alt='9' width='14' height='14'><img src='magic-mana-small-R.png' alt='R' width='14' height='14'><img src='magic-mana-small-R.png' alt='R' width='14' height='14'><img src='magic-mana-small-R.png' alt='R' width='14' height='14'><img src='magic-mana-small-R.png' alt='R' width='14' height='14'></span><br>///br///At the beginning of your upkeep, create a copy of Murder Your Gods. You may cast the copy. <i>(You still pay its costs.)</i>
+
+Neg101
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+138/230
+3
+rare
+Nonchalance
+red
+<img src='magic-mana-small-2.png' alt='2' width='14' height='14'><img src='magic-mana-small-R.png' alt='R' width='14' height='14'>
+Instant
+
+
+Surveil 3, then exile the top card of your library face down. As long as its exiled, you may cast it as though it had flash. If it has mana value 3 or less, you may cast it this way without paying its mana cost.
+<i>&#8220;Daring and sympathetic. Traits of a fool.&#8221; &#8212;Vielle Singer</i>
+Midjourney AI and Styles
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+178/230
+1
+rare
+Science Gone Too Far
+green
+<img src='magic-mana-small-X.png' alt='X' width='14' height='14'><img src='magic-mana-small-G.png' alt='G' width='14' height='14'>
+Sorcery — Revelation 
+0
+4
+Put X +1/+1 counters and a trample counter on target creature you control.<br>///br///Coalesce&#8212;<span class="symbol"><img src='magic-mana-small-1.png' alt='1' width='14' height='14'><img src='magic-mana-small-G.png' alt='G' width='14' height='14'><img src='magic-mana-small-G.png' alt='G' width='14' height='14'></span>, Remove X counters from among permanents you control.<br>///br///<span class="symbol"><img src='magic-mana-small-T.png' alt='T' width='14' height='14'></span>: Double the number of counters of each kind on target creature.
+
+Neg101
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+182/230
+2
+rare
+Skylight Aspirant
+green
+<img src='magic-mana-small-1.png' alt='1' width='14' height='14'><img src='magic-mana-small-G.png' alt='G' width='14' height='14'>
+Creature — Human Scout 
+2
+2
+Reach<br>///br///Whenever you put one or more cards from your library into your graveyard, you may exile Skylight Aspirant. If you do, return it to the battlefield with that many +1/+1 counters.
+
+&#32982;&#23472;&#27835;
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+146/230
+3
+rare
+Slicer of Simplicity
+red
+<img src='magic-mana-small-2.png' alt='2' width='14' height='14'><img src='magic-mana-small-R.png' alt='R' width='14' height='14'>
+Creature — Horror 
+2
+3
+Menace<br>///br///Whenever Slicer of Simplicity attacks, you may search your library for a Horror or Revelation card, put it into your graveyard, then shuffle. If you do, Slicer of Simplicity&#8217;s base power becomes that card&#8217;s base power.
+
+Pandajada
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+184/230
+4
+rare
+Social Executioner
+green
+<img src='magic-mana-small-2.png' alt='2' width='14' height='14'><img src='magic-mana-small-G.png' alt='G' width='14' height='14'><img src='magic-mana-small-G.png' alt='G' width='14' height='14'>
+Creature — Human Assassin Artist 
+5
+4
+Trample, ward <span class="symbol"><img src='magic-mana-small-2.png' alt='2' width='14' height='14'></span><br>///br///At the beginning of your end step, any player may create a 1/1 white Human creature token.<br>///br///Whenever you attack, Artists you control get +1/+1 for each Human the defending player controls.
+
+nmgmkn
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+147/230
+3
+rare
+Starflame Songstress
+red
+<img src='magic-mana-small-R.png' alt='R' width='14' height='14'><img src='magic-mana-small-R.png' alt='R' width='14' height='14'><img src='magic-mana-small-R.png' alt='R' width='14' height='14'>
+Creature — Human Artist 
+3
+2
+First strike<br>///br///Whenever Starflame Songstress deals damage, add that much red mana, then put a +1/+1 counter on it.
+<i>A screaming plea to be heard in the heartless world of idolatry.</i>
+Rei
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+109/230
+6
+rare
+Such Lovely Screams
+black
+<img src='magic-mana-small-4.png' alt='4' width='14' height='14'><img src='magic-mana-small-B.png' alt='B' width='14' height='14'><img src='magic-mana-small-B.png' alt='B' width='14' height='14'>
+Sorcery — Revelation 
+4
+5
+If an opponent would lose life this turn, they lose twice that much life instead. <i>(Damage causes loss of life.)</i><br>///br///Coalesce&#8212;Sacrifice three creatures<br>///br///When Such Lovely Screams enters the battlefield, each opponent loses 2 life.
+<i>Like music to my ears...</i>
+Neg101
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+41/230
+1
+rare
+This Empty World
+white
+<img src='magic-mana-small-W.png' alt='W' width='14' height='14'>
+Sorcery — Revelation 
+5
+8
+Your life total becomes 1. Until end of turn, your life total can&#8217;t change. <i>(You can&#8217;t gain, lose, or pay life.)</i><br>///br///Coalesce <span class="symbol"><img src='magic-mana-small-5.png' alt='5' width='14' height='14'><img src='magic-mana-small-W.png' alt='W' width='14' height='14'><img src='magic-mana-small-W.png' alt='W' width='14' height='14'><img src='magic-mana-small-W.png' alt='W' width='14' height='14'></span><br>///br///Your life total can&#8217;t change.
+<i>&#8220;In once crowded streets, faces swirled; Silence reigns in this empty world.&#8221;<br>///br///&#8212;Excerpt from the Malor Writings</i>
+Neg101
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+74/230
+2
+rare
+Time Spiraled
+blue
+<img src='magic-mana-small-1.png' alt='1' width='14' height='14'><img src='magic-mana-small-U.png' alt='U' width='14' height='14'>
+Sorcery
+
+
+Surveil 3.<br>///br///If you haven&#8217;t cast a spell this turn, you may cast Time Spiraled from your graveyard or exile.
+<i>&#8220;We swayed on and on, but went nowhere at all.&#8221;</i>
+aerroscape
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+148/230
+3
+rare
+Vengeant Administrator
+red
+<img src='magic-mana-small-1.png' alt='1' width='14' height='14'><img src='magic-mana-small-R.png' alt='R' width='14' height='14'><img src='magic-mana-small-R.png' alt='R' width='14' height='14'>
+Creature — Horror Advisor 
+3
+1
+Menace<br>///br///When Vengeant Administrator enters, gain control of up to one target nonland permanent with mana value 2 or less until end of turn unless its controller sacrifices it. Untap it. It gains haste until end of turn.
+
+tsubonari
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+113/230
+3
+rare
+Warden of the Boundary
+black
+<img src='magic-mana-small-2.png' alt='2' width='14' height='14'><img src='magic-mana-small-B.png' alt='B' width='14' height='14'>
+Creature — Horror Cleric 
+2
+3
+Lifelink<br>///br///Whenever you put another Horror card into your graveyard from anywhere, you may exile it. As long as its exiled, you may <span class="symbol"><img src='magic-mana-small-2.png' alt='2' width='14' height='14'></span> as a sorcery to put it into your hand.
+
+2wenty
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+43/230
+2
+rare
+White Lies
+white
+<img src='magic-mana-small-1.png' alt='1' width='14' height='14'><img src='magic-mana-small-W.png' alt='W' width='14' height='14'>
+Enchantment
+
+
+Whenever one or more cards you own enter or leave exile, you gain 2 life.<br>///br///<span class="symbol"><img src='magic-mana-small-R.png' alt='R' width='14' height='14'></span>, Sacrifice a nonland permanent: Exile the top card of your library. You may play it this turn. At the beginning of your next end step, sacrifice White Lies.
+<i>&#8220;Don&#8217;t worry, you&#8217;re safe now.&#8221;</i>
+Sanbonzakura
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+116/230
+2
+rare
+Yri, Who Rejects Victory
+black
+<img src='magic-mana-small-1.png' alt='1' width='14' height='14'><img src='magic-mana-small-B.png' alt='B' width='14' height='14'>
+Legendary Creature — Human Rogue 
+2
+1
+Whenever exactly two creatures you control attack, choose a black instant or sorcery spell you own from outside the game with mana value 1. You may cast it without paying its mana cost.
+<i>Chills ran down his back. He&#8217;d seen this before. This wasn&#8217;t salvation.</i>
+I&#8217;ll find artist later
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+228/230
+0
+basic land
+Swamp
+black, land
+
+Basic Land — Swamp 
+
+
+
+
+Alena Aenami
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+227/230
+0
+basic land
+Island
+blue, land
+
+Basic Land — Island 
+
+
+
+
+Aoi Ogata
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+225/230
+0
+uncommon
+Vielle's Perch
+black, land
+
+Land
+
+
+When Vielle&#8217;s Perch enters, each opponent may surveil 2.<br>///br///<span class="symbol"><img src='magic-mana-small-T.png' alt='T' width='14' height='14'></span>: Add <span class="symbol"><img src='magic-mana-small-B.png' alt='B' width='14' height='14'></span>.<br>///br///<span class="symbol"><img src='magic-mana-small-1.png' alt='1' width='14' height='14'><img src='magic-mana-small-B.png' alt='B' width='14' height='14'></span>, <span class="symbol"><img src='magic-mana-small-T.png' alt='T' width='14' height='14'></span>: Surveil 2.
+<i>One gentle push from oblivion.</i>
+GUWEIZ
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+230/230
+0
+basic land
+Forest
+green, land
+
+Basic Land — Forest 
+
+
+
+
+Rotarran
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+229/230
+0
+basic land
+Mountain
+red, land
+
+Basic Land — Mountain 
+
+
+
+
+Rotarran
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+226/230
+0
+basic land
+Plains
+white, land
+
+Basic Land — Plains 
+
+
+
+
+Rotarran
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+224/230
+0
+rare
+Thunder Stage
+land, multicolor
+
+Land
+
+
+<span class="symbol"><img src='magic-mana-small-T.png' alt='T' width='14' height='14'></span>: Add one mana of any color. Spend this mana only to cast a spell with <span class="symbol"><img src='magic-mana-small-X.png' alt='X' width='14' height='14'></span> in its mana cost. When you do, put an awe counter on Thunder Stage.<br>///br///When the fifth awe counter is put on Thunder Stage, you draw five cards and you gain 5 life. Exile Thunder Stage.
+
+Shilin
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+223/230
+0
+uncommon
+Prismatic Eternity
+land, multicolor
+
+Land
+
+
+Whenever you cast a spell that&#8217;s all colors, you may draw a card.<br>///br///<span class="symbol"><img src='magic-mana-small-T.png' alt='T' width='14' height='14'></span>: Add <span class="symbol"><img src='magic-mana-small-C.png' alt='C' width='14' height='14'></span>.<br>///br///<span class="symbol"><img src='magic-mana-small-2.png' alt='2' width='14' height='14'></span>, <span class="symbol"><img src='magic-mana-small-T.png' alt='T' width='14' height='14'></span>: Add three mana of different colors.
+<i>When there was nowhere left to run, Kuro crafted some place new.</i>
+&#26408;&#20154;&#33293;
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+1/230
+4
+common
+Agent of Digitas
+colorless
+<img src='magic-mana-small-4.png' alt='4' width='14' height='14'>
+Creature — Human Cleric 
+3
+2
+As you cast Agent of Digitas, create a 3/2 colorless Human Reflection token unless two or more colors of mana were spent to cast it.
+
+AfterDarqq
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+3/230
+3
+common
+Dream
+colorless
+<img src='magic-mana-small-3.png' alt='3' width='14' height='14'>
+Sorcery
+
+
+Draw two cards.
+
+Yuumei
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+4/230
+2
+common
+Heaven is Forged From Steel
+colorless
+<img src='magic-mana-small-2.png' alt='2' width='14' height='14'>
+Instant
+
+
+You gain 2 life. Cache. <i>(Create a Clue or Treasure token.)</i><br>///br///Digitize <i>(You may play this face down as a tapped land with &#8220;<span class="symbol"><img src='magic-mana-small-T.png' alt='T' width='14' height='14'></span>: Add <span class="symbol"><img src='magic-mana-small-C.png' alt='C' width='14' height='14'></span>.&#8221;)</i>
+
+shuuumatsu
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+6/230
+1
+common
+Midnight Swimmer
+colorless
+<img src='magic-mana-small-1.png' alt='1' width='14' height='14'>
+Creature — Human 
+1
+1
+Basic landcycling <span class="symbol"><img src='magic-mana-small-1.png' alt='1' width='14' height='14'></span>
+<i>Under the moon&#8217;s embrace, she dives into the depths, gliding through the midnight waters like a graceful specter. With each stroke, her spirit finds solace and her dreams come alive.</i>
+Klegs
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+12/230
+3
+common
+Breaker of Promises
+white
+<img src='magic-mana-small-2.png' alt='2' width='14' height='14'><img src='magic-mana-small-W.png' alt='W' width='14' height='14'>
+Creature — Horror 
+3
+3
+When Breaker of Promises enters or leaves the battlefield, create a 1/1 white Human creature token, then sacrifice that token unless you pay <span class="symbol"><img src='magic-mana-small-1.png' alt='1' width='14' height='14'></span>.
+<i>&#8220;Forever.&#8221;<br>///br///&#8212;Common lie</i>
+Nishijukic
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+14/230
+3
+common
+Cheering Fangirl
+white
+<img src='magic-mana-small-2.png' alt='2' width='14' height='14'><img src='magic-mana-small-W.png' alt='W' width='14' height='14'>
+Creature — Human 
+2
+2
+Affinity for Humans <i>(This spell costs <span class="symbol"><img src='magic-mana-small-1.png' alt='1' width='14' height='14'></span> less to cast for each Human you control.)</i><br>///br///When Cheering Fangirl enters the battlefield, create a 1/1 white Human creature token.
+<i>&#8220;Kyaaaaaa!!!&#8221;</i>
+Sanbonzakura
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+15/230
+1
+common
+Cosmic Splendor
+white
+<img src='magic-mana-small-X.png' alt='X' width='14' height='14'><img src='magic-mana-small-X.png' alt='X' width='14' height='14'><img src='magic-mana-small-W.png' alt='W' width='14' height='14'>
+Instant
+
+
+<i>Converge</i> &#8212; You gain 4 life for each color of mana spent to cast Cosmic Splendor.
+<i>&#8220;When will you take me away from this city and show me the stars?&#8221;<br>///br///&#8212;Fletchette to Amyuki</i>
+Yuumei
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+21/230
+2
+common
+Drinker of Night's Melodies
+white
+<img src='magic-mana-small-1.png' alt='1' width='14' height='14'><img src='magic-mana-small-W.png' alt='W' width='14' height='14'>
+Creature — Human 
+1
+3
+<span class="symbol"><img src='magic-mana-small-T.png' alt='T' width='14' height='14'></span>, Tap an untapped token you control: Tap target creature.
+<i>Embrace the starry moonlight, for tonight is like no other.</i>
+Mochigome138
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+23/230
+3
+common
+Flâneur
+white
+<img src='magic-mana-small-2.png' alt='2' width='14' height='14'><img src='magic-mana-small-W.png' alt='W' width='14' height='14'>
+Enchantment
+
+
+When Fl&#226;neur enters, exile target creature or planeswalker until Fl&#226;neur leaves the battlefield.<br>///br///<span class="symbol"><img src='magic-mana-small-2.png' alt='2' width='14' height='14'><img src='magic-mana-small-W.png' alt='W' width='14' height='14'></span>: Return Fl&#226;neur to its owner&#8217;s hand.
+<i>&#8220;Go take a walk. We&#8217;ll talk again when your mind is clear.&#8221;<br>///br///&#8212;Vielle to Amyuki</i>
+Eccvi
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+25/230
+4
+common
+Hive Connectivity
+white
+<img src='magic-mana-small-2.png' alt='2' width='14' height='14'><img src='magic-mana-small-W.png' alt='W' width='14' height='14'><img src='magic-mana-small-W.png' alt='W' width='14' height='14'>
+Instant
+
+
+Creatures you control get +2/+1 until end of turn.<br>///br///Digitize <i>(You may play this face down as a tapped land with &#8220;<span class="symbol"><img src='magic-mana-small-T.png' alt='T' width='14' height='14'></span>: Add <span class="symbol"><img src='magic-mana-small-C.png' alt='C' width='14' height='14'></span>.&#8221;)</i>
+
+idk ill look it up later
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+28/230
+2
+common
+Lean on Me
+white
+<img src='magic-mana-small-1.png' alt='1' width='14' height='14'><img src='magic-mana-small-W.png' alt='W' width='14' height='14'>
+Instant
+
+
+Tap two target creatures and/or planeswalkers. Until end of turn, if either would leave the battlefield, destroy the other.
+<i>Like one, two, three...</i>
+MORI
+
+colorless
+
+
+
+
+
+
+
+===========
+vsplit
+29/230
+5
+common
+Lightshow's Ensemble
+white
+<img src='magic-mana-small-4.png' alt='4' width='14' height='14'><img src='magic-mana-small-W.png' alt='W' width='14' height='14'>
+Creature — Human Artist 
+5
+4
+
+<i>&#8220;Skip the camera. All we need are lights and action!&#8221;</i>
+Corbenyx
+Scream Out
+white
+<img src='magic-mana-small-W.png' alt='W' width='14' height='14'>
+Sorcery — Tale 
+
+
+Creatures you control gain lifelink until end of turn. <i>(You may cast a copy of this spell once while this creature is on the battlefield.)</i> 
+
+
+===========
+normal
+30/230
+3
+common
+Lonely Medium
+white
+<img src='magic-mana-small-2.png' alt='2' width='14' height='14'><img src='magic-mana-small-W.png' alt='W' width='14' height='14'>
+Creature — Human Cleric 
+3
+3
+When Lonely Medium enters, exile target card from a graveyard.
+<i>Not a lonely big or a lonely small.</i>
+Sanbonzakura
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+31/230
+4
+common
+Nightmarish Actors
+white
+<img src='magic-mana-small-3.png' alt='3' width='14' height='14'><img src='magic-mana-small-W.png' alt='W' width='14' height='14'>
+Creature — Human Horror Horse 
+*
+5
+Lifelink<br>///br///Nightmarish Actors&#8217;s power is equal to the number of creatures you control.
+
+
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+32/230
+2
+common
+Off on a Date
+white
+<img src='magic-mana-small-1.png' alt='1' width='14' height='14'><img src='magic-mana-small-W.png' alt='W' width='14' height='14'>
+Instant
+
+
+Exile up to two target creatures controlled by different players. Return those creatures to the battlefield under their owners&#8217; control at the beginning of the next end step.
+<i>A lifetime of sorrows can sort of be relieved in an instant. But it needs to be a good instant.</i>
+MORI
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+33/230
+1
+common
+Online Anonymity
+white
+<img src='magic-mana-small-W.png' alt='W' width='14' height='14'>
+Sorcery
+
+
+Create a 1/1 white Human creature token.<br>///br///Digitize <i>(You may play this face down as a tapped land with &#8220;<span class="symbol"><img src='magic-mana-small-T.png' alt='T' width='14' height='14'></span>: Add <span class="symbol"><img src='magic-mana-small-C.png' alt='C' width='14' height='14'></span>.&#8221;)</i>
+
+ScottUminga
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+34/230
+1
+common
+Out of Order
+white
+<img src='magic-mana-small-W.png' alt='W' width='14' height='14'>
+Instant
+
+
+Exile target nonland permanent if it has mana value 1 or less.<br>///br///<i>Wayward</i> &#8212; If you&#8217;ve cast a spell from outside your hand this turn, exile it if it has mana value 3 or less.
+<i>This is how villain arcs begin.</i>
+Aoi Ogata
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+36/230
+1
+common
+Playful Record
+white, artifact, horizontal
+<img src='magic-mana-small-W.png' alt='W' width='14' height='14'>
+Artifact
+
+
+When Playful Record enters or leaves the battlefield, create a 1/1 white Human creature token.<br>///br///<span class="symbol"><img src='magic-mana-small-4.png' alt='4' width='14' height='14'><img src='magic-mana-small-W.png' alt='W' width='14' height='14'></span>, Sacrifice Playful Record: Draw a card. You gain 3 life.
+
+ALCD
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+39/230
+1
+common
+Star of the Show
+white
+<img src='magic-mana-small-W.png' alt='W' width='14' height='14'>
+Creature — Human Artist 
+1
+1
+When Star of the Show dies, reveal the top five cards of your library. You may put a Human or Plains card from among them into your hand. Put the rest on the bottom of your library in a random order.
+
+Paul Nong
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+40/230
+2
+common
+Technosphere Explorer
+white
+<img src='magic-mana-small-1.png' alt='1' width='14' height='14'><img src='magic-mana-small-W.png' alt='W' width='14' height='14'>
+Creature — Human Scout 
+2
+2
+When Technosphere Explorer leaves the battlefield, if it isn&#8217;t blocking, you may exile it. As long as its exiled, its owner may pay <span class="symbol"><img src='magic-mana-small-2.png' alt='2' width='14' height='14'></span> as a sorcery to put it into their hand.
+
+yu ni t
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+44/230
+3
+common
+Witness of New Humanity
+white
+<img src='magic-mana-small-2.png' alt='2' width='14' height='14'><img src='magic-mana-small-W.png' alt='W' width='14' height='14'>
+Creature — Human Avatar 
+3
+2
+<i>Wayward</i> &#8212; Once each turn, when you cast a spell from outside your hand, create a 1/1 white Human creature token.
+<i>The Halcyon Revolution asked for only one thing: Efficiency.</i>
+Ninerio
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+46/230
+1
+common
+Alone With My Thoughts
+blue
+<img src='magic-mana-small-U.png' alt='U' width='14' height='14'>
+Instant
+
+
+Draw a card.<br>///br///Look at the top five cards of your library. <i>(Don&#8217;t change their order.)</i>
+<i>&#8220;Life is so needlessly complicated.&#8221;<br>///br///&#8212;Vielle Singer</i>
+GUWEIZ
+
+colorless
+
+
+
+
+
+
+
+===========
+vsplit
+49/230
+2
+common
+Censored Speaker
+blue
+<img src='magic-mana-small-1.png' alt='1' width='14' height='14'><img src='magic-mana-small-U.png' alt='U' width='14' height='14'>
+Creature — Human Rogue 
+3
+1
+
+<i>There are certain combinations of sounds that cannot be spoken except during the blackouts. Some wonder why.</i>
+Nyanfood
+Say the Word
+blue
+<img src='magic-mana-small-U.png' alt='U' width='14' height='14'>
+Sorcery — Tale 
+
+
+Return target creature to its owner&#8217;s hand. <i>(You may cast a copy of this spell once while this creature is on the battlefield.)</i>
+
+
+===========
+normal
+54/230
+1
+common
+Gaze Skyward and Weep
+blue
+<img src='magic-mana-small-U.png' alt='U' width='14' height='14'>
+Sorcery — Revelation 
+3
+5
+Put a flying counter on target creature.<br>///br///Coalesce <span class="symbol"><img src='magic-mana-small-4.png' alt='4' width='14' height='14'><img src='magic-mana-small-U.png' alt='U' width='14' height='14'><img src='magic-mana-small-U.png' alt='U' width='14' height='14'></span> <i>(You may cast this from your graveyard for its coalesce cost. If you do, put it onto the battlefield as a Horror creature after it resolves. Exile it if it would leave the battlefield or not resolve.)</i><br>///br///Reach
+
+2wenty
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+57/230
+1
+common
+Harmonic Darling
+blue
+<img src='magic-mana-small-U.png' alt='U' width='14' height='14'>
+Creature — Human Artist 
+1
+1
+<span class="symbol"><img src='magic-mana-small-T.png' alt='T' width='14' height='14'></span>: Surveil 1.
+<i>She smiled her brilliant smile. As she sang her heart out, she heard hearts around her sing as well. The Crystal Moon was a place for everyone to put their misery behind them.</i>
+Namendart
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+61/230
+2
+common
+Lost to the Music
+blue
+<img src='magic-mana-small-1.png' alt='1' width='14' height='14'><img src='magic-mana-small-U.png' alt='U' width='14' height='14'>
+Enchantment — Aura 
+
+
+Enchant creature<br>///br///Enchanted permanent has base power 0, is an Artist, and loses all abilities.<br>///br///You may cast this card from your graveyard. It costs <span class="symbol"><img src='magic-mana-small-3.png' alt='3' width='14' height='14'><img src='magic-mana-small-U.png' alt='U' width='14' height='14'><img src='magic-mana-small-U.png' alt='U' width='14' height='14'></span> to cast this way.
+<i>Music so infectious that all else fades.</i>
+Yuumei
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+63/230
+1
+common
+Magic With Style
+blue
+<img src='magic-mana-small-U.png' alt='U' width='14' height='14'>
+Sorcery
+
+
+You may cast a copy of target instant or sorcery card in your graveyard by exiling that card in addition to its other costs. <i>(You still pay its costs.)</i>
+<i>&#8220;Look at this cool hat I found!&#8221;</i>
+coto notte
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+64/230
+2
+common
+Miseiko Idols
+blue
+<img src='magic-mana-small-1.png' alt='1' width='14' height='14'><img src='magic-mana-small-U.png' alt='U' width='14' height='14'>
+Creature — Human Artist 
+2
+2
+Vigilance<br>///br///<i>Wayward</i> &#8212; Whenever you cast a spell from outside your hand, Miseiko Idols gets +1/+1 and can&#8217;t be blocked until end of turn.
+<i>Boy bands were fairly popular until Aekyu started running out of people.</i>
+&#12473;&#12458;&#12454;
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+66/230
+5
+common
+Open Source
+blue
+<img src='magic-mana-small-3.png' alt='3' width='14' height='14'><img src='magic-mana-small-U.png' alt='U' width='14' height='14'><img src='magic-mana-small-U.png' alt='U' width='14' height='14'>
+Instant
+
+
+Draw three cards.<br>///br///Digitize <i>(You may play this face down as a tapped land with &#8220;<span class="symbol"><img src='magic-mana-small-T.png' alt='T' width='14' height='14'></span>: Add <span class="symbol"><img src='magic-mana-small-C.png' alt='C' width='14' height='14'></span>.&#8221;)</i>
+<i>Even with all the information beheld in plain sight, Ezren couldn&#8217;t begin to grasp this miracle.</i>
+Scott Uminga
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+67/230
+1
+common
+Ponder Infinite Misfortunes
+blue
+<img src='magic-mana-small-U.png' alt='U' width='14' height='14'>
+Sorcery — Revelation 
+2
+1
+Surveil 1.<br>///br///Coalesce <span class="symbol"><img src='magic-mana-small-2.png' alt='2' width='14' height='14'><img src='magic-mana-small-U.png' alt='U' width='14' height='14'></span> <i>(You may cast this from your graveyard for its coalesce cost. If you do, put it onto the battlefield as a Horror creature after it resolves. Exile it if it would leave the battlefield or not resolve.)</i><br>///br///Flying
+
+Yayin
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+68/230
+4
+common
+Rhythm Seer
+blue
+<img src='magic-mana-small-3.png' alt='3' width='14' height='14'><img src='magic-mana-small-U.png' alt='U' width='14' height='14'>
+Creature — Human Artist 
+4
+4
+<i>Wayward</i> &#8212; When Rhythm Seer enters the battlefield, if you&#8217;ve cast a spell from outside your hand this turn, draw a card.
+
+Tian Zi
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+69/230
+1
+common
+Rippling Curtains
+blue
+<img src='magic-mana-small-U.png' alt='U' width='14' height='14'>
+Instant
+
+
+Return target creature, planeswalker, or token to its owner&#8217;s hand.<br>///br///<i>Wayward</i> &#8212; If you&#8217;ve cast a spell from outside your hand this turn, cache. <i>(Create a Clue or Treasure token.)</i>
+
+Rotarran
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+71/230
+6
+common
+Smokesign Mystic
+blue
+<img src='magic-mana-small-5.png' alt='5' width='14' height='14'><img src='magic-mana-small-U.png' alt='U' width='14' height='14'>
+Creature — Human Artist 
+4
+4
+When Smokesign Mystic enters, cache once for each spell you&#8217;ve cast this turn. <i>(Create a Clue or Treasure token.)</i><br>///br///<span class="symbol"><img src='magic-mana-small-5.png' alt='5' width='14' height='14'><img src='magic-mana-small-U.png' alt='U' width='14' height='14'></span>, Exile Smokesign Mystic from your hand: At the beginning of your next end step, you may cast Smokesign Mystic without paying its mana cost.
+
+Neg101
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+73/230
+3
+common
+Technopath Operative
+blue
+<img src='magic-mana-small-2.png' alt='2' width='14' height='14'><img src='magic-mana-small-U.png' alt='U' width='14' height='14'>
+Creature — Human Artificer 
+3
+2
+When Technopath Operative enters, cache. <i>(Create a Clue or Treasure token.)</i>
+<i>Serin discarded more inventions than most could hope to create.</i>
+&#22805;&#39135;@Y.x
+
+colorless
+
+
+
+
+
+
+
+===========
+vsplit
+75/230
+1
+common
+Traveler at Crossroads
+blue
+<img src='magic-mana-small-U.png' alt='U' width='14' height='14'>
+Creature — Human Scout 
+1
+2
+Ward <span class="symbol"><img src='magic-mana-small-2.png' alt='2' width='14' height='14'></span>
+<i>Always yet another path to discover.</i>
+Simone Ferriero
+New Roads
+blue
+<img src='magic-mana-small-2.png' alt='2' width='14' height='14'><img src='magic-mana-small-U.png' alt='U' width='14' height='14'>
+Sorcery — Tale 
+
+
+Surveil 2. Draw a card. <i>(You may cast a copy of this spell once while this creature is on the battlefield.)</i>
+
+
+===========
+normal
+77/230
+2
+common
+User Banned
+blue
+<img src='magic-mana-small-1.png' alt='1' width='14' height='14'><img src='magic-mana-small-U.png' alt='U' width='14' height='14'>
+Instant
+
+
+Counter target creature or planeswalker spell unless its controller pays <span class="symbol"><img src='magic-mana-small-2.png' alt='2' width='14' height='14'></span>.<br>///br///Digitize <i>(You may play this face down as a tapped land with &#8220;<span class="symbol"><img src='magic-mana-small-T.png' alt='T' width='14' height='14'></span>: Add <span class="symbol"><img src='magic-mana-small-C.png' alt='C' width='14' height='14'></span>.&#8221;)</i>
+
+Scott Uminga
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+78/230
+4
+common
+Wavedasher
+blue
+<img src='magic-mana-small-3.png' alt='3' width='14' height='14'><img src='magic-mana-small-U.png' alt='U' width='14' height='14'>
+Creature — Human Artist 
+3
+4
+Once each turn, when you put one or more cards from your library into your graveyard, draw a card.
+
+Shilin
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+80/230
+3
+common
+Witness of Last Flight
+blue
+<img src='magic-mana-small-2.png' alt='2' width='14' height='14'><img src='magic-mana-small-U.png' alt='U' width='14' height='14'>
+Creature — Human Avatar 
+3
+2
+<i>Wayward</i> &#8212; Once each turn, when you cast a spell from outside your hand, cache. <i>(Create a Clue or Treasure token.)</i>
+<i>He feared coming down as much as he feared going up.</i>
+Ninerio
+
+colorless
+
+
+
+
+
+
+
+===========
+vsplit
+81/230
+3
+common
+Abeyant Dreamer
+black
+<img src='magic-mana-small-2.png' alt='2' width='14' height='14'><img src='magic-mana-small-B.png' alt='B' width='14' height='14'>
+Creature — Horror Angel 
+2
+2
+Flying
+
+AfterDarqq
+Incomplete
+black
+<img src='magic-mana-small-2.png' alt='2' width='14' height='14'><img src='magic-mana-small-B.png' alt='B' width='14' height='14'>
+Sorcery — Tale 
+
+
+Each player sacrifices a creature. <i>(You may cast a copy of this spell once while this creature is on the battlefield.)</i>
+
+
+===========
+normal
+85/230
+5
+common
+Blade Maid
+black
+<img src='magic-mana-small-4.png' alt='4' width='14' height='14'><img src='magic-mana-small-B.png' alt='B' width='14' height='14'>
+Creature — Human Assassin 
+4
+2
+Flash<br>///br///When Blade Maid enters, target creature gets -2/-2 until end of turn.
+<i>&#8220;I don&#8217;t live in a forest with yokai... Why would you think that?&#8221;</i>
+Rianya
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+86/230
+4
+common
+Child of Fallacies
+black
+<img src='magic-mana-small-3.png' alt='3' width='14' height='14'><img src='magic-mana-small-B.png' alt='B' width='14' height='14'>
+Creature — Human Horror 
+3
+4
+Whenever an artifact you control dies, Child of Fallacies gains lifelink until end of turn.<br>///br///Whenever another creature you control dies, Child of Fallacies gains deathtouch until end of turn.
+
+&#32117;&#25551;&#12461;&#29275;
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+88/230
+1
+common
+Darkside Accountant
+black
+<img src='magic-mana-small-B.png' alt='B' width='14' height='14'>
+Creature — Human Advisor 
+1
+1
+Deathtouch<br>///br///When Darkside Accountant dies, cache and lose 1 life. <i>(Create a Clue or Treasure token.)</i>
+
+Gogalking
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+89/230
+1
+common
+Disconnect
+black
+<img src='magic-mana-small-B.png' alt='B' width='14' height='14'>
+Sorcery
+
+
+Target opponent reveals their hand and discards a card. You lose 2 life.<br>///br///Digitize <i>(You may play this face down as a tapped land with &#8220;<span class="symbol"><img src='magic-mana-small-T.png' alt='T' width='14' height='14'></span>: Add <span class="symbol"><img src='magic-mana-small-C.png' alt='C' width='14' height='14'></span>.&#8221;)</i>
+
+AfterDarqq
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+90/230
+2
+common
+Dreamer's Bane
+black
+<img src='magic-mana-small-1.png' alt='1' width='14' height='14'><img src='magic-mana-small-B.png' alt='B' width='14' height='14'>
+Creature — Horror 
+2
+1
+When Dreamer&#8217;s Bane is put into your graveyard from anywhere, you may shuffle it into your library. If you do, each opponent loses 2 life and you gain 2 life.
+<i>&#8220;I&#8217;ll come to the party... after one more problem set.&#8221;</i>
+i
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+91/230
+3
+common
+Eerie Night Stroll
+black
+<img src='magic-mana-small-1.png' alt='1' width='14' height='14'><img src='magic-mana-small-B.png' alt='B' width='14' height='14'><img src='magic-mana-small-B.png' alt='B' width='14' height='14'>
+Sorcery
+
+
+Return target creature card from your graveyard to your hand. Create a 2/2 black Horror creature token with deathtouch.
+<i>&#8220;Now I&#8217;m going to have nightmares.&#8221;<br>///br///&#8212; Nicholas, the Traveler</i>
+Sakiyama
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+92/230
+8
+common
+Error 404
+black
+<img src='magic-mana-small-6.png' alt='6' width='14' height='14'><img src='magic-mana-small-B.png' alt='B' width='14' height='14'><img src='magic-mana-small-B.png' alt='B' width='14' height='14'>
+Instant
+
+
+This spell costs <span class="symbol"><img src='magic-mana-small-1.png' alt='1' width='14' height='14'></span> less for card in your graveyard.<br>///br///Exile target creature.<br>///br///Digitize <i>(You may play this face down as a tapped land with &#8220;<span class="symbol"><img src='magic-mana-small-T.png' alt='T' width='14' height='14'></span>: Add <span class="symbol"><img src='magic-mana-small-C.png' alt='C' width='14' height='14'></span>.&#8221;)</i>
+<i>Consciousness not found.</i>
+Nguyen Dong
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+94/230
+3
+common
+Forged Through Nightmare
+black
+<img src='magic-mana-small-2.png' alt='2' width='14' height='14'><img src='magic-mana-small-B.png' alt='B' width='14' height='14'>
+Sorcery — Revelation 
+4
+4
+Create a 2/2 black Horror creature token with deathtouch.<br>///br///Coalesce <span class="symbol"><img src='magic-mana-small-6.png' alt='6' width='14' height='14'><img src='magic-mana-small-B.png' alt='B' width='14' height='14'><img src='magic-mana-small-B.png' alt='B' width='14' height='14'></span> <i>(You may cast this from your graveyard for its coalesce cost. If you do, put it onto the battlefield as a Horror creature after it resolves. Exile it if it would leave the battlefield or not resolve.)</i>
+
+&#32117;&#25551;&#12461;&#29275;
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+105/230
+1
+common
+Self-Imperil
+black
+<img src='magic-mana-small-B.png' alt='B' width='14' height='14'>
+Sorcery
+
+
+When you cast this spell from outside your hand, copy it.<br>///br///You draw a card and lose 1 life.<br>///br///Flashback <span class="symbol"><img src='magic-mana-small-3.png' alt='3' width='14' height='14'><img src='magic-mana-small-B.png' alt='B' width='14' height='14'></span> <i>(You may cast this card from your graveyard for its flashback cost. Then exile it.)</i>
+
+Yuumei
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+106/230
+3
+common
+Seventh Street Oracle
+black
+<img src='magic-mana-small-2.png' alt='2' width='14' height='14'><img src='magic-mana-small-B.png' alt='B' width='14' height='14'>
+Creature — Horror Cleric 
+3
+3
+Deathtouch<br>///br///When Seventh Street Oracle enters or leaves the battlefield, mill three cards.
+
+Xiaofanchuanart
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+107/230
+1
+common
+Splintered Soul
+black
+<img src='magic-mana-small-B.png' alt='B' width='14' height='14'>
+Creature — Spirit Horror 
+2
+1
+Splintered Soul enters tapped.<br>///br///At the beginning of your end step, if you&#8217;ve cast a non-Spirit Horror or Revelation spell this turn, you may return Splintered Soul from your graveyard to your hand.
+
+sanctus-ingenium
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+108/230
+3
+common
+Studious Pupil
+black
+<img src='magic-mana-small-2.png' alt='2' width='14' height='14'><img src='magic-mana-small-B.png' alt='B' width='14' height='14'>
+Creature — Human 
+2
+2
+When Studious Pupil enters, you surveil 1, draw a card, and lose 1 life. <i>(Look at the top card of your library. You may put that card into your graveyard.)</i>
+<i>&#8220;I&#8217;ll come to the party... after one more problem set.&#8221;</i>
+&#29790;&#40548;&#20185;&#22777;&#21313;&#20845;
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+110/230
+1
+common
+Too Much to Drink
+black
+<img src='magic-mana-small-B.png' alt='B' width='14' height='14'>
+Instant
+
+
+Destroy target creature if it has mana value or toughness 2 or less.<br>///br///<i>Wayward</i> &#8212; If you&#8217;ve cast a spell from outside your hand this turn, surveil 2.
+<i>At least you won&#8217;t remember what you were worried about in the first place.</i>
+Ktakbl0
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+114/230
+1
+common
+Watch the Sun Fade
+black
+<img src='magic-mana-small-B.png' alt='B' width='14' height='14'>
+Instant — Revelation 
+4
+6
+Exile target card from a graveyard.<br>///br///Coalesce <span class="symbol"><img src='magic-mana-small-4.png' alt='4' width='14' height='14'><img src='magic-mana-small-B.png' alt='B' width='14' height='14'><img src='magic-mana-small-B.png' alt='B' width='14' height='14'></span> <i>(You may cast this from your graveyard for its coalesce cost. If you do, put it onto the battlefield as a Horror creature after it resolves. Exile it if it would leave the battlefield or not resolve.)</i><br>///br///Coalesce this only as a sorcery.
+
+Fantazyme
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+115/230
+3
+common
+Witness of No Return
+black
+<img src='magic-mana-small-2.png' alt='2' width='14' height='14'><img src='magic-mana-small-B.png' alt='B' width='14' height='14'>
+Creature — Human Avatar 
+3
+2
+<i>Wayward</i> &#8212; Once each turn, when you cast a spell from outside your hand, you may pay 3 life. If you do, draw a card.
+<i>When the abyss gazes back, they burn out your eyes.</i>
+Ninerio
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+117/230
+1
+common
+Yri's Frontrunner
+black
+<img src='magic-mana-small-B.png' alt='B' width='14' height='14'>
+Creature — Human Rogue 
+1
+2
+Once each turn, when you put one or more cards from your library into your graveyard, Yri&#8217;s Frontrunner gets +1/+1 and gains menace until end of turn.
+<i>Yri makes a lucrative business walking through a crowded street with fifteen knives without anyone noticing.</i>
+Lulo0o
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+119/230
+3
+common
+Avatar of Revels
+red
+<img src='magic-mana-small-2.png' alt='2' width='14' height='14'><img src='magic-mana-small-R.png' alt='R' width='14' height='14'>
+Creature — Horror Avatar 
+3
+3
+Whenever Avatar of Revels attacks, it gets +1/+0 for each noncreature token you control.
+<i>&#8220;Is he... glitching out?&#8221;<br>///br///&#8220;Huh? Oh, that&#8217;s just Bill.&#8221;</i>
+Scott Uminga
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+121/230
+1
+common
+Corrupted Angelic Songs
+red
+<img src='magic-mana-small-R.png' alt='R' width='14' height='14'>
+Sorcery — Revelation 
+5
+4
+Discard a card, then draw a card.<br>///br///Coalesce <span class="symbol"><img src='magic-mana-small-5.png' alt='5' width='14' height='14'><img src='magic-mana-small-R.png' alt='R' width='14' height='14'><img src='magic-mana-small-R.png' alt='R' width='14' height='14'></span> <i>(You may cast this from your graveyard for its coalesce cost. If you do, put it onto the battlefield as a Horror creature after it resolves. Exile it if it would leave the battlefield or not resolve.)</i>
+
+Homutan
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+124/230
+1
+common
+Foul-Tongued Acolyte
+red
+<img src='magic-mana-small-R.png' alt='R' width='14' height='14'>
+Creature — Human Cleric 
+2
+1
+Whenever a Horror enters the battlefield, Foul-Tongued Acolyte deals 2 damage to each opponent.
+<i>Flames more than pyromaniacs.</i>
+NishikujiC
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+125/230
+2
+common
+Frustrated Artist
+red
+<img src='magic-mana-small-1.png' alt='1' width='14' height='14'><img src='magic-mana-small-R.png' alt='R' width='14' height='14'>
+Creature — Human Artist 
+3
+1
+When Frustrated Artist enters or leaves exile, you may create a token that&#8217;s a copy of it.
+<i>Behind every eternal masterpiece is an eternity being told &#8220;not good enough.&#8221;</i>
+Yuumei
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+126/230
+3
+common
+Getaway Driver
+red
+<img src='magic-mana-small-2.png' alt='2' width='14' height='14'><img src='magic-mana-small-R.png' alt='R' width='14' height='14'>
+Creature — Human Pilot 
+2
+2
+Haste<br>///br///Whenever Getaway Driver attacks, cache. <i>(Create a Clue or Treasure token.)</i>
+
+Aurahack
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+128/230
+1
+common
+His Overwhelming Bloodlust
+red
+<img src='magic-mana-small-R.png' alt='R' width='14' height='14'>
+Sorcery — Revelation 
+5
+3
+Target creature can&#8217;t block this turn.<br>///br///Coalesce <span class="symbol"><img src='magic-mana-small-3.png' alt='3' width='14' height='14'><img src='magic-mana-small-R.png' alt='R' width='14' height='14'><img src='magic-mana-small-R.png' alt='R' width='14' height='14'></span> <i>(You may cast this from your graveyard for its coalesce cost. If you do, put it onto the battlefield as a Horror creature after it resolves. Exile it if it would leave the battlefield or not resolve.)</i>
+
+Kate-Fox
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+129/230
+3
+common
+Hook and Line
+red
+<img src='magic-mana-small-2.png' alt='2' width='14' height='14'><img src='magic-mana-small-R.png' alt='R' width='14' height='14'>
+Sorcery
+
+
+Gain control of target creature or artifact. Untap it. It gains haste until end of turn.<br>///br///Digitize <i>(You may play this face down as a tapped land with &#8220;<span class="symbol"><img src='magic-mana-small-T.png' alt='T' width='14' height='14'></span>: Add <span class="symbol"><img src='magic-mana-small-C.png' alt='C' width='14' height='14'></span>.&#8221;)</i>
+
+NanoMortis
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+130/230
+3
+common
+Idyll Conjurer
+red
+<img src='magic-mana-small-2.png' alt='2' width='14' height='14'><img src='magic-mana-small-R.png' alt='R' width='14' height='14'>
+Creature — Human Artist 
+2
+2
+Prowess<br>///br///<i>Wayward</i> &#8212; Whenever you cast a spell from outside your hand, other creatures you control get +1/+1 until end of turn.
+
+lulo0o
+
+colorless
+
+
+
+
+
+
+
+===========
+vsplit
+131/230
+3
+common
+Kaeda Troublemakers
+red
+<img src='magic-mana-small-2.png' alt='2' width='14' height='14'><img src='magic-mana-small-R.png' alt='R' width='14' height='14'>
+Creature — Human Rogue 
+3
+3
+
+<i>&#8220;I think the word troublemaker is a bit rude. I consider myself a self employed problem fixer!&#8221;</i>
+Toni Infante
+Oops, Collateral
+red
+<img src='magic-mana-small-1.png' alt='1' width='14' height='14'><img src='magic-mana-small-R.png' alt='R' width='14' height='14'>
+Sorcery — Tale 
+
+
+Destroy target  artifact. <i>(You may cast a copy of this spell once while this creature is on the battlefield.)</i> 
+
+
+===========
+normal
+136/230
+1
+common
+Neon City Racer
+red
+<img src='magic-mana-small-R.png' alt='R' width='14' height='14'>
+Creature — Reflection Pilot 
+1
+1
+Neon City Racer enters with three haste counters on it.<br>///br///<span class="symbol"><img src='magic-mana-small-T.png' alt='T' width='14' height='14'></span>: Move a counter from Neon City Racer to target creature you control.
+
+Luke Poller
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+139/230
+2
+common
+Overclock
+red
+<img src='magic-mana-small-1.png' alt='1' width='14' height='14'><img src='magic-mana-small-R.png' alt='R' width='14' height='14'>
+Instant
+
+
+Overclock deals 3 damage to any target and 3 damage to you.<br>///br///Digitize <i>(You may play this face down as a tapped land with &#8220;<span class="symbol"><img src='magic-mana-small-T.png' alt='T' width='14' height='14'></span>: Add <span class="symbol"><img src='magic-mana-small-C.png' alt='C' width='14' height='14'></span>.&#8221;)</i>
+<i>...and on fire.</i>
+Scott Uminga
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+140/230
+1
+common
+Protagonism
+red
+<img src='magic-mana-small-X.png' alt='X' width='14' height='14'><img src='magic-mana-small-R.png' alt='R' width='14' height='14'>
+Instant
+
+
+Target creature gets +X/+0 and gains first strike until end of turn. Create a 1/1 white Human creature token.
+<i>Iason knew that he was destined to change things. In a way, he was right.</i>
+Kan
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+143/230
+2
+common
+Red Hot Racer
+red, artifact, horizontal
+<img src='magic-mana-small-1.png' alt='1' width='14' height='14'><img src='magic-mana-small-R.png' alt='R' width='14' height='14'>
+Artifact — Vehicle 
+4
+3
+Menace<br>///br///Crew 1 <i>(Tap any number of creatures you control with total power 1 or greater: This Vehicle becomes an artifact creature until end of turn.)</i>
+<i>Sidewalks? More like shortcuts.</i>
+Nougat
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+144/230
+2
+common
+Satsukai Fixer
+red
+<img src='magic-mana-small-1.png' alt='1' width='14' height='14'><img src='magic-mana-small-R.png' alt='R' width='14' height='14'>
+Creature — Human Scout 
+2
+2
+Menace<br>///br///Whenever one or more cards you own enter or leave exile, Satsukai Fixer gets +1/+1 until end of turn.
+<i>&#8220;Tch. You expect me to fix everything. Fine, I&#8217;ll burn the moon.&#8221;</i>
+GUWEIZ
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+145/230
+1
+common
+Scorch
+red
+<img src='magic-mana-small-R.png' alt='R' width='14' height='14'>
+Sorcery
+
+
+Scorch deals 3 damage to any target.
+<i>&#8220;Rena loved puzzles. It gave her a chance to use her flamethrower.&#8221;</i>
+Norio386
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+151/230
+1
+common
+Waiting for You
+red
+<img src='magic-mana-small-R.png' alt='R' width='14' height='14'>
+Sorcery
+
+
+Exile the top card of your library. You may play it this turn.<br>///br///<i>Wayward</i> &#8212; If you&#8217;ve cast a spell from outside your hand this turn, add <span class="symbol"><img src='magic-mana-small-R.png' alt='R' width='14' height='14'></span>.
+<i>At least you won&#8217;t remember what you were worried about in the first place.</i>
+SOLO
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+153/230
+3
+common
+Witness of Red Skies
+red
+<img src='magic-mana-small-2.png' alt='2' width='14' height='14'><img src='magic-mana-small-R.png' alt='R' width='14' height='14'>
+Creature — Human Avatar 
+3
+2
+<i>Wayward</i> &#8212; Once each turn, when you cast a spell from outside your hand, Witness of Red Skies deals 2 damage to each opponent.
+<i>&#8220;Oh. It looks like we&#8217;re all just dead then. Nice knowing you.&#8221;</i>
+Ninerio
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+156/230
+6
+common
+Colossal Metalmaw
+green, artifact, horizontal
+<img src='magic-mana-small-4.png' alt='4' width='14' height='14'><img src='magic-mana-small-G.png' alt='G' width='14' height='14'><img src='magic-mana-small-G.png' alt='G' width='14' height='14'>
+Artifact Creature — Dinosaur Construct 
+6
+6
+Trample<br>///br///When Colossal Metalmaw dies, cache twice. <i>(Create a Clue or Treasure token.)</i>
+<i>It&#8217;s already too late. Feeling for the ground quake does nothing.</i>
+86 &#8212; 86
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+160/230
+1
+common
+God Mode
+green
+<img src='magic-mana-small-G.png' alt='G' width='14' height='14'>
+Instant
+
+
+Until end of turn, target creature gains hexproof and indestructible and becomes a God in addition to its other creature types.<br>///br///Digitize <i>(You may play this face down as a tapped land with &#8220;<span class="symbol"><img src='magic-mana-small-T.png' alt='T' width='14' height='14'></span>: Add <span class="symbol"><img src='magic-mana-small-C.png' alt='C' width='14' height='14'></span>.&#8221;)</i>
+
+Rashedjrs
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+161/230
+1
+common
+Hang and Chill
+green
+<img src='magic-mana-small-G.png' alt='G' width='14' height='14'>
+Instant
+
+
+Create a 1/1 white Human creature token.<br>///br///<i>Wayward</i> &#8212; If you&#8217;ve cast a spell from outside your hand this turn, instead create two of those tokens.
+<i>&#8220;Milk chocolate is better than dark.&#8221;<br>///br///&#8220;What? No! You heretic!&#8221;</i>
+nishikujic
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+163/230
+3
+common
+Human Intricacy
+green
+<img src='magic-mana-small-2.png' alt='2' width='14' height='14'><img src='magic-mana-small-G.png' alt='G' width='14' height='14'>
+Sorcery
+
+
+Affinity for Humans <i>(This spell costs <span class="symbol"><img src='magic-mana-small-1.png' alt='1' width='14' height='14'></span> less to cast for each Human you control.)</i><br>///br///You may play an additional land this turn. Draw a card.
+
+Roula
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+165/230
+2
+common
+In the Limelight
+green
+<img src='magic-mana-small-1.png' alt='1' width='14' height='14'><img src='magic-mana-small-G.png' alt='G' width='14' height='14'>
+Instant
+
+
+Target creature gets +2/+2 and gains hexproof until end of turn.
+<i>When showtime came, she stood at with a brilliant gleam in her eyes. Even her stagehands were momentarily stunned.</i>
+Scott Uminga
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+166/230
+3
+common
+Joyous Shopkeeper
+green
+<img src='magic-mana-small-2.png' alt='2' width='14' height='14'><img src='magic-mana-small-G.png' alt='G' width='14' height='14'>
+Creature — Human Druid 
+3
+2
+When Joyous Shopkeeper enters, you may play an additional land this turn.
+<i>&#8220;Would you like a succulent?&#8221;</i>
+Jia Ying Ong
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+168/230
+2
+common
+Lo-Fi Listener
+green
+<img src='magic-mana-small-1.png' alt='1' width='14' height='14'><img src='magic-mana-small-G.png' alt='G' width='14' height='14'>
+Creature — Reflection Scout 
+2
+2
+<span class="symbol"><img src='magic-mana-small-T.png' alt='T' width='14' height='14'></span>: Add one mana of any color.<br>///br///<i>Wayward</i>&#8212;Whenever you cast a spell from outside your hand, untap Lo-Fi Listener.
+
+Simone Ferrero
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+170/230
+2
+common
+Multifactor Authentication
+green
+<img src='magic-mana-small-1.png' alt='1' width='14' height='14'><img src='magic-mana-small-G.png' alt='G' width='14' height='14'>
+Sorcery
+
+
+Destroy target creature if it&#8217;s an artifact or token.<br>///br///Digitize <i>(You may play this face down as a tapped land with &#8220;<span class="symbol"><img src='magic-mana-small-T.png' alt='T' width='14' height='14'></span>: Add <span class="symbol"><img src='magic-mana-small-C.png' alt='C' width='14' height='14'></span>.&#8221;)</i>
+<i>&#8220;I&#8217;M NOT A ROBOT!&#8221;</i>
+Scott Uminga
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+171/230
+5
+common
+Night Alley Hunters
+green
+<img src='magic-mana-small-4.png' alt='4' width='14' height='14'><img src='magic-mana-small-G.png' alt='G' width='14' height='14'>
+Creature — Human Warrior 
+4
+5
+Trample<br>///br///When Night Alley Hunters enters the battlefield, draw a card if you control a token.
+<i>Log 4-37 &#8212; 5 dead in the Blackout Zone. No signs of struggle.</i>
+LiberareLimbus
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+172/230
+2
+common
+Nighttime Wanderer
+green
+<img src='magic-mana-small-1.png' alt='1' width='14' height='14'><img src='magic-mana-small-G.png' alt='G' width='14' height='14'>
+Creature — Human Scout 
+2
+1
+Vigilance<br>///br///<span class="symbol"><img src='magic-mana-small-1.png' alt='1' width='14' height='14'></span>, <span class="symbol"><img src='magic-mana-small-T.png' alt='T' width='14' height='14'></span>: Put a +1/+1 counter on each creature that entered the battlefield this turn.
+
+NWAwalrus
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+176/230
+2
+common
+Rainbow Seeker
+green
+<img src='magic-mana-small-1.png' alt='1' width='14' height='14'><img src='magic-mana-small-G.png' alt='G' width='14' height='14'>
+Creature — Human Scout 
+3
+1
+When Rainbow Seeker dies, put a paradise counter on target nonland permanent you control. <i>(It has &#8220;<span class="symbol"><img src='magic-mana-small-T.png' alt='T' width='14' height='14'></span>: Add one mana of any color.&#8221;)</i>
+<i>Journey before destination.</i>
+Bakairis
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+180/230
+9
+common
+Serin's Masterwork
+green, artifact, horizontal
+<img src='magic-mana-small-8.png' alt='8' width='14' height='14'><img src='magic-mana-small-G.png' alt='G' width='14' height='14'>
+Artifact Creature — Dragon Construct 
+6
+6
+Affinity for tokens <i>(This spell costs <span class="symbol"><img src='magic-mana-small-1.png' alt='1' width='14' height='14'></span> less to cast for each token you control.)</i><br>///br///Trample
+<i>It&#8217;s already too late. Feeling for the ground quake does nothing.</i>
+Finland
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+181/230
+2
+common
+Seventh Street Stalker
+green
+<img src='magic-mana-small-1.png' alt='1' width='14' height='14'><img src='magic-mana-small-G.png' alt='G' width='14' height='14'>
+Creature — Human Scout 
+2
+2
+Once each turn, when you put one or more cards from your library into your graveyard, create a 1/1 white Human creature token.
+
+reoenl
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+183/230
+2
+common
+Skyway Fixer
+green
+<img src='magic-mana-small-1.png' alt='1' width='14' height='14'><img src='magic-mana-small-G.png' alt='G' width='14' height='14'>
+Creature — Human Scout 
+2
+2
+Reach<br>///br///Whenever you attack with two or more creatures, gets +1/+1 and gains trample until end of turn.
+
+Resh
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+185/230
+1
+common
+Traverse the City
+green
+<img src='magic-mana-small-G.png' alt='G' width='14' height='14'>
+Sorcery
+
+
+Search your library for a basic land or a Station card, reveal it, put it into your hand, then shuffle.
+
+Yuumei
+
+colorless
+
+
+
+
+
+
+
+===========
+vsplit
+186/230
+4
+common
+Twilight Witch
+green
+<img src='magic-mana-small-2.png' alt='2' width='14' height='14'><img src='magic-mana-small-G.png' alt='G' width='14' height='14'><img src='magic-mana-small-G.png' alt='G' width='14' height='14'>
+Creature — Human Artist 
+4
+4
+Trample
+
+alcd
+Saturday Magic
+green
+<img src='magic-mana-small-G.png' alt='G' width='14' height='14'>
+Sorcery — Tale 
+
+
+You gain 4 life. <i>(You may cast a copy of this spell once while this creature is on the battlefield.)</i>
+
+
+===========
+normal
+190/230
+3
+common
+Witness of the Brink
+green
+<img src='magic-mana-small-2.png' alt='2' width='14' height='14'><img src='magic-mana-small-G.png' alt='G' width='14' height='14'>
+Creature — Human Avatar 
+3
+2
+<i>Wayward</i> &#8212; Once each turn, when you cast a spell from outside your hand, you may have target creature you control fight target creature you don&#8217;t control.
+<i>Reality was fragiler here. Distance and time folded into irrelevancy.</i>
+Ninerio
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+195/230
+2
+common
+Dreaming of Electric Sheep
+blue, red, multicolor, horizontal
+<img src='magic-mana-small-U.png' alt='U' width='14' height='14'><img src='magic-mana-small-R.png' alt='R' width='14' height='14'>
+Instant
+
+
+Create a Treasure token and a Clue token. Surveil 2.
+
+enarth01
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+196/230
+3
+common
+Dusklight Roamer
+blue, black, multicolor, horizontal
+<img src='magic-mana-small-1.png' alt='1' width='14' height='14'><img src='magic-mana-small-U.png' alt='U' width='14' height='14'><img src='magic-mana-small-B.png' alt='B' width='14' height='14'>
+Creature — Butterfly Horror 
+2
+1
+Flying<br>///br///When Dusklight Roamer enters, surveil 1, then draw a card. You lose 1 life.
+
+rnrqkqakzkfhd
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+197/230
+2
+common
+Enter Mephisto's Gate
+black, red, multicolor, horizontal
+<img src='magic-mana-small-B.png' alt='B' width='14' height='14'><img src='magic-mana-small-R.png' alt='R' width='14' height='14'>
+Instant
+
+
+Destroy target creature.
+<i>&#8220;I know there&#8217;s no going back. Why would I ever want to do that?&#8221;<br>///br///&#8212; Vielle</i>
+Ninerio
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+203/230
+3
+common
+The Faceless Many
+white, black, multicolor, horizontal
+<img src='magic-mana-small-1.png' alt='1' width='14' height='14'><img src='magic-mana-small-W.png' alt='W' width='14' height='14'><img src='magic-mana-small-B.png' alt='B' width='14' height='14'>
+Sorcery
+
+
+Create three 1/1 white Human creature tokens.
+<i>FT<br>///br///FT<br>///br///FT<br>///br///FT</i>
+&#12461;&#12517;&#12540;&#12477;&#29483;&#31070;
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+206/230
+2
+common
+Humanity Perseveres
+white, green, multicolor, horizontal
+<img src='magic-mana-small-G.png' alt='G' width='14' height='14'><img src='magic-mana-small-W.png' alt='W' width='14' height='14'>
+Sorcery
+
+
+Put a +1/+1 counter on each token creature you control. Other creatures you control get +1/+1 until end of turn.
+
+Shilin
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+212/230
+2
+common
+Moonlit Lantern Festival
+blue, green, multicolor, horizontal
+<img src='magic-mana-small-G.png' alt='G' width='14' height='14'><img src='magic-mana-small-U.png' alt='U' width='14' height='14'>
+Sorcery
+
+
+Conjure a duplicate of Plains, Mountain, and Swamp into your hand. <i>(They are basic land cards that produce <span class="symbol"><img src='magic-mana-small-W.png' alt='W' width='14' height='14'></span>, <span class="symbol"><img src='magic-mana-small-R.png' alt='R' width='14' height='14'></span>, and <span class="symbol"><img src='magic-mana-small-B.png' alt='B' width='14' height='14'></span> respectively.)</i>
+
+Alcd
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+213/230
+2
+common
+Plagued by Inner Demons
+black, green, multicolor, horizontal
+<img src='magic-mana-small-B.png' alt='B' width='14' height='14'><img src='magic-mana-small-G.png' alt='G' width='14' height='14'>
+Sorcery
+
+
+Destroy target nonland permanent with mana value 3 or less.
+
+Pota
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+214/230
+2
+common
+Reckless Aspirations
+red, green, multicolor, horizontal
+<img src='magic-mana-small-R.png' alt='R' width='14' height='14'><img src='magic-mana-small-G.png' alt='G' width='14' height='14'>
+Instant
+
+
+Exile the top two cards of your library. Until the end of your next turn, you may play those cards.
+<i>For Ezren, it wasn&#8217;t about the cliff or the drop below it. It was about how fast she&#8217;d would go and how cool it&#8217;d be.</i>
+WLOP
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+216/230
+2
+common
+Retcon
+white, blue, multicolor, horizontal
+<img src='magic-mana-small-W.png' alt='W' width='14' height='14'><img src='magic-mana-small-U.png' alt='U' width='14' height='14'>
+Instant
+
+
+Counter target spell unless its controller pays <span class="symbol"><img src='magic-mana-small-3.png' alt='3' width='14' height='14'></span>.
+<i>&#8220;I didn&#8217;t like that.&#8221;<br>///br///&#8212; Shiroyuki, Timeless</i>
+Quasarcake
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+217/230
+2
+common
+Satsukai Paladin
+white, red, multicolor, horizontal
+<img src='magic-mana-small-R.png' alt='R' width='14' height='14'><img src='magic-mana-small-W.png' alt='W' width='14' height='14'>
+Creature — Human Warrior 
+2
+1
+Lifelink<br>///br///When Satsukai Paladin enters, target Human gains haste until end of turn.
+
+NWAwlarus
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+221/230
+4
+common
+Machine of Broken Queries
+artifact
+<img src='magic-mana-small-4.png' alt='4' width='14' height='14'>
+Artifact Creature — Construct Horror 
+3
+3
+Trample<br>///br///<i>Wayward</i> &#8212; Whenever you cast a spell from outside your hand, put a +1/+1 counter on Machine of Broken Queries.
+<i>It kept rewriting itself. Serin couldn&#8217;t decipher its meaning.</i>
+86 &#8212; 86
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+24/230
+3
+uncommon
+Harbinger of Emeria
+white
+<img src='magic-mana-small-2.png' alt='2' width='14' height='14'><img src='magic-mana-small-W.png' alt='W' width='14' height='14'>
+Creature — Human Avatar 
+3
+2
+Vigilance<br>///br///When Harbinger of Emeria enters, each player creates a 1/1 white Human creature token.
+<i>As Eternity shattered, the knights appeared, but not as saviors.</i>
+lulo0o
+
+colorless
+
+
+
+
+
+
+
+===========
