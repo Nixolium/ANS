@@ -20,7 +20,7 @@
 	    {
 	        "name": "Aris of Dead Hours",
 	        "mana_cost": "{1}{U}{B}",
-	        "type": "Legendary Creature — Horror Artist ",
+	        "type": "Legendary Creature — Reflection Artist ",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-files/Aris of Dead Hours.png"
 	        },
@@ -69,7 +69,7 @@
 	        "name": "Bit Flipper",
 	        "rarity": "uncommon",
 	        "mana_cost": "{1}{U}",
-	        "type": "Creature — Bird Artificer ",
+	        "type": "Creature — Bird Gamer ",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-files/Bit Flipper.png"
 	        }
@@ -152,7 +152,7 @@
 	    {
 	        "name": "Date-Night Duo",
 	        "rarity": "uncommon",
-	        "mana_cost": "{1}{G}",
+	        "mana_cost": "{3}{G}",
 	        "type": "Creature — Human ",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-files/Date-Night Duo.png"
@@ -312,12 +312,12 @@
 	        }
 	    },
 	    {
-	        "name": "Lan, Arbiter of Secrets",
+	        "name": "Laniel, Arbiter of Secrets",
 	        "rarity": "uncommon",
 	        "mana_cost": "{4}{W}{W}",
 	        "type": "Legendary Creature — Nephil Cleric ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-files/Lan, Arbiter of Secrets.png"
+	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-files/Laniel, Arbiter of Secrets.png"
 	        }
 	    },
 	    {
@@ -426,12 +426,12 @@
 	        }
 	    },
 	    {
-	        "name": "Rail Line Rider",
+	        "name": "Rail Line Runaway",
 	        "rarity": "uncommon",
 	        "mana_cost": "{3}",
 	        "type": "Creature — Human ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-files/Rail Line Rider.png"
+	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-files/Rail Line Runaway.png"
 	        }
 	    },
 	    {
@@ -444,12 +444,12 @@
 	        }
 	    },
 	    {
-	        "name": "Red-Eyed Bystander",
+	        "name": "Iason, Sunrise Painter",
 	        "rarity": "uncommon",
 	        "mana_cost": "{3}{W}",
-	        "type": "Creature — Human Cleric ",
+	        "type": "Legendary Creature — Human Artist ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-files/Red-Eyed Bystander.png"
+	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-files/Iason, Sunrise Painter.png"
 	        }
 	    },
 	    {
@@ -591,12 +591,24 @@
 	        }
 	    },
 	    {
-	        "name": "Vielle Singer",
-	        "rarity": "uncommon",
-	        "mana_cost": "{1}{W}",
-	        "type": "Legendary Creature — Human Assassin ",
+	        "name": "Eminevoyance Adept",
+	        "mana_cost": "{1}{B}",
+	        "type": "Creature — Human Cleric ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-files/Vielle Singer.png"
+	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-files/Eminevoyance Adept.png"
+	        },
+	        "printed names": {
+	            "en": "Eminevoyance Adept"
+	        },
+	        "back": {
+	            "name": "Darkside Path",
+	            "printed_names": {
+	                "en": "Darkside Path"
+	            },
+	            "image_uris": {
+	                "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-files/Darkside Path.png"
+	            },
+	            "type": "Sorcery — Tale "
 	        }
 	    },
 	    {
@@ -609,14 +621,14 @@
 	        }
 	    },
 	    {
-	        "name": "Voc, Eager Idol",
+	        "name": "Voc, Beloved Idol",
 	        "mana_cost": "{1}{W}{U}",
 	        "type": "Legendary Creature — Angel Artist ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-files/Voc, Eager Idol.png"
+	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-files/Voc, Beloved Idol.png"
 	        },
 	        "printed names": {
-	            "en": "Voc, Eager Idol"
+	            "en": "Voc, Beloved Idol"
 	        },
 	        "back": {
 	            "name": "One More Song",
@@ -632,7 +644,7 @@
 	    {
 	        "name": "Void Tyrant",
 	        "rarity": "uncommon",
-	        "mana_cost": "{5}{G}",
+	        "mana_cost": "{4}{G}",
 	        "type": "Creature — Horror Giant ",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-files/Void Tyrant.png"
@@ -641,7 +653,7 @@
 	    {
 	        "name": "Waywarden of the Flow",
 	        "rarity": "uncommon",
-	        "mana_cost": "{3}{U}",
+	        "mana_cost": "{3}{W}",
 	        "type": "Creature — Human Artist ",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-files/Waywarden of the Flow.png"
@@ -704,7 +716,7 @@
 	    {
 	        "name": "Emeria, Once Lost",
 	        "rarity": "mythic",
-	        "mana_cost": "{2}{W}{W}",
+	        "mana_cost": "{3}{W}",
 	        "type": "Legendary Planeswalker — Emeria ",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-files/Emeria, Once Lost.png"
@@ -747,15 +759,6 @@
 	        }
 	    },
 	    {
-	        "name": "Kyv, Blood-Red Night",
-	        "rarity": "mythic",
-	        "mana_cost": "{B}{R}",
-	        "type": "Legendary Creature — Human Cleric ",
-	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-files/Kyv, Blood-Red Night.png"
-	        }
-	    },
-	    {
 	        "name": "Necroelysia",
 	        "rarity": "mythic",
 	        "mana_cost": "{B}{B}{B}",
@@ -780,15 +783,6 @@
 	        "type": "Artifact",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-files/Aetherdrifter's Bauble.png"
-	        }
-	    },
-	    {
-	        "name": "Aethion, the Suncaster",
-	        "rarity": "rare",
-	        "mana_cost": "{R}{W}",
-	        "type": "Legendary Artifact — Umbrella ",
-	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-files/Aethion, the Suncaster.png"
 	        }
 	    },
 	    {
@@ -946,7 +940,7 @@
 	    },
 	    {
 	        "name": "Hazreim, Vertical Stampede",
-	        "rarity": "rare",
+	        "rarity": "mythic",
 	        "mana_cost": "{X}{5}{G}{G}",
 	        "type": "Legendary Creature — Human Warlock ",
 	        "image_uris": {
@@ -992,7 +986,7 @@
 	    {
 	        "name": "Kylthess, the Pale Lantern",
 	        "rarity": "rare",
-	        "mana_cost": "{2}{R}",
+	        "mana_cost": "{2}{U}",
 	        "type": "Legendary Creature — Human Scout ",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-files/Kylthess, the Pale Lantern.png"
@@ -1110,7 +1104,7 @@
 	        "name": "This Empty World",
 	        "rarity": "rare",
 	        "mana_cost": "{W}",
-	        "type": "Sorcery — Revelation ",
+	        "type": "Instant — Revelation ",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-files/This Empty World.png"
 	        }
@@ -1158,78 +1152,6 @@
 	        "type": "Legendary Creature — Human Rogue ",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-files/Yri, Who Rejects Victory.png"
-	        }
-	    },
-	    {
-	        "name": "Swamp",
-	        "rarity": "common",
-	        "mana_cost": "",
-	        "type": "Basic Land — Swamp ",
-	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-files/Swamp.png"
-	        }
-	    },
-	    {
-	        "name": "Island",
-	        "rarity": "common",
-	        "mana_cost": "",
-	        "type": "Basic Land — Island ",
-	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-files/Island.png"
-	        }
-	    },
-	    {
-	        "name": "Vielle's Perch",
-	        "rarity": "uncommon",
-	        "mana_cost": "",
-	        "type": "Land",
-	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-files/Vielle's Perch.png"
-	        }
-	    },
-	    {
-	        "name": "Forest",
-	        "rarity": "common",
-	        "mana_cost": "",
-	        "type": "Basic Land — Forest ",
-	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-files/Forest.png"
-	        }
-	    },
-	    {
-	        "name": "Mountain",
-	        "rarity": "common",
-	        "mana_cost": "",
-	        "type": "Basic Land — Mountain ",
-	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-files/Mountain.png"
-	        }
-	    },
-	    {
-	        "name": "Plains",
-	        "rarity": "common",
-	        "mana_cost": "",
-	        "type": "Basic Land — Plains ",
-	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-files/Plains.png"
-	        }
-	    },
-	    {
-	        "name": "Thunder Stage",
-	        "rarity": "rare",
-	        "mana_cost": "",
-	        "type": "Land",
-	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-files/Thunder Stage.png"
-	        }
-	    },
-	    {
-	        "name": "Prismatic Eternity",
-	        "rarity": "uncommon",
-	        "mana_cost": "",
-	        "type": "Land",
-	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-files/Prismatic Eternity.png"
 	        }
 	    },
 	    {
@@ -1332,14 +1254,14 @@
 	        }
 	    },
 	    {
-	        "name": "Lightshow's Ensemble",
+	        "name": "Lightshow Ensemble",
 	        "mana_cost": "{4}{W}",
 	        "type": "Creature — Human Artist ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-files/Lightshow's Ensemble.png"
+	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-files/Lightshow Ensemble.png"
 	        },
 	        "printed names": {
-	            "en": "Lightshow's Ensemble"
+	            "en": "Lightshow Ensemble"
 	        },
 	        "back": {
 	            "name": "Scream Out",
@@ -1380,12 +1302,12 @@
 	        }
 	    },
 	    {
-	        "name": "Online Anonymity",
+	        "name": "Network Anonymity",
 	        "rarity": "common",
 	        "mana_cost": "{W}",
 	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-files/Online Anonymity.png"
+	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-files/Network Anonymity.png"
 	        }
 	    },
 	    {
@@ -1752,7 +1674,7 @@
 	        "name": "Watch the Sun Fade",
 	        "rarity": "common",
 	        "mana_cost": "{B}",
-	        "type": "Instant — Revelation ",
+	        "type": "Sorcery — Revelation ",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-files/Watch the Sun Fade.png"
 	        }
@@ -1848,14 +1770,14 @@
 	        }
 	    },
 	    {
-	        "name": "Kaeda Troublemakers",
+	        "name": "Kaede Troublemakers",
 	        "mana_cost": "{2}{R}",
 	        "type": "Creature — Human Rogue ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-files/Kaeda Troublemakers.png"
+	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-files/Kaede Troublemakers.png"
 	        },
 	        "printed names": {
-	            "en": "Kaeda Troublemakers"
+	            "en": "Kaede Troublemakers"
 	        },
 	        "back": {
 	            "name": "Oops, Collateral",
@@ -1881,7 +1803,7 @@
 	        "name": "Overclock",
 	        "rarity": "common",
 	        "mana_cost": "{1}{R}",
-	        "type": "Instant",
+	        "type": "Sorcery",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-files/Overclock.png"
 	        }
@@ -1977,12 +1899,12 @@
 	        }
 	    },
 	    {
-	        "name": "In the Limelight",
+	        "name": "Thunderous Entrance",
 	        "rarity": "common",
 	        "mana_cost": "{1}{G}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-files/In the Limelight.png"
+	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-files/Thunderous Entrance.png"
 	        }
 	    },
 	    {
@@ -2042,7 +1964,7 @@
 	    {
 	        "name": "Serin's Masterwork",
 	        "rarity": "common",
-	        "mana_cost": "{8}{G}",
+	        "mana_cost": "{6}{G}",
 	        "type": "Artifact Creature — Dragon Construct ",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-files/Serin's Masterwork.png"
@@ -2115,12 +2037,12 @@
 	        }
 	    },
 	    {
-	        "name": "Dusklight Roamer",
+	        "name": "Featherflayer",
 	        "rarity": "common",
-	        "mana_cost": "{1}{U}{B}",
-	        "type": "Creature — Butterfly Horror ",
+	        "mana_cost": "{2}{U}{B}",
+	        "type": "Creature — Nephil Horror ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-files/Dusklight Roamer.png"
+	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-files/Featherflayer.png"
 	        }
 	    },
 	    {
@@ -2133,12 +2055,12 @@
 	        }
 	    },
 	    {
-	        "name": "The Faceless Many",
+	        "name": "Faceless Many",
 	        "rarity": "common",
 	        "mana_cost": "{1}{W}{B}",
 	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-files/The Faceless Many.png"
+	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-files/Faceless Many.png"
 	        }
 	    },
 	    {
@@ -2212,11 +2134,382 @@
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-files/Harbinger of Emeria.png"
 	        }
+	    },
+	    {
+	        "name": "Araki, Waypoint Cleaner",
+	        "rarity": "rare",
+	        "mana_cost": "{4}{U}{B}",
+	        "type": "Legendary Creature — Human Rogue ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-files/Araki, Waypoint Cleaner.png"
+	        }
+	    },
+	    {
+	        "name": "Forest",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "Basic Land — Forest ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-files/Forest.png"
+	        }
+	    },
+	    {
+	        "name": "Island",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "Basic Land — Island ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-files/Island.png"
+	        }
+	    },
+	    {
+	        "name": "Mountain",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "Basic Land — Mountain ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-files/Mountain.png"
+	        }
+	    },
+	    {
+	        "name": "Plains",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "Basic Land — Plains ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-files/Plains.png"
+	        }
+	    },
+	    {
+	        "name": "Swamp",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "Basic Land — Swamp ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-files/Swamp.png"
+	        }
+	    },
+	    {
+	        "name": "City Skyline",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "Land",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-files/City Skyline.png"
+	        }
+	    },
+	    {
+	        "name": "Prismatic Eternity",
+	        "rarity": "uncommon",
+	        "mana_cost": "",
+	        "type": "Land",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-files/Prismatic Eternity.png"
+	        }
+	    },
+	    {
+	        "name": "The Road to Nowhere",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "Land",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-files/The Road to Nowhere.png"
+	        }
+	    },
+	    {
+	        "name": "Thunder Stage",
+	        "rarity": "rare",
+	        "mana_cost": "",
+	        "type": "Land",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-files/Thunder Stage.png"
+	        }
+	    },
+	    {
+	        "name": "Vielle's Perch",
+	        "rarity": "uncommon",
+	        "mana_cost": "",
+	        "type": "Land",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-files/Vielle's Perch.png"
+	        }
+	    },
+	    {
+	        "name": "Wayfarer's Shrine",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "Land",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-files/Wayfarer's Shrine.png"
+	        }
+	    },
+	    {
+	        "name": "7th and Tenson Intersection",
+	        "mana_cost": "",
+	        "type": "Land — Station ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-files/7th and Tenson Intersection.png"
+	        },
+	        "printed names": {
+	            "en": "7th and Tenson Intersection"
+	        },
+	        "back": {
+	            "name": "Ticket to 2nd",
+	            "printed_names": {
+	                "en": "Ticket to 2nd"
+	            },
+	            "image_uris": {
+	                "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-files/Ticket to 2nd.png"
+	            },
+	            "type": "Sorcery — Tale "
+	        }
+	    },
+	    {
+	        "name": "Abandoned Pines Railway",
+	        "mana_cost": "",
+	        "type": "Land — Station ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-files/Abandoned Pines Railway.png"
+	        },
+	        "printed names": {
+	            "en": "Abandoned Pines Railway"
+	        },
+	        "back": {
+	            "name": "Ticket to Nyano",
+	            "printed_names": {
+	                "en": "Ticket to Nyano"
+	            },
+	            "image_uris": {
+	                "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-files/Ticket to Nyano.png"
+	            },
+	            "type": "Sorcery — Tale "
+	        }
+	    },
+	    {
+	        "name": "Azure Sunset Railway",
+	        "mana_cost": "",
+	        "type": "Land — Station ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-files/Azure Sunset Railway.png"
+	        },
+	        "printed names": {
+	            "en": "Azure Sunset Railway"
+	        },
+	        "back": {
+	            "name": "Ticket to Tsukuri",
+	            "printed_names": {
+	                "en": "Ticket to Tsukuri"
+	            },
+	            "image_uris": {
+	                "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-files/Ticket to Tsukuri.png"
+	            },
+	            "type": "Sorcery — Tale "
+	        }
+	    },
+	    {
+	        "name": "Blade Alley Nexus",
+	        "mana_cost": "",
+	        "type": "Land — Station ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-files/Blade Alley Nexus.png"
+	        },
+	        "printed names": {
+	            "en": "Blade Alley Nexus"
+	        },
+	        "back": {
+	            "name": "Ticket to Kaede",
+	            "printed_names": {
+	                "en": "Ticket to Kaede"
+	            },
+	            "image_uris": {
+	                "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-files/Ticket to Kaede.png"
+	            },
+	            "type": "Sorcery — Tale "
+	        }
+	    },
+	    {
+	        "name": "Evans Company Railway",
+	        "mana_cost": "",
+	        "type": "Land — Station ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-files/Evans Company Railway.png"
+	        },
+	        "printed names": {
+	            "en": "Evans Company Railway"
+	        },
+	        "back": {
+	            "name": "Ticket to Satsukai",
+	            "printed_names": {
+	                "en": "Ticket to Satsukai"
+	            },
+	            "image_uris": {
+	                "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-files/Ticket to Satsukai.png"
+	            },
+	            "type": "Sorcery — Tale "
+	        }
+	    },
+	    {
+	        "name": "Masahi Blackout Point",
+	        "mana_cost": "",
+	        "type": "Land — Station ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-files/Masahi Blackout Point.png"
+	        },
+	        "printed names": {
+	            "en": "Masahi Blackout Point"
+	        },
+	        "back": {
+	            "name": "Ticket to the Brink",
+	            "printed_names": {
+	                "en": "Ticket to the Brink"
+	            },
+	            "image_uris": {
+	                "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-files/Ticket to the Brink.png"
+	            },
+	            "type": "Sorcery — Tale "
+	        }
+	    },
+	    {
+	        "name": "Skybound Aeroport",
+	        "mana_cost": "",
+	        "type": "Land — Station ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-files/Skybound Aeroport.png"
+	        },
+	        "printed names": {
+	            "en": "Skybound Aeroport"
+	        },
+	        "back": {
+	            "name": "Ticket to Ro Serei",
+	            "printed_names": {
+	                "en": "Ticket to Ro Serei"
+	            },
+	            "image_uris": {
+	                "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-files/Ticket to Ro Serei.png"
+	            },
+	            "type": "Sorcery — Tale "
+	        }
+	    },
+	    {
+	        "name": "Somewhere Between Planes",
+	        "mana_cost": "",
+	        "type": "Land — Station ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-files/Somewhere Between Planes.png"
+	        },
+	        "printed names": {
+	            "en": "Somewhere Between Planes"
+	        },
+	        "back": {
+	            "name": "Ticket to Eternity",
+	            "printed_names": {
+	                "en": "Ticket to Eternity"
+	            },
+	            "image_uris": {
+	                "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-files/Ticket to Eternity.png"
+	            },
+	            "type": "Sorcery — Tale "
+	        }
+	    },
+	    {
+	        "name": "Sora Isle Docks",
+	        "mana_cost": "",
+	        "type": "Land — Station ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-files/Sora Isle Docks.png"
+	        },
+	        "printed names": {
+	            "en": "Sora Isle Docks"
+	        },
+	        "back": {
+	            "name": "Ticket to Shiro Isle",
+	            "printed_names": {
+	                "en": "Ticket to Shiro Isle"
+	            },
+	            "image_uris": {
+	                "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-files/Ticket to Shiro Isle.png"
+	            },
+	            "type": "Sorcery — Tale "
+	        }
+	    },
+	    {
+	        "name": "Spirit-East Railway",
+	        "mana_cost": "",
+	        "type": "Land — Station ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-files/Spirit-East Railway.png"
+	        },
+	        "printed names": {
+	            "en": "Spirit-East Railway"
+	        },
+	        "back": {
+	            "name": "Ticket to Miseko",
+	            "printed_names": {
+	                "en": "Ticket to Miseko"
+	            },
+	            "image_uris": {
+	                "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-files/Ticket to Miseko.png"
+	            },
+	            "type": "Sorcery — Tale "
+	        }
+	    },
+	    {
+	        "name": "Kyv, Blood-Red Night",
+	        "rarity": "mythic",
+	        "mana_cost": "{B}{R}",
+	        "type": "Legendary Creature — Human Cleric ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-files/Kyv, Blood-Red Night.png"
+	        }
+	    },
+	    {
+	        "name": "Solar Torrent",
+	        "rarity": "rare",
+	        "mana_cost": "{2}{R}{G}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-files/Solar Torrent.png"
+	        }
+	    },
+	    {
+	        "name": "Vielle, Undercity Wayfarer",
+	        "rarity": "rare",
+	        "mana_cost": "{U}{B}",
+	        "type": "Legendary Creature — Human Axiom ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-files/Vielle, Undercity Wayfarer.png"
+	        }
+	    },
+	    {
+	        "name": "Nicholas, the Traveler",
+	        "rarity": "rare",
+	        "mana_cost": "{1}{B}",
+	        "type": "Legendary Creature — Human Scout ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-files/Nicholas, the Traveler.png"
+	        }
+	    },
+	    {
+	        "name": "Aethion, the Suncaster",
+	        "rarity": "rare",
+	        "mana_cost": "{1}{R}",
+	        "type": "Legendary Artifact — Umbrella ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-files/Aethion, the Suncaster.png"
+	        }
+	    },
+	    {
+	        "name": "Ædei, Destiny Muse",
+	        "rarity": "rare",
+	        "mana_cost": "{3}{G}{G}",
+	        "type": "Legendary Creature — Nephil Spirit ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-files/Ædei, Destiny Muse.png"
+	        }
 	    }
 	]
 	[RareSlot(1)]
 		30 Aetherdrifter's Bauble
-		30 Aethion, the Suncaster
 		30 Alicia, the Final Dawn
 		30 Backstreets of Kaeda
 		30 Barhopping in Miseko
@@ -2234,7 +2527,6 @@
 		30 Fractia, Angel of None
 		30 Halcyon Steel Revolution
 		30 Harbinger V
-		30 Hazreim, Vertical Stampede
 		30 Hyacin, Rosegold Princess
 		30 Idol of the Schism
 		30 Kalista, Gilded Mixologist
@@ -2258,7 +2550,13 @@
 		30 Warden of the Boundary
 		30 White Lies
 		30 Yri, Who Rejects Victory
+		30 Araki, Waypoint Cleaner
 		30 Thunder Stage
+		30 Solar Torrent
+		30 Vielle, Undercity Wayfarer
+		30 Nicholas, the Traveler
+		30 Aethion, the Suncaster
+		30 Ædei, Destiny Muse
 		10 Aekyu Never Sleeps
 		10 Apeiron
 		10 Divinity Burn
@@ -2267,9 +2565,10 @@
 		10 Isolani, the One and Only
 		10 Isolani's Curiosity
 		10 Katalepsis
-		10 Kyv, Blood-Red Night
 		10 Necroelysia
 		10 Planescupt
+		10 Hazreim, Vertical Stampede
+		10 Kyv, Blood-Red Night
 	[UncommonSlot(3)]
 		50 A Little Bit Messed Up
 		50 Akane, Linearity Breaker
@@ -2303,7 +2602,7 @@
 		50 Kaede Bazaar
 		50 Keikaku
 		50 Keris, Bathed in Red
-		50 Lan, Arbiter of Secrets
+		50 Laniel, Arbiter of Secrets
 		50 Lantern-Drawn Path
 		50 Malevolent Heartbreaker
 		50 Merchant of Lives
@@ -2313,9 +2612,9 @@
 		50 Off the Rails
 		50 Parasol Bearer
 		50 Quasiduplicate
-		50 Rail Line Rider
+		50 Rail Line Runaway
 		50 Red Flags
-		50 Red-Eyed Bystander
+		50 Iason, Sunrise Painter
 		50 Rustic Spirits Tavern
 		50 Search Query
 		50 Serin, Old World Tinker
@@ -2330,17 +2629,17 @@
 		50 Unleash Nemesis Protocols
 		50 Valeria, Yri's Second
 		50 Veteren Bladesinger
-		50 Vielle Singer
+		50 Eminevoyance Adept
 		50 Violence Without Reason
-		50 Voc, Eager Idol
+		50 Voc, Beloved Idol
 		50 Void Tyrant
 		50 Waywarden of the Flow
 		50 Welcoming Hostess
 		50 Wield the Strength of Stars
 		50 Xenon Cabaret
-		50 Vielle's Perch
-		50 Prismatic Eternity
 		50 Harbinger of Emeria
+		50 Prismatic Eternity
+		50 Vielle's Perch
 	[CommonSlot(10)]
 		50 Agent of Digitas
 		50 Dream
@@ -2353,11 +2652,11 @@
 		50 Flâneur
 		50 Hive Connectivity
 		50 Lean on Me
-		50 Lightshow's Ensemble
+		50 Lightshow Ensemble
 		50 Lonely Medium
 		50 Nightmarish Actors
 		50 Off on a Date
-		50 Online Anonymity
+		50 Network Anonymity
 		50 Out of Order
 		50 Playful Record
 		50 Star of the Show
@@ -2405,7 +2704,7 @@
 		50 His Overwhelming Bloodlust
 		50 Hook and Line
 		50 Idyll Conjurer
-		50 Kaeda Troublemakers
+		50 Kaede Troublemakers
 		50 Neon City Racer
 		50 Overclock
 		50 Protagonism
@@ -2418,7 +2717,7 @@
 		50 God Mode
 		50 Hang and Chill
 		50 Human Intricacy
-		50 In the Limelight
+		50 Thunderous Entrance
 		50 Joyous Shopkeeper
 		50 Lo-Fi Listener
 		50 Multifactor Authentication
@@ -2432,9 +2731,9 @@
 		50 Twilight Witch
 		50 Witness of the Brink
 		50 Dreaming of Electric Sheep
-		50 Dusklight Roamer
+		50 Featherflayer
 		50 Enter Mephisto's Gate
-		50 The Faceless Many
+		50 Faceless Many
 		50 Humanity Perseveres
 		50 Moonlit Lantern Festival
 		50 Plagued by Inner Demons
@@ -2442,10 +2741,23 @@
 		50 Retcon
 		50 Satsukai Paladin
 		50 Machine of Broken Queries
+		50 City Skyline
+		50 The Road to Nowhere
+		50 Wayfarer's Shrine
+		50 7th and Tenson Intersection
+		50 Abandoned Pines Railway
+		50 Azure Sunset Railway
+		50 Blade Alley Nexus
+		50 Evans Company Railway
+		50 Masahi Blackout Point
+		50 Skybound Aeroport
+		50 Somewhere Between Planes
+		50 Sora Isle Docks
+		50 Spirit-East Railway
 	[BasicSlot(1)]
-		50 Swamp
-		50 Island
 		50 Forest
+		50 Island
 		50 Mountain
 		50 Plains
+		50 Swamp
 	

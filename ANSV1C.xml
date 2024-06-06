@@ -45,13 +45,13 @@ When Akane leaves the battlefield, you may conjure two duplicates of a card exil
         <colors>M</colors>
         <manacost>1UB // UB</manacost>
         <cmc>3</cmc>
-        <type>Legendary Creature - Horror Artist  // Instant - Tale </type>
+        <type>Legendary Creature - Reflection Artist  // Instant - Tale </type>
         <maintype>Creature</maintype>
     <pt>2/3</pt>
       </prop>
       <tablerow>3</tablerow>
       <text>Menace
-Whenever you surveil, you may return Aris of Dead Hours from your graveyard to your hand.
+Whenever you surveil, you may return Aris from your graveyard to your hand.
 --- 
 Surveil 2. (You may cast a copy of this spell once while this creature is on the battlefield.)</text>
     </card>
@@ -104,7 +104,7 @@ Digitize (You may play this face down as a tapped land with “{T}: Add {C}.”)
         <colors>U</colors>
         <manacost>1U</manacost>
         <cmc>2</cmc>
-        <type>Creature - Bird Artificer </type>
+        <type>Creature - Bird Gamer </type>
         <maintype>Creature</maintype>
         <pt>1/3</pt>
       </prop>
@@ -140,7 +140,7 @@ Once each turn, when a creature dies, you may discard a card. If you do, create 
       <tablerow>3</tablerow>
       <text>Lifelink
 --- 
-Search your library for an Artifact card with a mana ability, reveal it, put it into your hand, then shuffle.</text>
+Search your library for an Artifact card with an activated ability, reveal and put it into your hand, then shuffle.</text>
     </card>
     <card>
       <name>Canno, the Party-Planner</name>
@@ -219,11 +219,11 @@ Sacrifice a token: Target creature you control gains lifelink until end of turn.
       <set rarity="uncommon">ANS</set>
       <prop>
         <colors>G</colors>
-        <manacost>1G</manacost>
-        <cmc>2</cmc>
+        <manacost>3G</manacost>
+        <cmc>4</cmc>
         <type>Creature - Human </type>
         <maintype>Creature</maintype>
-        <pt>2/2</pt>
+        <pt>2/4</pt>
       </prop>
       <tablerow>2</tablerow>
       <text>If you would create one or more tokens, create an additional Food token. (It’s an artifact with “{2}, {T}, Sacrifice this artifact: You gain 3 life.”)
@@ -298,7 +298,7 @@ Whenever one or more cards you own enter or leave exile, Emberfly Mage deals 1 d
       </prop>
       <tablerow>2</tablerow>
       <text>When Evans, Soul Salesman enters, you may search your library for a Revelation card, put it into your graveyard, then shuffle.
-Whenever another Horror enters the battlefield, create a 2/2 black Horror creature token with deathtouch.</text>
+Whenever another noncreature Horror enters the battlefield, create a 2/2 black Horror creature token with deathtouch.</text>
     </card>
     <card>
       <name>Excel, Harmony Smasher</name>
@@ -448,7 +448,7 @@ Once each turn, you may cast a creature card from your graveyard by paying 1B in
       <name>Keikaku</name>
       <set rarity="uncommon">ANS</set>
       <prop>
-        <colors>B</colors>
+        <colors>U</colors>
         <manacost>0</manacost>
         <cmc>0</cmc>
         <type>Sorcery</type>
@@ -456,7 +456,7 @@ Once each turn, you may cast a creature card from your graveyard by paying 1B in
       </prop>
       <tablerow>3</tablerow>
       <text>Look at target player’s hand.
-Flashback {B} (You may cast this card from your graveyard for its flashback cost. Then exile it.)</text>
+Flashback {U} (You may cast this card from your graveyard for its flashback cost. Then exile it.)</text>
     </card>
     <card>
       <name>Keris, Bathed in Red</name>
@@ -474,7 +474,7 @@ Flashback {B} (You may cast this card from your graveyard for its flashback cost
 Whenever Keris attacks, you may exile another target attacking Human you control, then return it to the battlefield tapped. If you do, create a token that’s a copy of it that’s tapped and attacking. Sacrifice it at the end of combat.</text>
     </card>
     <card>
-      <name>Lan, Arbiter of Secrets</name>
+      <name>Laniel, Arbiter of Secrets</name>
       <set rarity="uncommon">ANS</set>
       <prop>
         <colors>W</colors>
@@ -486,7 +486,7 @@ Whenever Keris attacks, you may exile another target attacking Human you control
       </prop>
       <tablerow>2</tablerow>
       <text>Flying, vigilance
-When Lan, Arbiter of Secrets enters, exile target nonland permanent. When Lan is no longer on the battlefield, return that card to its owner’s hand.</text>
+When Laniel enters, exile target nonland permanent. When Laniel is no longer on the battlefield, you may return that card to the battlefield or its owner’s hand.</text>
     </card>
     <card>
       <name>Lantern-Drawn Path</name>
@@ -525,11 +525,12 @@ When Malevolent Heartbreaker dies, each player sacrifices a creature.</text>
         <cmc>4</cmc>
         <type>Creature - Horror Human </type>
         <maintype>Creature</maintype>
-        <pt>4/3</pt>
+        <pt>2/3</pt>
       </prop>
       <tablerow>2</tablerow>
       <text>Ward—Pay 4 life
-Other Horror and Human creatures you control get +1/+1 and have “Ward—Pay 4 life.”</text>
+Opponents can’t gain life.
+Other Horror and Human creatures you control get +1/+1.</text>
     </card>
     <card>
       <name>Mysterious Idol</name>
@@ -569,10 +570,10 @@ Other Horror and Human creatures you control get +1/+1 and have “Ward—Pay 4 
         <cmc>3</cmc>
         <type>Creature - Horror  // Sorcery - Tale </type>
         <maintype>Creature</maintype>
-    <pt>2/3</pt>
+    <pt>2/2</pt>
       </prop>
       <tablerow>3</tablerow>
-      <text>When Nowhere Lurkers enters or leaves exile, you may cast a copy of  its Tale without paying its mana cost.
+      <text>Whenever Nowhere Lurkers enters or leaves exile, you may cast a copy of  its Tale without paying its mana cost.
 --- 
 Create a token that’s a copy of target land you control.</text>
     </card>
@@ -621,7 +622,7 @@ Counter up to one target spell or ability that targets you or a permanent you co
 Digitize (You may play this face down as a tapped land with “{T}: Add {C}.”)</text>
     </card>
     <card>
-      <name>Rail Line Rider</name>
+      <name>Rail Line Runaway</name>
       <set rarity="uncommon">ANS</set>
       <prop>
         <colors></colors>
@@ -632,7 +633,7 @@ Digitize (You may play this face down as a tapped land with “{T}: Add {C}.”)
         <pt>2/2</pt>
       </prop>
       <tablerow>2</tablerow>
-      <text>When Rail Line Rider enters, cache once for each Station you control. (Create a Clue or Treasure token.)</text>
+      <text>When Rail Line Runaway enters, cache once for each Station you control. (Create a Clue or Treasure token.)</text>
     </card>
     <card>
       <name>Red Flags</name>
@@ -648,18 +649,19 @@ Digitize (You may play this face down as a tapped land with “{T}: Add {C}.”)
       <text>Red Flags deals 4 damage to target creature or planeswalker. If excess damage is dealt this way, create that many red Flag artifact token. (It has no abilities.)</text>
     </card>
     <card>
-      <name>Red-Eyed Bystander</name>
+      <name>Iason, Sunrise Painter</name>
       <set rarity="uncommon">ANS</set>
       <prop>
         <colors>W</colors>
         <manacost>3W</manacost>
         <cmc>4</cmc>
-        <type>Creature - Human Cleric </type>
+        <type>Legendary Creature - Human Artist </type>
         <maintype>Creature</maintype>
         <pt>2/3</pt>
       </prop>
       <tablerow>2</tablerow>
-      <text>Whenever a creature you control dies, draw a card. If it’s a Human, put a +1/+1 counter on Red-Eyed Bystander. This ability triggers only once each turn.</text>
+      <text>Protection from Gods
+Once each turn, when another Human creature you control dies, you draw a card and gain 1 life.</text>
     </card>
     <card>
       <name>Rustic Spirits Tavern</name>
@@ -746,7 +748,7 @@ Coalesce 4UU (You may cast this from your graveyard for its coalesce cost. If yo
       </prop>
       <tablerow>2</tablerow>
       <text>Affinity for tokens (This spell costs {1} less to cast for each token you control.)
-Trample
+The Fervent Conductor can’t be blocked by creatures with power 2 or less.
 The Fervent Conductor enters with X +1/+1 counters.</text>
     </card>
     <card>
@@ -866,19 +868,20 @@ Coalesce only as a sorcery.</text>
       <text>Whenever two or more creatures you control attack, create a 1/1 white Human creature token that’s tapped and attacking.</text>
     </card>
     <card>
-      <name>Vielle Singer</name>
+      <name>Eminevoyance Adept</name>
       <set rarity="uncommon">ANS</set>
       <prop>
-        <colors>W</colors>
-        <manacost>1W</manacost>
+        <colors>B</colors>
+        <manacost>1B // 2BB</manacost>
         <cmc>2</cmc>
-        <type>Legendary Creature - Human Assassin </type>
+        <type>Creature - Human Cleric  // Sorcery - Tale </type>
         <maintype>Creature</maintype>
-        <pt>2/3</pt>
+    <pt>2/2</pt>
       </prop>
-      <tablerow>2</tablerow>
-      <text>Protection from legendary
-Whenever a legendary permanent dies, you gain 2 life.</text>
+      <tablerow>3</tablerow>
+      <text>Lifelink
+--- 
+Search your library for a card, put it into your hand, then shuffle.</text>
     </card>
     <card>
       <name>Violence Without Reason</name>
@@ -895,7 +898,7 @@ Whenever a legendary permanent dies, you gain 2 life.</text>
 Coalesce 4RR (You may cast this from your graveyard for its coalesce cost. If you do, put it onto the battlefield as a Horror creature after it resolves. Exile it if it would leave the battlefield or not resolve.)</text>
     </card>
     <card>
-      <name>Voc, Eager Idol</name>
+      <name>Voc, Beloved Idol</name>
       <set rarity="uncommon">ANS</set>
       <prop>
         <colors>M</colors>
@@ -906,38 +909,38 @@ Coalesce 4RR (You may cast this from your graveyard for its coalesce cost. If yo
     <pt>2/2</pt>
       </prop>
       <tablerow>3</tablerow>
-      <text>When Voc, Eager Idol enters, create a 1/1 white Human creature token.
+      <text>When Voc enters, create a 1/1 white Human creature token.
 --- 
-Return target permanent you control to its owner’s hand.</text>
+Return up to one target permanent you control to its owner’s hand.</text>
     </card>
     <card>
       <name>Void Tyrant</name>
       <set rarity="uncommon">ANS</set>
       <prop>
         <colors>G</colors>
-        <manacost>5G</manacost>
-        <cmc>6</cmc>
+        <manacost>4G</manacost>
+        <cmc>5</cmc>
         <type>Creature - Horror Giant </type>
         <maintype>Creature</maintype>
-        <pt>4/4</pt>
+        <pt>3/6</pt>
       </prop>
       <tablerow>2</tablerow>
-      <text>Trample
-Void Tyrant gets +1/+1 for each creature token you control.</text>
+      <text>Reach
+You may cast Void Tyrant from your graveyard. When you do, it enters with a +1/+1 counter and a finality counter.</text>
     </card>
     <card>
       <name>Waywarden of the Flow</name>
       <set rarity="uncommon">ANS</set>
       <prop>
-        <colors>U</colors>
-        <manacost>3U</manacost>
+        <colors>W</colors>
+        <manacost>3W</manacost>
         <cmc>4</cmc>
         <type>Creature - Human Artist </type>
         <maintype>Creature</maintype>
-        <pt>3/3</pt>
+        <pt>2/4</pt>
       </prop>
       <tablerow>2</tablerow>
-      <text>When Waywarden of the Flow enters, draw a card, then discard a card.
+      <text>When Waywarden of the Flow enters, you gain 2 life.
 Wayward — Whenever you cast a spell from outside your hand, exile another target permanent, then return it to the battlefield.</text>
     </card>
     <card>
@@ -1008,7 +1011,7 @@ Exile all spells, nonland permanents, graveyards, and the top twenty cards of ea
         <maintype>Enchantment</maintype>
       </prop>
       <tablerow>1</tablerow>
-      <text>Whenever one or more cards enters or leaves exile, put a lore counter on Apeiron.
+      <text>Whenever one or more cards you own enters or leaves exile, put a lore counter on Apeiron.
 At the beginning of your upkeep, you may exile target nonland permanent with mana value less than or equal to the number of lore counters on Apeiron.</text>
     </card>
     <card>
@@ -1030,7 +1033,7 @@ At the beginning of your upkeep, Divinity Burn deals damage to each opponent equ
       <set rarity="mythic">ANS</set>
       <prop>
         <colors>W</colors>
-        <manacost>2WW</manacost>
+        <manacost>3W</manacost>
         <cmc>4</cmc>
         <type>Legendary Planeswalker - Emeria </type>
         <maintype>Planeswalker</maintype>
@@ -1055,7 +1058,7 @@ At the beginning of your upkeep, Divinity Burn deals damage to each opponent equ
       </prop>
       <tablerow>2</tablerow>
       <text>Flying, lifelink
-When Equiel, the Preserver enters, reveal the top ten cards of your library. You may put any number of cards with different mana values from among them into your hand. Put the rest into your graveyard.</text>
+When Equiel, the Preserver enters, look at the top ten cards of your library. You may reveal any number of cards with different mana values from among them and put them into your hand. Exile the rest face down.</text>
     </card>
     <card>
       <name>Isolani, the One and Only</name>
@@ -1098,23 +1101,7 @@ Protection from nonlegendary
       </prop>
       <tablerow>1</tablerow>
       <text>Whenever you draw a card, put a lore counter on Katalepsis.
-At the beginning of your upkeep, search your library for a card with mana value equal to the number of lore counters on Katalepsis, reveal it, put it into your hand, then shuffle.</text>
-    </card>
-    <card>
-      <name>Kyv, Blood-Red Night</name>
-      <set rarity="mythic">ANS</set>
-      <prop>
-        <colors>BR</colors>
-        <manacost>BR</manacost>
-        <cmc>2</cmc>
-        <type>Legendary Creature - Human Cleric </type>
-        <maintype>Creature</maintype>
-        <pt>2/3</pt>
-      </prop>
-      <tablerow>2</tablerow>
-      <text>Deathtouch, haste
-Whenever you lose life, put a -1/-1 counter on Kyv, Blood-Red Night.
-{T}: Move a counter on Kyv to another target creature.</text>
+At the beginning of your upkeep, search your library for a card with mana value equal to the number of lore counters on Katalepsis, reveal and put it into your hand, then shuffle.</text>
     </card>
     <card>
       <name>Necroelysia</name>
@@ -1141,7 +1128,7 @@ At the beginning of your upkeep, create a tapped 1/1 white Horror creature token
         <maintype>Enchantment</maintype>
       </prop>
       <tablerow>1</tablerow>
-      <text>Whenever a land enters the battlefield under your control, put a lore counter on Planescupt.
+      <text>Whenever a land enters the battlefield, put a lore counter on Planescupt.
 At the beginning of your upkeep, you may put a permanent card with mana value less than or equal to the number of lore counters on Planescupt from your hand onto the battlefield.</text>
     </card>
     <card>
@@ -1157,21 +1144,6 @@ At the beginning of your upkeep, you may put a permanent card with mana value le
       <tablerow>1</tablerow>
       <text>Whenever a spell becomes countered, its controller may draw a card.
 {1}, {T}, Sacrifice Aetherdrifter’s Bauble: Draw a card.</text>
-    </card>
-    <card>
-      <name>Aethion, the Suncaster</name>
-      <set rarity="rare">ANS</set>
-      <prop>
-        <colors>WR</colors>
-        <manacost>RW</manacost>
-        <cmc>2</cmc>
-        <type>Legendary Artifact - Umbrella </type>
-        <maintype>Artifact</maintype>
-      </prop>
-      <tablerow>1</tablerow>
-      <text>Lifelink, indestructible
-Remove a loyalty counter target permanent you control: Aethion deals 1 damage to any target.
-4RW: Put a loyalty counter on target permanent.</text>
     </card>
     <card>
       <name>Alicia, the Final Dawn</name>
@@ -1199,7 +1171,7 @@ Whenever Alicia enters or attacks, put an ignite counter on target permanent. As
         <maintype>Sorcery</maintype>
       </prop>
       <tablerow>3</tablerow>
-      <text>Search your library for a card with an activated ability that costs life, reveal it, and put it into your hand, then shuffle. (An ability costs life if it requires a player to pay life.)</text>
+      <text>Search your library for a card with an Adventure or Tale, reveal and put it into your hand, then shuffle.</text>
     </card>
     <card>
       <name>Barhopping in Miseko</name>
@@ -1422,7 +1394,7 @@ Crew 5</text>
     </card>
     <card>
       <name>Hazreim, Vertical Stampede</name>
-      <set rarity="rare">ANS</set>
+      <set rarity="mythic">ANS</set>
       <prop>
         <colors>G</colors>
         <manacost>X5GG</manacost>
@@ -1480,7 +1452,7 @@ Whenever Idol of the Schism attacks while you have the most cards in hand, creat
       </prop>
       <tablerow>2</tablerow>
       <text>Lifelink
-Once each turn, when an opponent sacrifices a permanent, you may create a token that’s a copy of it.</text>
+Whenever an opponent sacrifices a permanent as a cost, you may create a token that’s a copy of it.</text>
     </card>
     <card>
       <name>Kura of the Zombie Network</name>
@@ -1500,8 +1472,8 @@ Once each turn, when an opponent sacrifices a permanent, you may create a token 
       <name>Kylthess, the Pale Lantern</name>
       <set rarity="rare">ANS</set>
       <prop>
-        <colors>R</colors>
-        <manacost>2R</manacost>
+        <colors>U</colors>
+        <manacost>2U</manacost>
         <cmc>3</cmc>
         <type>Legendary Creature - Human Scout </type>
         <maintype>Creature</maintype>
@@ -1639,7 +1611,7 @@ Whenever you put one or more cards from your library into your graveyard, you ma
       </prop>
       <tablerow>2</tablerow>
       <text>Menace
-Whenever Slicer of Simplicity attacks, you may search your library for a Horror or Revelation card, put it into your graveyard, then shuffle. If you do, Slicer of Simplicity’s base power becomes that card’s base power.</text>
+Whenever Slicer of Simplicity attacks, you may search your library for a Horror or Revelation card, put it into your graveyard, then shuffle. If you do, Slicer of Simplicity’s base power becomes that card’s base power until end of turn.</text>
     </card>
     <card>
       <name>Social Executioner</name>
@@ -1694,8 +1666,8 @@ When Such Lovely Screams enters the battlefield, each opponent loses 2 life.</te
         <colors>W</colors>
         <manacost>W</manacost>
         <cmc>1</cmc>
-        <type>Sorcery - Revelation </type>
-        <maintype>Sorcery</maintype>
+        <type>Instant - Revelation </type>
+        <maintype>Instant</maintype>
       </prop>
       <tablerow>3</tablerow>
       <text>Your life total becomes 1. Until end of turn, your life total can’t change. (You can’t gain, lose, or pay life.)
@@ -1773,115 +1745,6 @@ Whenever you put another Horror card into your graveyard from anywhere, you may 
       </prop>
       <tablerow>2</tablerow>
       <text>Whenever exactly two creatures you control attack, choose a black instant or sorcery spell you own from outside the game with mana value 1. You may cast it without paying its mana cost.</text>
-    </card>
-    <card>
-      <name>Swamp</name>
-      <set rarity="">ANS</set>
-      <prop>
-        <colors></colors>
-        <manacost></manacost>
-        <cmc>0</cmc>
-        <type>Basic Land - Swamp </type>
-        <maintype>Land</maintype>
-      </prop>
-      <tablerow>0</tablerow>
-      <text></text>
-    </card>
-    <card>
-      <name>Island</name>
-      <set rarity="">ANS</set>
-      <prop>
-        <colors></colors>
-        <manacost></manacost>
-        <cmc>0</cmc>
-        <type>Basic Land - Island </type>
-        <maintype>Land</maintype>
-      </prop>
-      <tablerow>0</tablerow>
-      <text></text>
-    </card>
-    <card>
-      <name>Vielle&apos;s Perch</name>
-      <set rarity="uncommon">ANS</set>
-      <prop>
-        <colors></colors>
-        <manacost></manacost>
-        <cmc>0</cmc>
-        <type>Land</type>
-        <maintype>Land</maintype>
-      </prop>
-      <tablerow>0</tablerow>
-      <text>When Vielle’s Perch enters, each opponent may surveil 2.
-{T}: Add {B}.
-1B, {T}: Surveil 2.</text>
-    </card>
-    <card>
-      <name>Forest</name>
-      <set rarity="">ANS</set>
-      <prop>
-        <colors></colors>
-        <manacost></manacost>
-        <cmc>0</cmc>
-        <type>Basic Land - Forest </type>
-        <maintype>Land</maintype>
-      </prop>
-      <tablerow>0</tablerow>
-      <text></text>
-    </card>
-    <card>
-      <name>Mountain</name>
-      <set rarity="">ANS</set>
-      <prop>
-        <colors></colors>
-        <manacost></manacost>
-        <cmc>0</cmc>
-        <type>Basic Land - Mountain </type>
-        <maintype>Land</maintype>
-      </prop>
-      <tablerow>0</tablerow>
-      <text></text>
-    </card>
-    <card>
-      <name>Plains</name>
-      <set rarity="">ANS</set>
-      <prop>
-        <colors></colors>
-        <manacost></manacost>
-        <cmc>0</cmc>
-        <type>Basic Land - Plains </type>
-        <maintype>Land</maintype>
-      </prop>
-      <tablerow>0</tablerow>
-      <text></text>
-    </card>
-    <card>
-      <name>Thunder Stage</name>
-      <set rarity="rare">ANS</set>
-      <prop>
-        <colors></colors>
-        <manacost></manacost>
-        <cmc>0</cmc>
-        <type>Land</type>
-        <maintype>Land</maintype>
-      </prop>
-      <tablerow>0</tablerow>
-      <text>{T}: Add one mana of any color. Spend this mana only to cast a spell with {X} in its mana cost. When you do, put an awe counter on Thunder Stage.
-When the fifth awe counter is put on Thunder Stage, you draw five cards and you gain 5 life. Exile Thunder Stage.</text>
-    </card>
-    <card>
-      <name>Prismatic Eternity</name>
-      <set rarity="uncommon">ANS</set>
-      <prop>
-        <colors></colors>
-        <manacost></manacost>
-        <cmc>0</cmc>
-        <type>Land</type>
-        <maintype>Land</maintype>
-      </prop>
-      <tablerow>0</tablerow>
-      <text>Whenever you cast a spell that’s all colors, you may draw a card.
-{T}: Add {C}.
-{2}, {T}: Add three mana of different colors.</text>
     </card>
     <card>
       <name>Agent of Digitas</name>
@@ -1965,7 +1828,7 @@ Digitize (You may play this face down as a tapped land with “{T}: Add {C}.”)
       </prop>
       <tablerow>2</tablerow>
       <text>Affinity for Humans (This spell costs {1} less to cast for each Human you control.)
-When Cheering Fangirl enters the battlefield, create a 1/1 white Human creature token.</text>
+When Cheering Fangirl enters the battlefield, you may have target creature get +2/+2 until end of turn.</text>
     </card>
     <card>
       <name>Cosmic Splendor</name>
@@ -2036,7 +1899,7 @@ Digitize (You may play this face down as a tapped land with “{T}: Add {C}.”)
       <text>Tap two target creatures and/or planeswalkers. Until end of turn, if either would leave the battlefield, destroy the other.</text>
     </card>
     <card>
-      <name>Lightshow&apos;s Ensemble</name>
+      <name>Lightshow Ensemble</name>
       <set rarity="common">ANS</set>
       <prop>
         <colors>W</colors>
@@ -2044,10 +1907,10 @@ Digitize (You may play this face down as a tapped land with “{T}: Add {C}.”)
         <cmc>5</cmc>
         <type>Creature - Human Artist  // Sorcery - Tale </type>
         <maintype>Creature</maintype>
-    <pt>5/4</pt>
+    <pt>4/4</pt>
       </prop>
       <tablerow>3</tablerow>
-      <text>
+      <text>Vigilance
 --- 
 Creatures you control gain lifelink until end of turn. (You may cast a copy of this spell once while this creature is on the battlefield.) </text>
     </card>
@@ -2094,7 +1957,7 @@ Nightmarish Actors’s power is equal to the number of creatures you control.</t
       <text>Exile up to two target creatures controlled by different players. Return those creatures to the battlefield under their owners’ control at the beginning of the next end step.</text>
     </card>
     <card>
-      <name>Online Anonymity</name>
+      <name>Network Anonymity</name>
       <set rarity="common">ANS</set>
       <prop>
         <colors>W</colors>
@@ -2133,7 +1996,7 @@ Wayward — If you’ve cast a spell from outside your hand this turn, exile it 
       </prop>
       <tablerow>1</tablerow>
       <text>When Playful Record enters or leaves the battlefield, create a 1/1 white Human creature token.
-4W, Sacrifice Playful Record: Draw a card. You gain 3 life.</text>
+4W, {T}, Sacrifice Playful Record: Draw a card.</text>
     </card>
     <card>
       <name>Star of the Show</name>
@@ -2147,7 +2010,7 @@ Wayward — If you’ve cast a spell from outside your hand this turn, exile it 
         <pt>1/1</pt>
       </prop>
       <tablerow>2</tablerow>
-      <text>When Star of the Show dies, reveal the top five cards of your library. You may put a Human or Plains card from among them into your hand. Put the rest on the bottom of your library in a random order.</text>
+      <text>When Star of the Show dies, look at the top five cards of your library. You may reveal and put a Human or Plains card from among them into your hand. Put the rest on the bottom of your library in a random order.</text>
     </card>
     <card>
       <name>Technosphere Explorer</name>
@@ -2482,7 +2345,7 @@ Whenever another creature you control dies, Child of Fallacies gains deathtouch 
       </prop>
       <tablerow>2</tablerow>
       <text>Deathtouch
-When Darkside Accountant dies, cache and lose 1 life. (Create a Clue or Treasure token.)</text>
+When Darkside Accountant dies, if it wasn’t blocking, cache. (Create a Clue or Treasure token.)</text>
     </card>
     <card>
       <name>Disconnect</name>
@@ -2507,10 +2370,11 @@ Digitize (You may play this face down as a tapped land with “{T}: Add {C}.”)
         <cmc>2</cmc>
         <type>Creature - Horror </type>
         <maintype>Creature</maintype>
-        <pt>2/1</pt>
+        <pt>2/2</pt>
       </prop>
       <tablerow>2</tablerow>
-      <text>When Dreamer’s Bane is put into your graveyard from anywhere, you may shuffle it into your library. If you do, each opponent loses 2 life and you gain 2 life.</text>
+      <text>Dreamer’s Bane can’t block.
+Whenever Dreamer’s Bane dies or is put into your graveyard from anywhere, you may shuffle it into your library. If you do, each opponent loses 2 life and you gain 2 life.</text>
     </card>
     <card>
       <name>Eerie Night Stroll</name>
@@ -2634,13 +2498,12 @@ Wayward — If you’ve cast a spell from outside your hand this turn, surveil 2
         <colors>B</colors>
         <manacost>B</manacost>
         <cmc>1</cmc>
-        <type>Instant - Revelation </type>
-        <maintype>Instant</maintype>
+        <type>Sorcery - Revelation </type>
+        <maintype>Sorcery</maintype>
       </prop>
       <tablerow>3</tablerow>
-      <text>Exile target card from a graveyard.
-Coalesce 4BB (You may cast this from your graveyard for its coalesce cost. If you do, put it onto the battlefield as a Horror creature after it resolves. Exile it if it would leave the battlefield or not resolve.)
-Coalesce this only as a sorcery.</text>
+      <text>Exile up to one target card from a graveyard.
+Coalesce 4BB (You may cast this from your graveyard for its coalesce cost. If you do, put it onto the battlefield as a Horror creature after it resolves. Exile it if it would leave the battlefield or not resolve.)</text>
     </card>
     <card>
       <name>Witness of No Return</name>
@@ -2682,7 +2545,7 @@ Coalesce this only as a sorcery.</text>
         <pt>3/3</pt>
       </prop>
       <tablerow>2</tablerow>
-      <text>Whenever Avatar of Revels attacks, it gets +1/+0 for each noncreature token you control.</text>
+      <text>Whenever Avatar of Revels attacks, it gets +1/+0 until end of turn for each noncreature token you control.</text>
     </card>
     <card>
       <name>Corrupted Angelic Songs</name>
@@ -2710,7 +2573,7 @@ Coalesce 5RR (You may cast this from your graveyard for its coalesce cost. If yo
         <pt>2/1</pt>
       </prop>
       <tablerow>2</tablerow>
-      <text>Whenever a Horror enters the battlefield, Foul-Tongued Acolyte deals 2 damage to each opponent.</text>
+      <text>Whenever you cast a Horror or Revelation spell, Foul-Tongued Acolyte gets +1/+0 and gains menace until end of turn.</text>
     </card>
     <card>
       <name>Frustrated Artist</name>
@@ -2785,7 +2648,7 @@ Digitize (You may play this face down as a tapped land with “{T}: Add {C}.”)
 Wayward — Whenever you cast a spell from outside your hand, other creatures you control get +1/+1 until end of turn.</text>
     </card>
     <card>
-      <name>Kaeda Troublemakers</name>
+      <name>Kaede Troublemakers</name>
       <set rarity="common">ANS</set>
       <prop>
         <colors>R</colors>
@@ -2822,8 +2685,8 @@ Destroy target  artifact. (You may cast a copy of this spell once while this cre
         <colors>R</colors>
         <manacost>1R</manacost>
         <cmc>2</cmc>
-        <type>Instant</type>
-        <maintype>Instant</maintype>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
       </prop>
       <tablerow>3</tablerow>
       <text>Overclock deals 3 damage to any target and 3 damage to you.
@@ -2970,7 +2833,7 @@ Wayward — If you’ve cast a spell from outside your hand this turn, instead c
 You may play an additional land this turn. Draw a card.</text>
     </card>
     <card>
-      <name>In the Limelight</name>
+      <name>Thunderous Entrance</name>
       <set rarity="common">ANS</set>
       <prop>
         <colors>G</colors>
@@ -2980,7 +2843,7 @@ You may play an additional land this turn. Draw a card.</text>
         <maintype>Instant</maintype>
       </prop>
       <tablerow>3</tablerow>
-      <text>Target creature gets +2/+2 and gains hexproof until end of turn.</text>
+      <text>The next time one or more creatures would enter the battlefield under your control, they each enter with two +1/+1 counters and a trample counter on it.</text>
     </card>
     <card>
       <name>Joyous Shopkeeper</name>
@@ -2991,7 +2854,7 @@ You may play an additional land this turn. Draw a card.</text>
         <cmc>3</cmc>
         <type>Creature - Human Druid </type>
         <maintype>Creature</maintype>
-        <pt>3/2</pt>
+        <pt>2/3</pt>
       </prop>
       <tablerow>2</tablerow>
       <text>When Joyous Shopkeeper enters, you may play an additional land this turn.</text>
@@ -3074,15 +2937,15 @@ When Night Alley Hunters enters the battlefield, draw a card if you control a to
       <set rarity="common">ANS</set>
       <prop>
         <colors>G</colors>
-        <manacost>8G</manacost>
-        <cmc>9</cmc>
+        <manacost>6G</manacost>
+        <cmc>7</cmc>
         <type>Artifact Creature - Dragon Construct </type>
         <maintype>Creature</maintype>
-        <pt>6/6</pt>
+        <pt>5/5</pt>
       </prop>
       <tablerow>2</tablerow>
       <text>Affinity for tokens (This spell costs {1} less to cast for each token you control.)
-Trample</text>
+Whenever Serin’s Masterwork becomes the target of a spell or ability an opponent controls, you may draw a card.</text>
     </card>
     <card>
       <name>Seventh Street Stalker</name>
@@ -3111,7 +2974,7 @@ Trample</text>
       </prop>
       <tablerow>2</tablerow>
       <text>Reach
-Whenever you attack with two or more creatures, gets +1/+1 and gains trample until end of turn.</text>
+Whenever you attack with two or more creatures, put a +1/+1 counter on Skyway Fixer.</text>
     </card>
     <card>
       <name>Traverse the City</name>
@@ -3124,7 +2987,8 @@ Whenever you attack with two or more creatures, gets +1/+1 and gains trample unt
         <maintype>Sorcery</maintype>
       </prop>
       <tablerow>3</tablerow>
-      <text>Search your library for a basic land or a Station card, reveal it, put it into your hand, then shuffle.</text>
+      <text>Search your library for a basic land or a Station card, reveal it, put it into your hand, then shuffle.
+You gain 2 life.</text>
     </card>
     <card>
       <name>Twilight Witch</name>
@@ -3170,19 +3034,19 @@ You gain 4 life. (You may cast a copy of this spell once while this creature is 
       <text>Create a Treasure token and a Clue token. Surveil 2.</text>
     </card>
     <card>
-      <name>Dusklight Roamer</name>
+      <name>Featherflayer</name>
       <set rarity="common">ANS</set>
       <prop>
         <colors>UB</colors>
-        <manacost>1UB</manacost>
-        <cmc>3</cmc>
-        <type>Creature - Butterfly Horror </type>
+        <manacost>2UB</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Nephil Horror </type>
         <maintype>Creature</maintype>
-        <pt>2/1</pt>
+        <pt>3/3</pt>
       </prop>
       <tablerow>2</tablerow>
       <text>Flying
-When Dusklight Roamer enters, surveil 1, then draw a card. You lose 1 life.</text>
+Whenever Featherflayer attacks, surveil 2.</text>
     </card>
     <card>
       <name>Enter Mephisto&apos;s Gate</name>
@@ -3198,7 +3062,7 @@ When Dusklight Roamer enters, surveil 1, then draw a card. You lose 1 life.</tex
       <text>Destroy target creature.</text>
     </card>
     <card>
-      <name>The Faceless Many</name>
+      <name>Faceless Many</name>
       <set rarity="common">ANS</set>
       <prop>
         <colors>WB</colors>
@@ -3319,6 +3183,422 @@ Wayward — Whenever you cast a spell from outside your hand, put a +1/+1 counte
       <tablerow>2</tablerow>
       <text>Vigilance
 When Harbinger of Emeria enters, each player creates a 1/1 white Human creature token.</text>
+    </card>
+    <card>
+      <name>Araki, Waypoint Cleaner</name>
+      <set rarity="rare">ANS</set>
+      <prop>
+        <colors>UB</colors>
+        <manacost>4UB</manacost>
+        <cmc>6</cmc>
+        <type>Legendary Creature - Human Rogue </type>
+        <maintype>Creature</maintype>
+        <pt>3/5</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Araki, Waypoint Cleaner is all colors.
+Whenever you cast a Station’s Tale spell, you may have that Station exile an instant or sorcery card with greater mana value from a graveyard. If you do, that Station gains a copy of that spell as a Tale. (You may cast a copy of it once while its on the battlefield.)</text>
+    </card>
+    <card>
+      <name>Forest</name>
+      <set rarity="">ANS</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Basic Land - Forest </type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text></text>
+    </card>
+    <card>
+      <name>Island</name>
+      <set rarity="">ANS</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Basic Land - Island </type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text></text>
+    </card>
+    <card>
+      <name>Mountain</name>
+      <set rarity="">ANS</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Basic Land - Mountain </type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text></text>
+    </card>
+    <card>
+      <name>Plains</name>
+      <set rarity="">ANS</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Basic Land - Plains </type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text></text>
+    </card>
+    <card>
+      <name>Swamp</name>
+      <set rarity="">ANS</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Basic Land - Swamp </type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text></text>
+    </card>
+    <card>
+      <name>City Skyline</name>
+      <set rarity="common">ANS</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land</type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>When City Skyline enters the battlefield, surveil 1.
+{T}: Add {C}.
+{1}, {T}: Add one mana of any color.</text>
+    </card>
+    <card>
+      <name>Prismatic Eternity</name>
+      <set rarity="uncommon">ANS</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land</type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>Whenever you cast a spell that’s all colors, you may draw a card.
+{T}: Add {C}.
+{2}, {T}: Add three mana of different colors.</text>
+    </card>
+    <card>
+      <name>The Road to Nowhere</name>
+      <set rarity="common">ANS</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land</type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>{T}: Add {C}.
+{1}, {T}: Add two mana in any combination of colors. You can’t spend this mana to cast spells from your hand.</text>
+    </card>
+    <card>
+      <name>Thunder Stage</name>
+      <set rarity="rare">ANS</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land</type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>{T}: Add one mana of any color. Spend this mana only to cast a spell with {X} in its mana cost. When you do, put an awe counter on Thunder Stage.
+When the fifth awe counter is put on Thunder Stage, you draw five cards and gain 5 life. Exile Thunder Stage.</text>
+    </card>
+    <card>
+      <name>Vielle&apos;s Perch</name>
+      <set rarity="uncommon">ANS</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land</type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>When Vielle’s Perch enters, each opponent may surveil 2.
+{T}: Add {B}.
+1B, {T}: Surveil 2.</text>
+    </card>
+    <card>
+      <name>Wayfarer&apos;s Shrine</name>
+      <set rarity="common">ANS</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land</type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>{T}, Pay 1 life, Sacrifice Wayfarer’s Shrine: Search your library for a basic land card, put it onto the battlefield, then shuffle.</text>
+    </card>
+    <card>
+      <name>7th and Tenson Intersection</name>
+      <set rarity="common">ANS</set>
+      <prop>
+        <colors>M</colors>
+        <manacost> // 1</manacost>
+        <cmc>0</cmc>
+        <type>Land - Station  // Sorcery - Tale </type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>{T}: Add {C}.
+(You may cast its Tale once while this is on the battlefield.)
+--- 
+Target land becomes a Mountain Plains in addition to its other types. (It has {T}: Add {R} or {W}.) </text>
+    </card>
+    <card>
+      <name>Abandoned Pines Railway</name>
+      <set rarity="common">ANS</set>
+      <prop>
+        <colors>M</colors>
+        <manacost> // 1</manacost>
+        <cmc>0</cmc>
+        <type>Land - Station  // Sorcery - Tale </type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>{T}: Add {C}.
+(You may cast its Tale once while this is on the battlefield.)
+--- 
+Target land becomes a Mountain Forest in addition to its other types. (It has {T}: Add {R} or {G}.) </text>
+    </card>
+    <card>
+      <name>Azure Sunset Railway</name>
+      <set rarity="common">ANS</set>
+      <prop>
+        <colors>M</colors>
+        <manacost> // 1</manacost>
+        <cmc>0</cmc>
+        <type>Land - Station  // Sorcery - Tale </type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>{T}: Add {C}.
+(You may cast its Tale once while this is on the battlefield.)
+--- 
+Target land becomes a Plains Island in addition to its other types. (It has {T}: Add {U} or {W}.) </text>
+    </card>
+    <card>
+      <name>Blade Alley Nexus</name>
+      <set rarity="common">ANS</set>
+      <prop>
+        <colors>M</colors>
+        <manacost> // 1</manacost>
+        <cmc>0</cmc>
+        <type>Land - Station  // Sorcery - Tale </type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>{T}: Add {C}.
+(You may cast its Tale once while this is on the battlefield.)
+--- 
+Target land becomes a Island Swamp in addition to its other types. (It has {T}: Add {U} or {B}.) </text>
+    </card>
+    <card>
+      <name>Evans Company Railway</name>
+      <set rarity="common">ANS</set>
+      <prop>
+        <colors>M</colors>
+        <manacost> // 1</manacost>
+        <cmc>0</cmc>
+        <type>Land - Station  // Sorcery - Tale </type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>{T}: Add {C}.
+(You may cast its Tale once while this is on the battlefield.)
+--- 
+Target land becomes a Swamp Mountain in addition to its other types. (It has {T}: Add {B} or {R}.) </text>
+    </card>
+    <card>
+      <name>Masahi Blackout Point</name>
+      <set rarity="common">ANS</set>
+      <prop>
+        <colors>M</colors>
+        <manacost> // 1</manacost>
+        <cmc>0</cmc>
+        <type>Land - Station  // Sorcery - Tale </type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>{T}: Add {C}.
+(You may cast its Tale once while this is on the battlefield.)
+--- 
+Target land becomes a Swamp Forest in addition to its other types. (It has {T}: Add {B} or {G}.) </text>
+    </card>
+    <card>
+      <name>Skybound Aeroport</name>
+      <set rarity="common">ANS</set>
+      <prop>
+        <colors>M</colors>
+        <manacost> // 1</manacost>
+        <cmc>0</cmc>
+        <type>Land - Station  // Sorcery - Tale </type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>{T}: Add {C}.
+(You may cast its Tale once while this is on the battlefield.)
+--- 
+Target land becomes a Plains Island in addition to its other types. (It has {T}: Add {W} or {U}.) </text>
+    </card>
+    <card>
+      <name>Somewhere Between Planes</name>
+      <set rarity="common">ANS</set>
+      <prop>
+        <colors>M</colors>
+        <manacost> // 1</manacost>
+        <cmc>0</cmc>
+        <type>Land - Station  // Sorcery - Tale </type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>{T}: Add {C}.
+(You may cast its Tale once while this is on the battlefield.)
+--- 
+Target land becomes a Island Mountain in addition to its other types. (It has {T}: Add {U} or {R}.) </text>
+    </card>
+    <card>
+      <name>Sora Isle Docks</name>
+      <set rarity="common">ANS</set>
+      <prop>
+        <colors>M</colors>
+        <manacost> // 1</manacost>
+        <cmc>0</cmc>
+        <type>Land - Station  // Sorcery - Tale </type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>{T}: Add {C}.
+(You may cast its Tale once while this is on the battlefield.)
+--- 
+Target land becomes a Forest Island in addition to its other types. (It has {T}: Add {G} or {U}.) </text>
+    </card>
+    <card>
+      <name>Spirit-East Railway</name>
+      <set rarity="common">ANS</set>
+      <prop>
+        <colors>M</colors>
+        <manacost> // 1</manacost>
+        <cmc>0</cmc>
+        <type>Land - Station  // Sorcery - Tale </type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>{T}: Add {C}.
+(You may cast its Tale once while this is on the battlefield.)
+--- 
+Target land becomes a Forest Plains in addition to its other types. (It has {T}: Add {G} or {W}.) </text>
+    </card>
+    <card>
+      <name>Kyv, Blood-Red Night</name>
+      <set rarity="mythic">ANS</set>
+      <prop>
+        <colors>BR</colors>
+        <manacost>BR</manacost>
+        <cmc>2</cmc>
+        <type>Legendary Creature - Human Cleric </type>
+        <maintype>Creature</maintype>
+        <pt>2/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Deathtouch, haste
+Whenever you lose life, put a -1/-1 counter on Kyv, Blood-Red Night.
+{T}: Move a counter from Kyv to another target creature.</text>
+    </card>
+    <card>
+      <name>Solar Torrent</name>
+      <set rarity="rare">ANS</set>
+      <prop>
+        <colors>RG</colors>
+        <manacost>2RG</manacost>
+        <cmc>4</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>When you cast this spell, exile any number of red or green cards from your hand. Copy Solar Torrent for each card exiled this way. You may choose new targets for the copies.
+Solar Torrent deals 3 damage to target creature or planeswalker. You gain 3 life.</text>
+    </card>
+    <card>
+      <name>Vielle, Undercity Wayfarer</name>
+      <set rarity="rare">ANS</set>
+      <prop>
+        <colors>UB</colors>
+        <manacost>UB</manacost>
+        <cmc>2</cmc>
+        <type>Legendary Creature - Human Axiom </type>
+        <maintype>Creature</maintype>
+        <pt>2/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Deathtouch, protection from legendary
+Vielle has all loyalty abilities of permanents on the battlefield that cost {+1}, {+0}, or {-1}.</text>
+    </card>
+    <card>
+      <name>Nicholas, the Traveler</name>
+      <set rarity="rare">ANS</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>1B</manacost>
+        <cmc>2</cmc>
+        <type>Legendary Creature - Human Scout </type>
+        <maintype>Creature</maintype>
+        <pt>0/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Nicholas enters, create a colorless Umbrella artifact token with “{+1}: Each opponent loses X life and you gain X life, where X is the number of loyalty abilities activated this turn.”</text>
+    </card>
+    <card>
+      <name>Aethion, the Suncaster</name>
+      <set rarity="rare">ANS</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>1R</manacost>
+        <cmc>2</cmc>
+        <type>Legendary Artifact - Umbrella </type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Indestructible
+Whenever you activate a loyalty ability, for each loyalty counter added or spent as a cost to activate that ability, Aethion deals that much damage to any target.
+{5}, {T}: Add WUBRG.
+Aethion can be your commander.</text>
+    </card>
+    <card>
+      <name>Ædei, Destiny Muse</name>
+      <set rarity="rare">ANS</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>3GG</manacost>
+        <cmc>5</cmc>
+        <type>Legendary Creature - Nephil Spirit </type>
+        <maintype>Creature</maintype>
+        <pt>0/0</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Ædei enters with three +1/+1 counters.
+When Ædei dies, remove any number of counters from among permanents you control. Create a 1/1 white Human creature token for each counter removed this way.</text>
     </card>
 
     <!-->Tokens</-->
