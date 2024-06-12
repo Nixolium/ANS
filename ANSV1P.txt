@@ -4795,8 +4795,8 @@ white, blue, multicolor, horizontal
 Instant
 
 
-Return target spell to its owner&#8217;s hand. Surveil 2.
-<i>&#8220;I didn&#8217;t like that.&#8221;<br>///br///&#8212; Shiroyuki 91</i>
+You may choose any targets of target spell or ability that targets you or a permanent you control. If you don&#8217;t, counter it.
+<i>&#8220;No, no, no. </i>This<i> is what happened.&#8221;<br>///br///&#8212; Shiroyuki 91</i>
 Quasarcake
 
 colorless
@@ -5741,6 +5741,75 @@ Legendary Creature — Horror Avatar
 First strike<br>///br///Whenever The King in Red enters or attacks, put an ignite counter on target permanent. As long as that permanent has an ignite counter, it has &#8220;At the beginning of your upkeep, this deals 2 damage to you, then you may sacrifice it.&#8221;
 
 Anato Finnstark
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+2/3
+3
+special
+Shiroyuki 91
+blue
+<img src='magic-mana-small-2.png' alt='2' width='14' height='14'><img src='magic-mana-small-U.png' alt='U' width='14' height='14'>
+Legendary Creature — Pseudo Scout 
+3
+2
+Sparker 4 <i>(This enters with 4 loyalty counters. Whenever you activate its loyalty ability, it becomes a planeswalker until your next turn.)</i><br>///br///<span class="symbol"><img src='magic-mana-small--1.png' alt='-1' width='23' height='15'></span>: Draw a card, then discard a card.<br>///br///<span class="symbol"><img src='magic-mana-small--3.png' alt='-3' width='23' height='15'></span>: Return target nonland permanent to its owner&#8217;s hand.
+<i>This card is used to test the template</i>
+Lifeline
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+1/3
+3
+special
+Shiroyuki 89
+white
+<img src='magic-mana-small-2.png' alt='2' width='14' height='14'><img src='magic-mana-small-W.png' alt='W' width='14' height='14'>
+Legendary Creature — Pseudo Cleric 
+2
+2
+Sparker 3 <i>(This enters with 3 loyalty counters. Whenever you activate its loyalty ability, it becomes a planeswalker until your next turn.)</i><br>///br///Lifelink<br>///br///<span class="symbol"><img src='magic-mana-small--1.png' alt='-1' width='23' height='15'></span>: Create a 1/1 white Cleric creature token with lifelink.
+<i>This card is used to test the template</i>
+Lifeline
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+3/3
+6
+special
+Shiroyuki 87
+green
+<img src='magic-mana-small-4.png' alt='4' width='14' height='14'><img src='magic-mana-small-G.png' alt='G' width='14' height='14'><img src='magic-mana-small-G.png' alt='G' width='14' height='14'>
+Legendary Creature — Pseudo Beast 
+4
+4
+Sparker 5 <i>(This enters with 5 loyalty counters. Whenever you activate its loyalty ability, it becomes a planeswalker until your next turn.)</i><br>///br///<span class="symbol"><img src='magic-mana-small-0.png' alt='+0' width='14' height='14'></span>: Create a 2/2 green Bear creature token.<br>///br///<span class="symbol"><img src='magic-mana-small--4.png' alt='-4' width='23' height='15'></span>: Creatures you control get +2/+2 and gain haste and trample until end of turn.
+<i>This card is used to test the template</i>
+Lifeline
 
 colorless
 
