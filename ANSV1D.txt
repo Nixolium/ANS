@@ -2524,6 +2524,33 @@
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-files/The King in Red.png"
 	        }
+	    },
+	    {
+	        "name": "Shiroyuki 91",
+	        "rarity": "masterpiece",
+	        "mana_cost": "{2}{U}",
+	        "type": "Legendary Creature — Pseudo Scout ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-files/Shiroyuki 91.png"
+	        }
+	    },
+	    {
+	        "name": "Shiroyuki 89",
+	        "rarity": "masterpiece",
+	        "mana_cost": "{2}{W}",
+	        "type": "Legendary Creature — Pseudo Cleric ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-files/Shiroyuki 89.png"
+	        }
+	    },
+	    {
+	        "name": "Shiroyuki 87",
+	        "rarity": "masterpiece",
+	        "mana_cost": "{4}{G}{G}",
+	        "type": "Legendary Creature — Pseudo Beast ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-files/Shiroyuki 87.png"
+	        }
 	    }
 	]
 	[RareSlot(1)]
@@ -2762,6 +2789,8 @@
 		50 City Skyline
 		50 The Road to Nowhere
 		50 Wayfarer's Shrine
+		50 Strive
+	[LandSlot(1)]
 		50 7th and Tenson Intersection
 		50 Abandoned Pines Railway
 		50 Azure Sunset Railway
@@ -2772,11 +2801,4 @@
 		50 Somewhere Between Planes
 		50 Sora Isle Docks
 		50 Spirit-East Railway
-		50 Strive
-	[BasicSlot(1)]
-		50 Forest
-		50 Island
-		50 Mountain
-		50 Plains
-		50 Swamp
 	

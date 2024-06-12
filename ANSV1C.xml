@@ -3026,7 +3026,7 @@ Whenever Featherflayer attacks, surveil 2.</text>
         <maintype>Instant</maintype>
       </prop>
       <tablerow>3</tablerow>
-      <text>Return target spell to its owner’s hand. Surveil 2.</text>
+      <text>You may choose any targets of target spell or ability that targets you or a permanent you control. If you don’t, counter it.</text>
     </card>
     <card>
       <name>Satsukai Paladin</name>
