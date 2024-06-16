@@ -2717,16 +2717,16 @@
 		50 Red Hot Racer
 		50 Nighttime Wanderer
 		50 Harbinger of Hazreim
-		50 Prismatic Eternity
-		50 Vielle's Perch
+		25 Prismatic Eternity
+		25 Vielle's Perch
 		50 Make Believe Together
-		50 Kaede, the City Below
-		50 Miseko, the Sunrise Capital
-		50 Nyano, Shrine to None
-		50 Satsukai, Lightning Foundry
-		50 Tsukuri, Locus of Knowledge
-		50 Liminal Space
-	[CommonSlot(10)]
+		25 Kaede, the City Below
+		25 Miseko, the Sunrise Capital
+		25 Nyano, Shrine to None
+		25 Satsukai, Lightning Foundry
+		25 Tsukuri, Locus of Knowledge
+		25 Liminal Space
+	[CommonSlot(7)]
 		50 Red Flags
 		50 Void Tyrant
 		50 Agent of Digitas
@@ -2820,24 +2820,292 @@
 		50 Retcon
 		50 Satsukai Paladin
 		50 Machine of Broken Queries
-		50 City Skyline
-		50 The Road to Nowhere
-		50 Wayfarer's Shrine
-		50 7th and Tenson Intersection
-		50 Abandoned Pines Railway
-		50 Azure Sunset Railway
-		50 Blade Alley Nexus
-		50 Evans Company Railway
-		50 Masahi Street Subway
-		50 Skybound Aeroport
-		50 Somewhere Between Planes
-		50 Sora Isle Docks
-		50 Spirit-East Railway
+		25 City Skyline
+		25 The Road to Nowhere
+		25 Wayfarer's Shrine
+		25 7th and Tenson Intersection
+		25 Abandoned Pines Railway
+		25 Azure Sunset Railway
+		25 Blade Alley Nexus
+		25 Evans Company Railway
+		25 Masahi Street Subway
+		25 Skybound Aeroport
+		25 Somewhere Between Planes
+		25 Sora Isle Docks
+		25 Spirit-East Railway
 		50 Grapple
+	[WildSlot(2)]
+		30 Alicia, the Final Dawn
+		30 Backstreets of Kaeda
+		30 Barhopping in Miseko
+		30 Blackout Zone
+		30 Blade Alley Peacekeeper
+		30 Blasphemous Displacer
+		30 Crafters of Fantasy
+		30 Digital Champion
+		30 Doomsday Sirens
+		30 Enigmatic Prismata
+		30 Evangel of Metamorphosis
+		30 Ezren, Steelwing Ascendant
+		30 Fractia, Angel of None
+		30 Halcyon Steel Revolution
+		30 Harbinger V
+		30 Hazreim, Vertical Stampede
+		30 Hyacin, Rosegold Princess
+		30 Idol of the Schism
+		30 Kalista, Gilded Mixologist
+		30 Kura of the Zombie Network
+		30 Kylthess, the Pale Lantern
+		30 Live Large
+		30 Lucid Nightmares
+		30 Mistencharm Resplendant
+		30 Nonchalance
+		30 Skylight Aspirant
+		30 Slicer of Simplicity
+		30 Social Executioner
+		30 Starflame Songstress
+		30 Time Spiraled
+		30 Vengeant Administrator
+		30 Warden of the Boundary
+		30 White Lies
+		30 Thunder Stage
+		30 Solar Torrent
+		30 Nicholas, the Traveler
+		30 Ædei, Destiny Muse
+		30 Gruesome Reassembly
+		30 Raven Requiems
+		30 Tsukuri Kiteflier
+		30 Powerstorming Session
+		30 Miseko Sword Saint
+		30 Yri, Lost Within Nightmares
+		30 Kylthess Incinerates Heaven
+		30 The King of Husks
+		30 No More Heresy
+		30 Abadoned Trainyard
+		30 Ricochet Through Hell
+		10 Aekyu Never Sleeps
+		10 Isolani, One and Only
+		10 Necroelysia
+		10 Nightmares Even in Waking
+		10 Murder Flimsy Gods
+		10 Science Gone Too Far
+		10 Such Lovely Screams
+		10 Nothing Matters in the End
+		10 Kyv, Blood-Red Night
+		10 Vielle, Undercity Wayfarer
+		10 Aethion, the Suncaster
+		10 Winmaeri, Angelslayer
+		10 Emeria, Once Lost
+		10 Touka, Who Deals With Devils
+		10 Araki, Network Cleaner
+		50 A Little Bit Messed Up
+		50 Akane, Linearity Breaker
+		50 Aris of Dead Hours
+		50 Auspicious Traveller
+		50 Backstreet Brawler
+		50 Bit Flipper
+		50 Blade Alley Betrayals
+		50 Browsing Customer
+		50 Canno, the Party-Planner
+		50 Copy Paste
+		50 Crowned by Eldritch Kings
+		50 Crystal Moon
+		50 Cursed Catlover
+		50 Date-Night Duo
+		50 Deprecated Version
+		50 Dies Irae
+		50 Emberfly Mage
+		50 Emotions Like a Rain Cloud
+		50 Evans, Soul Salesman
+		50 Excel, Harmony Smasher
+		50 Gearshift
+		50 Global Network Collapse
+		50 Go Blank
+		50 Here Without You
+		50 Hikane, Revel-hearted
+		50 Hikane's Sharpshooter
+		50 Hydric Botanist
+		50 Iel, Shard of the Preserver
+		50 Kaede Bazaar
+		50 Keikaku
+		50 Keris, Bathed in Red
+		50 Laniel, Arbiter of Secrets
+		50 Lantern-Drawn Path
+		50 Malevolent Heartbreaker
+		50 Merchant of Lives
+		50 Mysterious Idol
+		50 Nexus Savant
+		50 Nowhere Lurkers
+		50 Off the Rails
+		50 Parasol Bearer
+		50 Redshift
+		50 Rail Line Runaway
+		50 Iason, Sunrise Painter
+		50 Rustic Spirits Tavern
+		50 Search Query
+		50 Serin, Old World Tinker
+		50 Shine Like a Diamond
+		50 Swallow the Moon
+		50 The Fervent Conductor
+		50 The Red-Eyed Jester
+		50 The Scarlet Citron
+		50 Trail of Blood
+		50 Trinket Princess
+		50 Twist the Threads
+		50 Unleash Nemesis Protocols
+		50 Valeria, Yri's Second
+		50 Veteren Bladesinger
+		50 Eminevoyance Adept
+		50 Violence Without Reason
+		50 Voc, Beloved Idol
+		50 Waywarden of the Flow
+		50 Welcoming Hostess
+		50 Wield the Strength of Stars
+		50 Xenon Cabaret
+		50 Dream
+		50 Cosmic Revelations
+		50 Star of the Show
+		50 Smokesign Mystic
+		50 Splintered Soul
+		50 Red Hot Racer
+		50 Nighttime Wanderer
+		50 Harbinger of Hazreim
+		25 Prismatic Eternity
+		25 Vielle's Perch
+		50 Make Believe Together
+		25 Kaede, the City Below
+		25 Miseko, the Sunrise Capital
+		25 Nyano, Shrine to None
+		25 Satsukai, Lightning Foundry
+		25 Tsukuri, Locus of Knowledge
+		25 Liminal Space
+		50 Red Flags
+		50 Void Tyrant
+		50 Agent of Digitas
+		50 Heaven is Forged From Steel
+		50 Color Witch
+		50 Breaker of Promises
+		50 Cheering Fangirl
+		50 Drinker of Night's Melodies
+		50 Flâneur
+		50 Hive Connectivity
+		50 Lean on Me
+		50 Lightshow Ensemble
+		50 Lonely Medium
+		50 Nightmarish Actors
+		50 Off on a Date
+		50 Network Anonymity
+		50 Out of Order
+		50 Playful Record
+		50 Technosphere Explorer
+		50 Witness of New Humanity
+		50 Alone With My Thoughts
+		50 Censored Speaker
+		50 Gaze Skyward and Weep
+		50 Harmonic Darling
+		50 Lost to the Music
+		50 Try New Styles
+		50 Miseiko Idols
+		50 Open Source
+		50 Ponder Infinite Misfortunes
+		50 Rhythm Seer
+		50 Rippling Timelines
+		50 Technopath Operative
+		50 Traveler at Crossroads
+		50 User Banned
+		50 Wavedasher
+		50 Witness of Last Flight
+		50 Abeyant Dreamer
+		50 Blade Maid
+		50 Child of Fallacies
+		50 Darkside Accountant
+		50 Disconnect
+		50 Dreamer's Bane
+		50 Eerie Night Stroll
+		50 Error 404
+		50 Forged Through Nightmare
+		50 Self-Imperil
+		50 Seventh Street Oracle
+		50 Studious Pupil
+		50 Too Much to Drink
+		50 Watch the Sun Fade
+		50 Witness of No Return
+		50 Yri's Frontrunner
+		50 Avatar of Revels
+		50 Corrupted Angelic Songs
+		50 Foul-Tongued Acolyte
+		50 Frustrated Artist
+		50 Getaway Driver
+		50 His Overwhelming Bloodlust
+		50 Hook and Line
+		50 Kaede Troublemakers
+		50 Neon City Racer
+		50 Overclock
+		50 Protagonism
+		50 Satsukai Fixer
+		50 Scorch
+		50 Waiting for You
+		50 Witness of Red Skies
+		50 Colossal Metalmaw
+		50 God Mode
+		50 Blissful Small Talks
+		50 Feeling Great
+		50 Thunderous Entrance
+		50 Joyous Shopkeeper
+		50 Lo-Fi Listener
+		50 Multifactor Authentication
+		50 Night Alley Hunters
+		50 Rainbow Seeker
+		50 Serin's Masterwork
+		50 Seventh Street Stalker
+		50 Skylight Fixer
+		50 Traverse the City
+		50 Twilight Witch
+		50 Witness of the Brink
+		50 Dreaming of Electric Sheep
+		50 Featherflayer
+		50 Enter Mephisto's Gate
+		50 Faceless Many
+		50 Humanity Perseveres
+		50 Moonlit Lantern Festival
+		50 Reckless Aspirations
+		50 Retcon
+		50 Satsukai Paladin
+		50 Machine of Broken Queries
+		25 City Skyline
+		25 The Road to Nowhere
+		25 Wayfarer's Shrine
+		25 7th and Tenson Intersection
+		25 Abandoned Pines Railway
+		25 Azure Sunset Railway
+		25 Blade Alley Nexus
+		25 Evans Company Railway
+		25 Masahi Street Subway
+		25 Skybound Aeroport
+		25 Somewhere Between Planes
+		25 Sora Isle Docks
+		25 Spirit-East Railway
+		50 Grapple		
 	[BasicSlot(1)]
-		50 Forest
-		50 Island
-		50 Mountain
-		50 Plains
-		50 Swamp
+		25 City Skyline
+		25 The Road to Nowhere
+		25 Wayfarer's Shrine
+		25 7th and Tenson Intersection
+		25 Abandoned Pines Railway
+		25 Azure Sunset Railway
+		25 Blade Alley Nexus
+		25 Evans Company Railway
+		25 Masahi Street Subway
+		25 Skybound Aeroport
+		25 Somewhere Between Planes
+		25 Sora Isle Docks
+		25 Spirit-East Railway
+		25 Prismatic Eternity
+		25 Vielle's Perch
+		25 Kaede, the City Below
+		25 Miseko, the Sunrise Capital
+		25 Nyano, Shrine to None
+		25 Satsukai, Lightning Foundry
+		25 Tsukuri, Locus of Knowledge
+		25 Liminal Space
 	
