@@ -2726,7 +2726,7 @@
 		25 Satsukai, Lightning Foundry
 		25 Tsukuri, Locus of Knowledge
 		25 Liminal Space
-	[CommonSlot(7)]
+	[CommonSlot(8)]
 		50 Red Flags
 		50 Void Tyrant
 		50 Agent of Digitas

@@ -3663,7 +3663,7 @@ You may spend {C} as though it were green mana.
       </prop>
       <tablerow>0</tablerow>
       <text>Satsukai, Lightning Foundry enters tapped.
-You may spend {C} as though it were green mana.
+You may spend {C} as though it were red mana.
 {T}: Add {R}.</text>
     </card>
     <card>
@@ -3678,7 +3678,7 @@ You may spend {C} as though it were green mana.
       </prop>
       <tablerow>0</tablerow>
       <text>Tsukuri, Locus of Knowledge enters tapped.
-You may spend {C} as though it were green mana.
+You may spend {C} as though it were blue mana.
 {T}: Add {U}.</text>
     </card>
     <card>
