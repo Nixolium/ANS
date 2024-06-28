@@ -2,7 +2,7 @@
 1.0
 
 normal
-101/254
+102/256
 4
 uncommon
 A Little Bit Messed Up
@@ -25,7 +25,7 @@ colorless
 
 ===========
 normal
-44/254
+44/256
 2
 uncommon
 Akane, Linearity Breaker
@@ -48,7 +48,7 @@ colorless
 
 ===========
 vsplit
-194/254
+196/256
 3
 uncommon
 Aris of Dead Hours
@@ -71,7 +71,7 @@ Surveil 2.
 
 ===========
 normal
-6/254
+6/256
 2
 uncommon
 Auspicious Traveller
@@ -94,7 +94,7 @@ colorless
 
 ===========
 normal
-156/254
+158/256
 3
 uncommon
 Backstreet Brawler
@@ -117,7 +117,7 @@ colorless
 
 ===========
 normal
-46/254
+46/256
 2
 uncommon
 Bit Flipper
@@ -140,7 +140,7 @@ colorless
 
 ===========
 normal
-84/254
+85/256
 3
 uncommon
 Blade Alley Betrayals
@@ -163,7 +163,7 @@ colorless
 
 ===========
 vsplit
-10/254
+10/256
 1
 uncommon
 Browsing Customer
@@ -186,7 +186,7 @@ Search your library for an Artifact card with an activated ability, reveal and p
 
 ===========
 normal
-195/254
+197/256
 3
 uncommon
 Canno, the Party-Planner
@@ -209,7 +209,7 @@ colorless
 
 ===========
 normal
-88/254
+89/256
 1
 uncommon
 Crowned by Eldritch Kings
@@ -232,7 +232,7 @@ colorless
 
 ===========
 normal
-48/254
+48/256
 2
 uncommon
 Crystal Moon
@@ -255,7 +255,7 @@ colorless
 
 ===========
 normal
-13/254
+13/256
 4
 uncommon
 Cursed Catlover
@@ -278,7 +278,7 @@ colorless
 
 ===========
 normal
-159/254
+161/256
 4
 uncommon
 Date Night Duo
@@ -301,7 +301,7 @@ colorless
 
 ===========
 normal
-14/254
+14/256
 2
 uncommon
 Deprecated Version
@@ -324,7 +324,7 @@ colorless
 
 ===========
 normal
-15/254
+15/256
 5
 uncommon
 Dies Irae
@@ -347,7 +347,7 @@ colorless
 
 ===========
 normal
-124/254
+125/256
 2
 uncommon
 Emberfly Mage
@@ -370,7 +370,7 @@ colorless
 
 ===========
 normal
-50/254
+50/256
 3
 uncommon
 Emotions Like a Rain Cloud
@@ -393,7 +393,7 @@ colorless
 
 ===========
 normal
-197/254
+199/256
 5
 uncommon
 Evans, Soul Salesman
@@ -416,7 +416,7 @@ colorless
 
 ===========
 normal
-198/254
+200/256
 2
 uncommon
 Excel, Harmony Smasher
@@ -439,7 +439,7 @@ colorless
 
 ===========
 normal
-52/254
+52/256
 2
 uncommon
 Gearshift
@@ -462,7 +462,7 @@ colorless
 
 ===========
 normal
-97/254
+98/256
 4
 uncommon
 Global Network Collapse
@@ -485,7 +485,7 @@ colorless
 
 ===========
 normal
-98/254
+99/256
 3
 uncommon
 Go Blank
@@ -508,7 +508,7 @@ colorless
 
 ===========
 normal
-99/254
+100/256
 2
 uncommon
 Here Without You
@@ -531,7 +531,7 @@ colorless
 
 ===========
 normal
-202/254
+204/256
 4
 uncommon
 Hikane, Revel-hearted
@@ -554,7 +554,7 @@ colorless
 
 ===========
 normal
-129/254
+130/256
 6
 uncommon
 Hikane's Sharpshooter
@@ -577,7 +577,7 @@ colorless
 
 ===========
 normal
-168/254
+170/256
 1
 uncommon
 Hydric Botanist
@@ -600,7 +600,7 @@ colorless
 
 ===========
 normal
-206/254
+208/256
 3
 uncommon
 Iel, Shard of the Preserver
@@ -623,7 +623,7 @@ colorless
 
 ===========
 normal
-100/254
+101/256
 3
 uncommon
 Kaede Bazaar
@@ -646,7 +646,7 @@ colorless
 
 ===========
 normal
-56/254
+55/256
 1
 uncommon
 Keikaku
@@ -669,7 +669,7 @@ colorless
 
 ===========
 normal
-208/254
+210/256
 4
 uncommon
 Keris, Bathed in Red
@@ -692,7 +692,7 @@ colorless
 
 ===========
 normal
-25/254
+25/256
 6
 uncommon
 Laniel, Arbiter of Secrets
@@ -715,7 +715,7 @@ colorless
 
 ===========
 normal
-135/254
+136/256
 2
 uncommon
 Lantern-Drawn Path
@@ -738,7 +738,7 @@ colorless
 
 ===========
 normal
-102/254
+103/256
 4
 uncommon
 Malevolent Heartbreaker
@@ -761,7 +761,7 @@ colorless
 
 ===========
 normal
-136/254
+137/256
 3
 uncommon
 Merchant of Lives
@@ -784,7 +784,7 @@ colorless
 
 ===========
 normal
-60/254
+59/256
 5
 uncommon
 Mysterious Idol
@@ -807,7 +807,7 @@ colorless
 
 ===========
 normal
-138/254
+139/256
 4
 common
 Nexus Savant
@@ -830,7 +830,7 @@ colorless
 
 ===========
 vsplit
-175/254
+177/256
 3
 uncommon
 Nowhere Lurkers
@@ -853,7 +853,7 @@ Conjure a duplicate of target nontoken land into your hand.
 
 ===========
 normal
-176/254
+178/256
 2
 uncommon
 Off the Rails
@@ -876,7 +876,7 @@ colorless
 
 ===========
 vsplit
-36/254
+36/256
 2
 uncommon
 Parasol Bearer
@@ -899,7 +899,7 @@ Put a shield counter on target creature you control.
 
 ===========
 normal
-143/254
+144/256
 3
 uncommon
 Redshift
@@ -922,15 +922,15 @@ colorless
 
 ===========
 normal
-5/254
-3
+5/256
+4
 uncommon
 Rail Line Runaway
 colorless
-<img src='magic-mana-small-3.png' alt='3' width='14' height='14'>
+<img src='magic-mana-small-4.png' alt='4' width='14' height='14'>
 Creature — Human 
 2
-2
+3
 When Rail Line Runaway enters, cache once for each Station you control. <i>(Create a Clue or Treasure token.)</i><br>///br///Whenever a Station land you control enters, cache.
 <i>Nobody knows where I will go...</i>
 Aenami
@@ -945,7 +945,7 @@ colorless
 
 ===========
 normal
-141/254
+142/256
 3
 common
 Red Flags
@@ -968,7 +968,7 @@ colorless
 
 ===========
 normal
-22/254
+22/256
 4
 uncommon
 Iason, Sunrise Renegade
@@ -991,7 +991,7 @@ colorless
 
 ===========
 normal
-179/254
+181/256
 5
 uncommon
 Rustic Spirits Tavern
@@ -1014,7 +1014,7 @@ colorless
 
 ===========
 normal
-180/254
+182/256
 3
 uncommon
 Search Query
@@ -1037,7 +1037,7 @@ colorless
 
 ===========
 normal
-219/254
+221/256
 2
 uncommon
 Serin, Old World Tinker
@@ -1060,7 +1060,7 @@ colorless
 
 ===========
 normal
-70/254
+70/256
 3
 uncommon
 Shine Like a Diamond
@@ -1083,7 +1083,7 @@ colorless
 
 ===========
 normal
-72/254
+72/256
 1
 uncommon
 Swallow the Moon
@@ -1106,7 +1106,7 @@ colorless
 
 ===========
 normal
-161/254
+163/256
 2
 uncommon
 The Fervent Conductor
@@ -1129,7 +1129,7 @@ colorless
 
 ===========
 normal
-215/254
+217/256
 4
 uncommon
 The Red Eyed Jester
@@ -1152,7 +1152,7 @@ colorless
 
 ===========
 normal
-38/254
+38/256
 4
 uncommon
 The Scarlet Citron
@@ -1175,7 +1175,7 @@ colorless
 
 ===========
 normal
-228/254
+230/256
 1
 uncommon
 Trail of Blood
@@ -1198,7 +1198,7 @@ colorless
 
 ===========
 vsplit
-75/254
+75/256
 4
 uncommon
 Trinket Princess
@@ -1221,7 +1221,7 @@ Cache. <i>(Create a Clue or Treasure token.)</i>
 
 ===========
 normal
-188/254
+190/256
 1
 uncommon
 Twist the Threads
@@ -1244,7 +1244,7 @@ colorless
 
 ===========
 normal
-111/254
+112/256
 2
 uncommon
 Unleash Nemesis Protocols
@@ -1267,7 +1267,7 @@ colorless
 
 ===========
 normal
-112/254
+113/256
 3
 uncommon
 Valeria, Yri's Second
@@ -1290,7 +1290,7 @@ colorless
 
 ===========
 normal
-149/254
+151/256
 2
 uncommon
 Veteren Bladesinger
@@ -1313,7 +1313,7 @@ colorless
 
 ===========
 vsplit
-93/254
+94/256
 2
 uncommon
 Eminevoyance Adept
@@ -1336,7 +1336,7 @@ Search your library for a card, put it into your hand, then shuffle.
 
 ===========
 normal
-150/254
+152/256
 2
 uncommon
 Violence Without Reason
@@ -1359,7 +1359,7 @@ colorless
 
 ===========
 vsplit
-224/254
+226/256
 3
 uncommon
 Voc, Beloved Idol
@@ -1382,7 +1382,7 @@ Return up to one target permanent you control to its owner&#8217;s hand.
 
 ===========
 normal
-189/254
+191/256
 5
 common
 Void Tyrant
@@ -1405,7 +1405,7 @@ colorless
 
 ===========
 normal
-41/254
+41/256
 4
 uncommon
 Waywarden of the Flow
@@ -1428,7 +1428,7 @@ colorless
 
 ===========
 normal
-190/254
+192/256
 2
 uncommon
 Welcoming Hostess
@@ -1451,7 +1451,7 @@ colorless
 
 ===========
 normal
-152/254
+154/256
 4
 uncommon
 Wield the Strength of Stars
@@ -1474,7 +1474,7 @@ colorless
 
 ===========
 normal
-154/254
+156/256
 2
 uncommon
 Xenon Cabaret
@@ -1497,7 +1497,7 @@ colorless
 
 ===========
 normal
-193/254
+195/256
 5
 mythic rare
 Aekyu Never Sleeps
@@ -1520,7 +1520,7 @@ colorless
 
 ===========
 normal
-207/254
+209/256
 7
 mythic rare
 Isolani, One and Only
@@ -1543,7 +1543,7 @@ colorless
 
 ===========
 normal
-103/254
+104/256
 3
 mythic rare
 Necroelysia
@@ -1566,7 +1566,7 @@ colorless
 
 ===========
 normal
-119/254
+120/256
 2
 rare
 Alicia, the Final Dawn
@@ -1589,7 +1589,7 @@ colorless
 
 ===========
 normal
-82/254
+83/256
 3
 rare
 Backstreets of Kaede
@@ -1612,7 +1612,7 @@ colorless
 
 ===========
 normal
-7/254
+7/256
 3
 rare
 Barhopping in Miseko
@@ -1635,7 +1635,7 @@ colorless
 
 ===========
 normal
-83/254
+84/256
 2
 rare
 Blackout Zone
@@ -1658,7 +1658,7 @@ colorless
 
 ===========
 normal
-67/254
+66/256
 1
 common
 Renegade Deputy
@@ -1681,7 +1681,7 @@ colorless
 
 ===========
 normal
-8/254
+8/256
 3
 rare
 Blasphemous Displacer
@@ -1704,7 +1704,7 @@ colorless
 
 ===========
 normal
-12/254
+12/256
 3
 rare
 Crafters of Fantasy
@@ -1727,7 +1727,7 @@ colorless
 
 ===========
 normal
-49/254
+49/256
 1
 rare
 Digital Champion
@@ -1750,7 +1750,7 @@ colorless
 
 ===========
 normal
-16/254
+16/256
 4
 rare
 Doomsday Sirens
@@ -1773,7 +1773,7 @@ colorless
 
 ===========
 normal
-160/254
+162/256
 5
 rare
 Enigmatic Prismata
@@ -1796,7 +1796,7 @@ colorless
 
 ===========
 normal
-94/254
+95/256
 1
 rare
 Evangel of Metamorphosis
@@ -1819,7 +1819,7 @@ colorless
 
 ===========
 normal
-199/254
+201/256
 3
 rare
 Ezren, Steelwing Ascendant
@@ -1842,7 +1842,7 @@ colorless
 
 ===========
 normal
-96/254
+97/256
 4
 rare
 Fractia, Angel of None
@@ -1865,7 +1865,7 @@ colorless
 
 ===========
 normal
-53/254
+53/256
 3
 rare
 Halcyon Steel Revolution
@@ -1888,7 +1888,7 @@ colorless
 
 ===========
 normal
-166/254
+168/256
 2
 rare
 Harbinger V
@@ -1911,7 +1911,7 @@ colorless
 
 ===========
 normal
-167/254
+169/256
 7
 mythic rare
 Hazreim, Vertical Stampede
@@ -1934,7 +1934,7 @@ colorless
 
 ===========
 normal
-204/254
+206/256
 5
 rare
 Hyacin, Rosegold Princess
@@ -1957,16 +1957,16 @@ colorless
 
 ===========
 normal
-54/254
+69/256
 3
 rare
-Idol of the Schism
+Rival of the Schism
 blue
 <img src='magic-mana-small-2.png' alt='2' width='14' height='14'><img src='magic-mana-small-U.png' alt='U' width='14' height='14'>
 Creature — Human Artist 
 2
 4
-Ward <span class="symbol"><img src='magic-mana-small-1.png' alt='1' width='14' height='14'></span><br>///br///Whenever Idol of the Schism attacks a player with the most cards in hand, draw a card.<br>///br///Whenever Idol of the Schism attacks while you have the most cards in hand, create a Treasure token.
+Ward <span class="symbol"><img src='magic-mana-small-1.png' alt='1' width='14' height='14'></span><br>///br///Whenever Rival of the Schism attacks a player with the most cards in hand, draw a card.<br>///br///Whenever Rival of the Schism attacks while you have the most cards in hand, create a Treasure token.
 
 Murakuraki
 
@@ -1980,7 +1980,7 @@ colorless
 
 ===========
 normal
-24/254
+24/256
 2
 rare
 Kalista, Gilded Mixologist
@@ -2003,7 +2003,7 @@ colorless
 
 ===========
 normal
-209/254
+211/256
 5
 rare
 Kura of the Zombie Network
@@ -2026,7 +2026,7 @@ colorless
 
 ===========
 normal
-134/254
+135/256
 3
 rare
 Kylthess, the Pale Lantern
@@ -2049,7 +2049,7 @@ colorless
 
 ===========
 normal
-170/254
+172/256
 2
 rare
 Live Large
@@ -2072,7 +2072,7 @@ colorless
 
 ===========
 normal
-172/254
+174/256
 2
 rare
 Mistencharm Resplendant
@@ -2095,7 +2095,7 @@ colorless
 
 ===========
 normal
-62/254
+61/256
 3
 rare
 Nonchalance
@@ -2118,7 +2118,7 @@ colorless
 
 ===========
 normal
-183/254
+185/256
 2
 rare
 Skylight Aspirant
@@ -2141,7 +2141,7 @@ colorless
 
 ===========
 normal
-146/254
+148/256
 3
 rare
 Slicer of Simplicity
@@ -2164,7 +2164,7 @@ colorless
 
 ===========
 normal
-184/254
+186/256
 4
 rare
 Social Executioner
@@ -2187,7 +2187,7 @@ colorless
 
 ===========
 normal
-147/254
+149/256
 3
 rare
 Starflame Songstress
@@ -2210,7 +2210,7 @@ colorless
 
 ===========
 normal
-148/254
+150/256
 3
 rare
 Vengeant Administrator
@@ -2233,7 +2233,7 @@ colorless
 
 ===========
 normal
-113/254
+114/256
 3
 rare
 Warden of the Boundary
@@ -2256,7 +2256,7 @@ colorless
 
 ===========
 normal
-42/254
+42/256
 2
 mythic rare
 White Lies
@@ -2279,7 +2279,7 @@ colorless
 
 ===========
 normal
-1/254
+1/256
 4
 common
 Agent of Digitas
@@ -2302,7 +2302,7 @@ colorless
 
 ===========
 normal
-3/254
+3/256
 3
 uncommon
 Dream
@@ -2325,7 +2325,7 @@ colorless
 
 ===========
 normal
-4/254
+4/256
 2
 common
 Heaven is Forged From Steel
@@ -2348,7 +2348,7 @@ colorless
 
 ===========
 normal
-2/254
+2/256
 1
 common
 Color Witch
@@ -2371,7 +2371,7 @@ colorless
 
 ===========
 normal
-9/254
+9/256
 3
 common
 Breaker of Promises
@@ -2394,7 +2394,7 @@ colorless
 
 ===========
 normal
-11/254
+11/256
 4
 common
 Cheering Fangirl
@@ -2417,7 +2417,7 @@ colorless
 
 ===========
 normal
-122/254
+123/256
 1
 uncommon
 Cosmic Revelations
@@ -2440,7 +2440,7 @@ colorless
 
 ===========
 normal
-17/254
+17/256
 2
 common
 Drinker of Night's Melodies
@@ -2463,7 +2463,7 @@ colorless
 
 ===========
 normal
-20/254
+20/256
 3
 common
 Flâneur
@@ -2486,7 +2486,7 @@ colorless
 
 ===========
 normal
-21/254
+21/256
 4
 common
 Hive Connectivity
@@ -2509,7 +2509,7 @@ colorless
 
 ===========
 normal
-26/254
+26/256
 2
 common
 Lean on Me
@@ -2532,7 +2532,7 @@ colorless
 
 ===========
 vsplit
-27/254
+27/256
 5
 common
 Lightshow Ensemble
@@ -2555,7 +2555,7 @@ Creatures you control gain vigilance until end of turn.
 
 ===========
 normal
-28/254
+28/256
 3
 common
 Lonely Medium
@@ -2578,7 +2578,7 @@ colorless
 
 ===========
 normal
-32/254
+32/256
 4
 common
 Nightmarish Actors
@@ -2601,7 +2601,7 @@ colorless
 
 ===========
 normal
-34/254
+34/256
 2
 common
 Off on a Date
@@ -2624,7 +2624,7 @@ colorless
 
 ===========
 normal
-31/254
+31/256
 1
 common
 Network Anonymity
@@ -2647,7 +2647,7 @@ colorless
 
 ===========
 normal
-35/254
+35/256
 1
 common
 Out of Order
@@ -2670,7 +2670,7 @@ colorless
 
 ===========
 normal
-37/254
+37/256
 1
 common
 Playful Record
@@ -2693,7 +2693,7 @@ colorless
 
 ===========
 normal
-39/254
+39/256
 1
 uncommon
 Star of the Show
@@ -2716,7 +2716,7 @@ colorless
 
 ===========
 normal
-40/254
+40/256
 2
 common
 Technosphere Renegade
@@ -2739,7 +2739,7 @@ colorless
 
 ===========
 normal
-43/254
+43/256
 3
 common
 Witness of New Humanity
@@ -2762,7 +2762,7 @@ colorless
 
 ===========
 normal
-45/254
+45/256
 1
 common
 Alone With My Thoughts
@@ -2785,7 +2785,7 @@ colorless
 
 ===========
 vsplit
-47/254
+47/256
 2
 common
 Censored Speaker
@@ -2808,7 +2808,7 @@ Return target creature or planeswalker to its owner&#8217;s hand.
 
 ===========
 normal
-51/254
+51/256
 1
 common
 Gaze Skyward and Weep
@@ -2831,7 +2831,7 @@ colorless
 
 ===========
 normal
-57/254
+56/256
 2
 common
 Lost to the Music
@@ -2854,7 +2854,7 @@ colorless
 
 ===========
 normal
-76/254
+76/256
 3
 common
 Try New Styles
@@ -2877,7 +2877,7 @@ colorless
 
 ===========
 normal
-59/254
+58/256
 3
 common
 Miseiko Idols
@@ -2900,7 +2900,7 @@ colorless
 
 ===========
 normal
-66/254
+65/256
 5
 common
 Prophecy Flood
@@ -2923,7 +2923,7 @@ colorless
 
 ===========
 normal
-65/254
+64/256
 1
 common
 Ponder Infinite Misfortunes
@@ -2946,7 +2946,7 @@ colorless
 
 ===========
 normal
-68/254
+67/256
 4
 common
 Rhythm Seer
@@ -2969,7 +2969,7 @@ colorless
 
 ===========
 normal
-69/254
+68/256
 1
 common
 Rippling Timelines
@@ -2992,7 +2992,7 @@ colorless
 
 ===========
 normal
-71/254
+71/256
 6
 uncommon
 Smokesign Mystic
@@ -3015,7 +3015,7 @@ colorless
 
 ===========
 normal
-73/254
+73/256
 3
 common
 Technopath Operative
@@ -3038,7 +3038,7 @@ colorless
 
 ===========
 vsplit
-74/254
+74/256
 1
 common
 Traveler at Crossroads
@@ -3061,7 +3061,7 @@ Surveil 2. Draw a card.
 
 ===========
 normal
-64/254
+63/256
 4
 common
 Plunge into the Brink
@@ -3084,7 +3084,7 @@ colorless
 
 ===========
 normal
-79/254
+79/256
 5
 common
 Wavedasher
@@ -3107,7 +3107,7 @@ colorless
 
 ===========
 normal
-80/254
+80/256
 3
 common
 Witness of Last Flight
@@ -3130,7 +3130,7 @@ colorless
 
 ===========
 vsplit
-81/254
+81/256
 3
 common
 Abeyant Dreamer
@@ -3153,7 +3153,7 @@ Each player sacrifices a creature.
 
 ===========
 normal
-85/254
+86/256
 5
 common
 Blade Maid
@@ -3176,7 +3176,7 @@ colorless
 
 ===========
 normal
-86/254
+87/256
 4
 common
 Child of Fallacies
@@ -3199,7 +3199,7 @@ colorless
 
 ===========
 normal
-89/254
+90/256
 2
 common
 Darkside Accountant
@@ -3222,7 +3222,7 @@ colorless
 
 ===========
 normal
-90/254
+91/256
 1
 common
 Disconnect
@@ -3245,7 +3245,7 @@ colorless
 
 ===========
 normal
-91/254
+92/256
 2
 common
 Dreamer's Bane
@@ -3268,7 +3268,7 @@ colorless
 
 ===========
 normal
-92/254
+93/256
 2
 common
 Eerie Night Stroll
@@ -3291,7 +3291,7 @@ colorless
 
 ===========
 normal
-87/254
+88/256
 8
 common
 Conciousness Not Found
@@ -3314,7 +3314,7 @@ colorless
 
 ===========
 normal
-95/254
+96/256
 3
 common
 Forged Through Nightmare
@@ -3337,7 +3337,7 @@ colorless
 
 ===========
 normal
-105/254
+106/256
 1
 common
 Self Imperil
@@ -3360,7 +3360,7 @@ colorless
 
 ===========
 normal
-106/254
+107/256
 3
 common
 Seventh Street Oracle
@@ -3383,7 +3383,7 @@ colorless
 
 ===========
 normal
-108/254
+109/256
 1
 uncommon
 Splintered Soul
@@ -3406,7 +3406,7 @@ colorless
 
 ===========
 normal
-109/254
+110/256
 3
 common
 Studious Pupil
@@ -3429,7 +3429,7 @@ colorless
 
 ===========
 normal
-110/254
+111/256
 1
 common
 Too Much to Drink
@@ -3452,7 +3452,7 @@ colorless
 
 ===========
 normal
-114/254
+115/256
 1
 common
 Watch the Sun Fade
@@ -3475,7 +3475,7 @@ colorless
 
 ===========
 normal
-115/254
+116/256
 3
 common
 Witness of No Return
@@ -3498,7 +3498,7 @@ colorless
 
 ===========
 normal
-117/254
+118/256
 1
 common
 Yri's Frontrunner
@@ -3521,7 +3521,7 @@ colorless
 
 ===========
 normal
-120/254
+121/256
 3
 uncommon
 Avatar of Revels
@@ -3544,7 +3544,7 @@ colorless
 
 ===========
 normal
-121/254
+122/256
 1
 common
 Corrupted Angelic Songs
@@ -3567,7 +3567,7 @@ colorless
 
 ===========
 normal
-125/254
+126/256
 1
 common
 Foul-Tongued Acolyte
@@ -3590,7 +3590,7 @@ colorless
 
 ===========
 normal
-126/254
+127/256
 2
 common
 Frustrated Artist
@@ -3613,7 +3613,7 @@ colorless
 
 ===========
 normal
-127/254
+128/256
 3
 common
 Getaway Driver
@@ -3636,7 +3636,7 @@ colorless
 
 ===========
 normal
-130/254
+131/256
 1
 common
 His Overwhelming Bloodlust
@@ -3659,7 +3659,7 @@ colorless
 
 ===========
 normal
-123/254
+124/256
 3
 common
 Eldritch Seduction
@@ -3682,7 +3682,7 @@ colorless
 
 ===========
 vsplit
-131/254
+132/256
 3
 common
 Kaede Troublemakers
@@ -3705,7 +3705,7 @@ Destroy target  artifact.
 
 ===========
 normal
-137/254
+138/256
 1
 common
 Neon City Racer
@@ -3728,7 +3728,7 @@ colorless
 
 ===========
 normal
-128/254
+129/256
 2
 common
 Heartstopping
@@ -3751,7 +3751,7 @@ colorless
 
 ===========
 normal
-140/254
+141/256
 1
 common
 Protagonism
@@ -3774,7 +3774,7 @@ colorless
 
 ===========
 normal
-142/254
+143/256
 2
 uncommon
 Red Hot Racer
@@ -3797,7 +3797,7 @@ colorless
 
 ===========
 normal
-144/254
+146/256
 2
 common
 Satsukai Fixer
@@ -3820,7 +3820,7 @@ colorless
 
 ===========
 normal
-145/254
+147/256
 1
 common
 Scorch
@@ -3843,7 +3843,7 @@ colorless
 
 ===========
 normal
-151/254
+153/256
 1
 common
 Waiting for You
@@ -3866,7 +3866,7 @@ colorless
 
 ===========
 normal
-153/254
+155/256
 3
 common
 Witness of Red Skies
@@ -3889,7 +3889,7 @@ colorless
 
 ===========
 normal
-158/254
+160/256
 6
 common
 Colossal Metalmaw
@@ -3912,7 +3912,7 @@ colorless
 
 ===========
 normal
-162/254
+164/256
 1
 common
 God Mode
@@ -3935,7 +3935,7 @@ colorless
 
 ===========
 normal
-157/254
+159/256
 1
 common
 Blissful Small Talks
@@ -3958,7 +3958,7 @@ colorless
 
 ===========
 normal
-19/254
+19/256
 2
 common
 Feeling Great
@@ -3981,7 +3981,7 @@ colorless
 
 ===========
 normal
-185/254
+187/256
 2
 common
 Thunderous Entrance
@@ -4004,7 +4004,7 @@ colorless
 
 ===========
 normal
-169/254
+171/256
 2
 common
 Joyous Shopkeeper
@@ -4027,7 +4027,7 @@ colorless
 
 ===========
 normal
-171/254
+173/256
 2
 common
 Lo-Fi Listener
@@ -4050,7 +4050,7 @@ colorless
 
 ===========
 normal
-212/254
+214/256
 4
 common
 Multifactor Authentication
@@ -4073,7 +4073,7 @@ colorless
 
 ===========
 normal
-173/254
+175/256
 5
 common
 Night Alley Hunters
@@ -4096,7 +4096,7 @@ colorless
 
 ===========
 normal
-174/254
+176/256
 1
 uncommon
 Nighttime Wanderer
@@ -4119,7 +4119,7 @@ colorless
 
 ===========
 normal
-177/254
+179/256
 2
 common
 Rainbow Seeker
@@ -4142,7 +4142,7 @@ colorless
 
 ===========
 normal
-181/254
+183/256
 4
 common
 Serin's Masterwork
@@ -4165,7 +4165,7 @@ colorless
 
 ===========
 normal
-182/254
+184/256
 2
 common
 Seventh Street Stalker
@@ -4188,7 +4188,7 @@ colorless
 
 ===========
 normal
-178/254
+180/256
 2
 common
 Renegade Fixer
@@ -4211,7 +4211,7 @@ colorless
 
 ===========
 normal
-186/254
+188/256
 1
 common
 Traverse the City
@@ -4234,7 +4234,7 @@ colorless
 
 ===========
 vsplit
-187/254
+189/256
 4
 common
 Twilight Witch
@@ -4257,7 +4257,7 @@ You gain 4 life.
 
 ===========
 normal
-191/254
+193/256
 3
 common
 Witness of the Brink
@@ -4280,7 +4280,7 @@ colorless
 
 ===========
 normal
-221/254
+223/256
 3
 common
 Strange Electric Dreams
@@ -4303,7 +4303,7 @@ colorless
 
 ===========
 normal
-201/254
+203/256
 4
 common
 Featherflayer
@@ -4326,7 +4326,7 @@ colorless
 
 ===========
 normal
-196/254
+198/256
 2
 common
 Enter Mephisto's Gate
@@ -4349,7 +4349,7 @@ colorless
 
 ===========
 normal
-200/254
+202/256
 3
 common
 Faceless Many
@@ -4372,7 +4372,7 @@ colorless
 
 ===========
 normal
-203/254
+205/256
 2
 common
 Humanity Perseveres
@@ -4395,7 +4395,7 @@ colorless
 
 ===========
 normal
-211/254
+213/256
 2
 common
 Moonlit Lantern Festival
@@ -4418,7 +4418,7 @@ colorless
 
 ===========
 normal
-214/254
+216/256
 2
 common
 Reckless Aspirations
@@ -4441,7 +4441,7 @@ colorless
 
 ===========
 normal
-216/254
+218/256
 2
 common
 Retcon
@@ -4464,7 +4464,7 @@ colorless
 
 ===========
 normal
-218/254
+220/256
 2
 common
 Satsukai Paladin
@@ -4487,7 +4487,7 @@ colorless
 
 ===========
 normal
-227/254
+229/256
 4
 common
 Machine of Broken Queries
@@ -4510,7 +4510,7 @@ colorless
 
 ===========
 normal
-165/254
+167/256
 4
 uncommon
 Harbinger of Hazreim
@@ -4533,7 +4533,7 @@ colorless
 
 ===========
 normal
-254/254
+256/256
 0
 basic land
 Forest
@@ -4556,7 +4556,7 @@ colorless
 
 ===========
 normal
-251/254
+253/256
 0
 basic land
 Island
@@ -4579,7 +4579,7 @@ colorless
 
 ===========
 normal
-253/254
+255/256
 0
 basic land
 Mountain
@@ -4602,7 +4602,7 @@ colorless
 
 ===========
 normal
-250/254
+252/256
 0
 basic land
 Plains
@@ -4625,7 +4625,7 @@ colorless
 
 ===========
 normal
-252/254
+254/256
 0
 basic land
 Swamp
@@ -4648,7 +4648,7 @@ colorless
 
 ===========
 normal
-239/254
+241/256
 0
 uncommon
 Prismatic Eternity
@@ -4671,7 +4671,7 @@ colorless
 
 ===========
 normal
-240/254
+242/256
 0
 common
 The Road to Nowhere
@@ -4694,7 +4694,7 @@ colorless
 
 ===========
 normal
-246/254
+248/256
 0
 rare
 Thunder Stage
@@ -4717,7 +4717,7 @@ colorless
 
 ===========
 normal
-248/254
+250/256
 0
 rare
 Vielle's Perch
@@ -4740,7 +4740,7 @@ colorless
 
 ===========
 normal
-249/254
+251/256
 0
 common
 Wayfarer's Shrine
@@ -4763,7 +4763,7 @@ colorless
 
 ===========
 vsplit
-229/254
+231/256
 0
 common
 7th and Tenson Intersection
@@ -4786,7 +4786,7 @@ Target land becomes a Mountain Plains in addition to its other types. <i>(It has
 
 ===========
 vsplit
-230/254
+232/256
 0
 common
 Abandoned Pines Railway
@@ -4809,10 +4809,10 @@ Target land becomes a Mountain Forest in addition to its other types. <i>(It has
 
 ===========
 vsplit
-231/254
+237/256
 0
 common
-Azure Sunset Railway
+Lumina-Vista Railway
 land
 
 Land — Station 
@@ -4820,19 +4820,19 @@ Land — Station
 
 <span class="symbol"><img src='magic-mana-small-T.png' alt='T' width='14' height='14'></span>: Add <span class="symbol"><img src='magic-mana-small-C.png' alt='C' width='14' height='14'></span>.<br>///br///<i>(You may cast its Tale once while this is on the battlefield.)</i>
 
-Aenigma
+trenemre
 Ticket to Tsukuri
-white, blue, multicolor, horizontal
+white, black, multicolor, horizontal
 <img src='magic-mana-small-1.png' alt='1' width='14' height='14'>
 Sorcery — Tale 
 
 
-Target land becomes a Plains Island in addition to its other types. <i>(It has <span class="symbol"><img src='magic-mana-small-T.png' alt='T' width='14' height='14'></span>: Add <span class="symbol"><img src='magic-mana-small-W.png' alt='W' width='14' height='14'></span> or <span class="symbol"><img src='magic-mana-small-U.png' alt='U' width='14' height='14'></span>.)</i> 
+Target land becomes a Plains Swamp in addition to its other types. <i>(It has <span class="symbol"><img src='magic-mana-small-T.png' alt='T' width='14' height='14'></span>: Add <span class="symbol"><img src='magic-mana-small-W.png' alt='W' width='14' height='14'></span> or <span class="symbol"><img src='magic-mana-small-B.png' alt='B' width='14' height='14'></span>.)</i> 
 
 
 ===========
 vsplit
-232/254
+233/256
 0
 common
 Blade Alley Nexus
@@ -4855,7 +4855,7 @@ Target land becomes an Island Swamp in addition to its other types. <i>(It has <
 
 ===========
 vsplit
-233/254
+234/256
 0
 common
 Evans Company Railway
@@ -4878,7 +4878,7 @@ Target land becomes a Swamp Mountain in addition to its other types. <i>(It has 
 
 ===========
 vsplit
-236/254
+238/256
 0
 common
 Masahi Street Subway
@@ -4901,7 +4901,7 @@ Target land becomes a Swamp Forest in addition to its other types. <i>(It has <s
 
 ===========
 vsplit
-242/254
+244/256
 0
 common
 Skybound Aeroport
@@ -4924,7 +4924,7 @@ Target land becomes a Plains Island in addition to its other types. <i>(It has <
 
 ===========
 vsplit
-243/254
+245/256
 0
 common
 Somewhere Between Planes
@@ -4947,7 +4947,7 @@ Target land becomes an Island Mountain in addition to its other types. <i>(It ha
 
 ===========
 vsplit
-244/254
+246/256
 0
 common
 Sora Isle Docks
@@ -4970,7 +4970,7 @@ Target land becomes a Forest Island in addition to its other types. <i>(It has <
 
 ===========
 vsplit
-245/254
+247/256
 0
 common
 Spirit-East Railway
@@ -4993,7 +4993,7 @@ Target land becomes a Forest Plains in addition to its other types. <i>(It has <
 
 ===========
 normal
-210/254
+212/256
 6
 mythic rare
 Kyv, Blood-Red Night
@@ -5016,7 +5016,7 @@ colorless
 
 ===========
 normal
-220/254
+222/256
 4
 rare
 Solar Torrent
@@ -5039,7 +5039,7 @@ colorless
 
 ===========
 normal
-104/254
+105/256
 2
 rare
 Nicholas, the Traveler
@@ -5062,7 +5062,7 @@ colorless
 
 ===========
 normal
-118/254
+119/256
 4
 mythic rare
 Aethion, the Suncaster
@@ -5085,7 +5085,7 @@ colorless
 
 ===========
 normal
-164/254
+166/256
 6
 rare
 Gruesome Reassembly
@@ -5108,7 +5108,7 @@ colorless
 
 ===========
 normal
-213/254
+215/256
 2
 rare
 Raven Requiems
@@ -5131,7 +5131,7 @@ colorless
 
 ===========
 normal
-77/254
+77/256
 1
 rare
 Tsukuri Kiteflier
@@ -5154,7 +5154,7 @@ colorless
 
 ===========
 normal
-139/254
+140/256
 3
 rare
 Powerstorming Session
@@ -5177,7 +5177,7 @@ colorless
 
 ===========
 normal
-30/254
+30/256
 4
 rare
 Miseko Sword Saint
@@ -5200,7 +5200,7 @@ colorless
 
 ===========
 normal
-163/254
+165/256
 2
 common
 Grapple
@@ -5223,7 +5223,7 @@ colorless
 
 ===========
 normal
-116/254
+117/256
 2
 rare
 Yri, Lost Within Nightmares
@@ -5246,7 +5246,7 @@ colorless
 
 ===========
 normal
-133/254
+134/256
 5
 rare
 Kylthess Incinerates Heaven
@@ -5269,7 +5269,7 @@ colorless
 
 ===========
 normal
-132/254
+133/256
 4
 mythic rare
 The King of Husks
@@ -5292,7 +5292,7 @@ colorless
 
 ===========
 normal
-225/254
+227/256
 3
 mythic rare
 Winmeari, Scarlet Sentinel
@@ -5315,7 +5315,7 @@ colorless
 
 ===========
 normal
-33/254
+33/256
 2
 rare
 No More Heresies
@@ -5338,7 +5338,7 @@ colorless
 
 ===========
 normal
-29/254
+29/256
 1
 uncommon
 Make Believe Together
@@ -5361,7 +5361,7 @@ colorless
 
 ===========
 normal
-226/254
+228/256
 2
 rare
 Abandoned Trainyard
@@ -5384,7 +5384,7 @@ colorless
 
 ===========
 normal
-222/254
+224/256
 5
 mythic rare
 Touka, Who Deals With Devils
@@ -5407,7 +5407,7 @@ colorless
 
 ===========
 normal
-234/254
+235/256
 0
 uncommon
 Kaede, the City Below
@@ -5430,7 +5430,7 @@ colorless
 
 ===========
 normal
-237/254
+239/256
 0
 uncommon
 Miseko, Sunrise Capital
@@ -5453,7 +5453,7 @@ colorless
 
 ===========
 normal
-238/254
+240/256
 0
 uncommon
 Nyano, Renegade Hideout
@@ -5476,7 +5476,7 @@ colorless
 
 ===========
 normal
-241/254
+243/256
 0
 uncommon
 Satsukai, City of Lights
@@ -5499,7 +5499,7 @@ colorless
 
 ===========
 normal
-247/254
+249/256
 0
 uncommon
 Tsukuri, Lantern Sanctum
@@ -5522,7 +5522,7 @@ colorless
 
 ===========
 normal
-155/254
+157/256
 6
 mythic rare
 Araki, Network Cleaner
@@ -5545,7 +5545,7 @@ colorless
 
 ===========
 normal
-235/254
+236/256
 0
 uncommon
 Liminal Space
@@ -5568,7 +5568,7 @@ colorless
 
 ===========
 normal
-217/254
+219/256
 5
 rare
 Ricochet Through Hell
@@ -5591,7 +5591,7 @@ colorless
 
 ===========
 normal
-107/254
+108/256
 5
 mythic rare
 Spark Hunter Kajiwara
@@ -5614,7 +5614,7 @@ colorless
 
 ===========
 normal
-55/254
+54/256
 3
 mythic rare
 Katalepsis
@@ -5637,7 +5637,7 @@ colorless
 
 ===========
 normal
-192/254
+194/256
 4
 rare
 Yeshin of New Humanity
@@ -5683,7 +5683,7 @@ colorless
 
 ===========
 normal
-223/254
+225/256
 2
 mythic rare
 Vielle, Aekyu's Antihero
@@ -5706,7 +5706,7 @@ colorless
 
 ===========
 normal
-61/254
+60/256
 2
 uncommon
 Nightmares Even in Waking
@@ -5729,7 +5729,7 @@ colorless
 
 ===========
 normal
-58/254
+57/256
 2
 rare
 Lucid Nightmares
@@ -5752,7 +5752,7 @@ colorless
 
 ===========
 normal
-205/254
+207/256
 4
 rare
 Ideological Schism
@@ -5775,7 +5775,7 @@ colorless
 
 ===========
 normal
-23/254
+23/256
 5
 rare
 Iason's Call to Arms
@@ -5798,16 +5798,16 @@ colorless
 
 ===========
 normal
-78/254
-5
+78/256
+2
 rare
 Unspool Forever
 blue
-<img src='magic-mana-small-3.png' alt='3' width='14' height='14'><img src='magic-mana-small-U.png' alt='U' width='14' height='14'><img src='magic-mana-small-U.png' alt='U' width='14' height='14'>
-Instant
+<img src='magic-mana-small-1.png' alt='1' width='14' height='14'><img src='magic-mana-small-U.png' alt='U' width='14' height='14'>
+Enchantment
 
 
-Take an extra turn after this one.<br>///br///Exile Unspool Forever.
+When Unspool Forever enters, create a 1/1 blue Elemental creature token with flying.<br>///br///At the beginning of your upkeep, you may cast Unspool Forever from the battlefield. If you do, add <span class="symbol"><img src='magic-mana-small-U.png' alt='U' width='14' height='14'><img src='magic-mana-small-U.png' alt='U' width='14' height='14'></span>. Until end of turn, you don&#8217;t lose this mana as steps and phases end. <i>(You still pay its costs. The battlefield is outside of your hand.)</i>
 <i>&#8220;See you yesterday.&#8221;</i>
 Alena Aenami
 
@@ -5821,7 +5821,7 @@ colorless
 
 ===========
 normal
-63/254
+62/256
 5
 rare
 Playing With Puddles
@@ -5844,7 +5844,7 @@ colorless
 
 ===========
 normal
-18/254
+18/256
 4
 mythic rare
 Emeria, Once Lost
@@ -5863,6 +5863,52 @@ colorless
 
 
 -15: 
+
+
+===========
+normal
+82/256
+2
+rare
+Aintsa, Stargirl
+black
+<img src='magic-mana-small-1.png' alt='1' width='14' height='14'><img src='magic-mana-small-B.png' alt='B' width='14' height='14'>
+Legendary Creature — Elemental 
+1
+1
+When Aintsa enters and at the beginning of your upkeep, you may search your library for a card with mana value 3 or less, put it in your graveyard, then shuffle.<br>///br///The first spell you cast from your graveyard each turn costs one mana of any color less to cast.
+
+Azxoduz
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+145/256
+4
+rare
+Rival of the Soundcore
+red
+<img src='magic-mana-small-2.png' alt='2' width='14' height='14'><img src='magic-mana-small-R.png' alt='R' width='14' height='14'><img src='magic-mana-small-R.png' alt='R' width='14' height='14'>
+Creature — Human Artist 
+4
+5
+Whenever Rival of the Soundcore attacks, up to one target creature you don&#8217;t control can&#8217;t block this turn.<br>///br///Whenever an opponent casts a spell, Rival of the Soundcore deals 2 damage to them. Then you cache. <i>(Create a Clue or Treasure token.)</i>
+
+reoenl
+
+colorless
+
+
+
+
+
 
 
 ===========
