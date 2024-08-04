@@ -1085,7 +1085,7 @@ Once each turn, when you sacrifice a noncreature permanent, create a 1/1 white H
       </prop>
       <tablerow>2</tablerow>
       <text>Flying, vigilance
-Whenever Blasphemous Displacer attacks, exile up to two nonland permanents without flying, then return them to the battlefield under its owner’s control with a flying counter.</text>
+Whenever Blasphemous Displacer attacks, exile up to two nonland permanents without flying, then return each of them to the battlefield under its owner’s control with a flying counter.</text>
     </card>
     <card>
       <name>Crafters of Fantasy</name>
@@ -1318,7 +1318,7 @@ Whenever a creature an opponent control enters, you may cast a creature spell wi
         <maintype>Instant</maintype>
       </prop>
       <tablerow>3</tablerow>
-      <text>Surveil 3, then choose one —
+      <text>Surveil 3. When you do, choose one —
 • Reveal the top card of your library. If it has mana value 3 or less, you may cast it without paying its mana cost.
 • Draw a card.</text>
     </card>
@@ -1335,7 +1335,7 @@ Whenever a creature an opponent control enters, you may cast a creature spell wi
       </prop>
       <tablerow>2</tablerow>
       <text>Reach
-Whenever you put one or more cards from your library into your graveyard, you may exile Skylight Aspirant. If you do, return it to the battlefield with that many +1/+1 counters on it.</text>
+Whenever you put one or more cards from your library into your graveyard during your turn, you may exile Skylight Aspirant. If you do, return it to the battlefield with that many +1/+1 counters on it.</text>
     </card>
     <card>
       <name>Slicer of Simplicity</name>
@@ -1458,8 +1458,8 @@ At the beginning of your second main phase, if two or more creatures you control
         <colors></colors>
         <manacost>2</manacost>
         <cmc>2</cmc>
-        <type>Sorcery</type>
-        <maintype>Sorcery</maintype>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
       </prop>
       <tablerow>3</tablerow>
       <text>Put a paradise counter on each land you control. (It has “{T}: Add one mana of any color.”)
