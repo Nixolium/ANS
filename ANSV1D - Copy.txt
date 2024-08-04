@@ -5,7 +5,7 @@
 	        "mana_cost": "{3}{B}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-files/A Little Bit Messed Up.png"
+	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSC-files/A Little Bit Messed Up.png"
 	        }
 	    },
 	    {
@@ -14,7 +14,7 @@
 	        "mana_cost": "{1}{U}",
 	        "type": "Legendary Creature — Human Artist ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-files/Akane, Linearity Breaker.png"
+	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSC-files/Akane, Linearity Breaker.png"
 	        }
 	    },
 	    {
@@ -22,7 +22,7 @@
 	        "mana_cost": "{1}{U}{B}",
 	        "type": "Legendary Creature — Human Artist ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-files/Aris of Dead Hours.png"
+	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSC-files/Aris of Dead Hours.png"
 	        },
 	        "printed names": {
 	            "en": "Aris of Dead Hours"
@@ -33,7 +33,7 @@
 	                "en": "Follow the Trail"
 	            },
 	            "image_uris": {
-	                "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-files/Follow the Trail.png"
+	                "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSC-files/Follow the Trail.png"
 	            },
 	            "type": "Instant — Tale "
 	        }
@@ -44,7 +44,7 @@
 	        "mana_cost": "{1}{W}",
 	        "type": "Creature — Human Scout ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-files/Auspicious Traveler.png"
+	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSC-files/Auspicious Traveler.png"
 	        }
 	    },
 	    {
@@ -53,7 +53,7 @@
 	        "mana_cost": "{2}{G}",
 	        "type": "Creature — Human Rogue ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-files/Backstreet Brawler.png"
+	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSC-files/Backstreet Brawler.png"
 	        }
 	    },
 	    {
@@ -62,7 +62,7 @@
 	        "mana_cost": "{1}{U}",
 	        "type": "Creature — Bird Gamer ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-files/Bit Flipper.png"
+	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSC-files/Bit Flipper.png"
 	        }
 	    },
 	    {
@@ -71,7 +71,7 @@
 	        "mana_cost": "{X}{B}{B}",
 	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-files/Stargaze.png"
+	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSC-files/Stargaze.png"
 	        }
 	    },
 	    {
@@ -79,7 +79,7 @@
 	        "mana_cost": "{W}",
 	        "type": "Creature — Human Scout ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-files/Browsing Customer.png"
+	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSC-files/Browsing Customer.png"
 	        },
 	        "printed names": {
 	            "en": "Browsing Customer"
@@ -90,7 +90,7 @@
 	                "en": "A New Read"
 	            },
 	            "image_uris": {
-	                "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-files/A New Read.png"
+	                "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSC-files/A New Read.png"
 	            },
 	            "type": "Sorcery — Tale "
 	        }
@@ -101,7 +101,7 @@
 	        "mana_cost": "{1}{G}{W}",
 	        "type": "Legendary Creature — Human Advisor ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-files/Canno, the Party-Planner.png"
+	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSC-files/Canno, the Party-Planner.png"
 	        }
 	    },
 	    {
@@ -110,7 +110,7 @@
 	        "mana_cost": "{B}",
 	        "type": "Sorcery — Revelation ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-files/Crowned by Eldritch Kings.png"
+	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSC-files/Crowned by Eldritch Kings.png"
 	        }
 	    },
 	    {
@@ -119,7 +119,7 @@
 	        "mana_cost": "{U}",
 	        "type": "Legendary Enchantment",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-files/The Crystal Moon.png"
+	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSC-files/The Crystal Moon.png"
 	        }
 	    },
 	    {
@@ -128,7 +128,7 @@
 	        "mana_cost": "{2}{W}{W}",
 	        "type": "Creature — Human Wizard ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-files/Cursed Catlover.png"
+	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSC-files/Cursed Catlover.png"
 	        }
 	    },
 	    {
@@ -137,7 +137,7 @@
 	        "mana_cost": "{3}{G}",
 	        "type": "Creature — Human ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-files/Date Night Duo.png"
+	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSC-files/Date Night Duo.png"
 	        }
 	    },
 	    {
@@ -146,7 +146,7 @@
 	        "mana_cost": "{1}{W}",
 	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-files/Deprecated Version.png"
+	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSC-files/Deprecated Version.png"
 	        }
 	    },
 	    {
@@ -155,7 +155,7 @@
 	        "mana_cost": "{3}{W}{W}",
 	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-files/Dies Irae.png"
+	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSC-files/Dies Irae.png"
 	        }
 	    },
 	    {
@@ -164,7 +164,7 @@
 	        "mana_cost": "{1}{R}",
 	        "type": "Creature — Human Wizard ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-files/Emberfly Mage.png"
+	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSC-files/Emberfly Mage.png"
 	        }
 	    },
 	    {
@@ -173,7 +173,7 @@
 	        "mana_cost": "{2}{U}",
 	        "type": "Enchantment",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-files/Emotions Like a Rain Cloud.png"
+	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSC-files/Emotions Like a Rain Cloud.png"
 	        }
 	    },
 	    {
@@ -182,7 +182,7 @@
 	        "mana_cost": "{3}{B}{R}",
 	        "type": "Legendary Creature — Human Horror ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-files/Evans, Soul Salesman.png"
+	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSC-files/Evans, Soul Salesman.png"
 	        }
 	    },
 	    {
@@ -191,7 +191,7 @@
 	        "mana_cost": "{B}{G}",
 	        "type": "Legendary Creature — Human Artist ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-files/Excel, Harmony Smasher.png"
+	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSC-files/Excel, Harmony Smasher.png"
 	        }
 	    },
 	    {
@@ -200,7 +200,7 @@
 	        "mana_cost": "{1}{U}",
 	        "type": "Enchantment",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-files/Gearshift.png"
+	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSC-files/Gearshift.png"
 	        }
 	    },
 	    {
@@ -209,7 +209,7 @@
 	        "mana_cost": "{2}{B}",
 	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-files/Global Network Collapse.png"
+	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSC-files/Global Network Collapse.png"
 	        }
 	    },
 	    {
@@ -218,7 +218,7 @@
 	        "mana_cost": "{2}{B}",
 	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-files/Go Blank.png"
+	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSC-files/Go Blank.png"
 	        }
 	    },
 	    {
@@ -227,7 +227,7 @@
 	        "mana_cost": "{1}{B}",
 	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-files/Here Without You.png"
+	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSC-files/Here Without You.png"
 	        }
 	    },
 	    {
@@ -236,7 +236,7 @@
 	        "mana_cost": "{2}{R}{G}",
 	        "type": "Legendary Creature — Human Scout ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-files/Hikane, Revel-hearted.png"
+	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSC-files/Hikane, Revel-hearted.png"
 	        }
 	    },
 	    {
@@ -245,7 +245,7 @@
 	        "mana_cost": "{4}{R}{R}",
 	        "type": "Creature — Snake Horror  ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-files/Bristling Lancer.png"
+	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSC-files/Bristling Lancer.png"
 	        }
 	    },
 	    {
@@ -254,7 +254,7 @@
 	        "mana_cost": "{X}{G}",
 	        "type": "Creature — Human Druid ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-files/Hydric Botanist.png"
+	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSC-files/Hydric Botanist.png"
 	        }
 	    },
 	    {
@@ -263,7 +263,7 @@
 	        "mana_cost": "{1}{G}{U}",
 	        "type": "Legendary Creature — Elemental Avatar ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-files/Iel, Shard of the Preserver.png"
+	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSC-files/Iel, Shard of the Preserver.png"
 	        }
 	    },
 	    {
@@ -272,7 +272,7 @@
 	        "mana_cost": "{2}{B}",
 	        "type": "Legendary Enchantment",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-files/Kaede Bazaar.png"
+	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSC-files/Kaede Bazaar.png"
 	        }
 	    },
 	    {
@@ -281,7 +281,7 @@
 	        "mana_cost": "{U}",
 	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-files/Keikaku.png"
+	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSC-files/Keikaku.png"
 	        }
 	    },
 	    {
@@ -290,7 +290,7 @@
 	        "mana_cost": "{2}{R}{W}",
 	        "type": "Legendary Creature — Human Warrior ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-files/Keris, Bathed in Red.png"
+	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSC-files/Keris, Bathed in Red.png"
 	        }
 	    },
 	    {
@@ -299,7 +299,7 @@
 	        "mana_cost": "{4}{W}{W}",
 	        "type": "Legendary Creature — Nephil Cleric ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-files/Laniel, Arbiter of Secrets.png"
+	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSC-files/Laniel, Arbiter of Secrets.png"
 	        }
 	    },
 	    {
@@ -308,7 +308,7 @@
 	        "mana_cost": "{2}{R}{R}",
 	        "type": "Creature — Human Artist ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-files/Rival of the Soundcore.png"
+	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSC-files/Rival of the Soundcore.png"
 	        }
 	    },
 	    {
@@ -317,7 +317,7 @@
 	        "mana_cost": "{3}{B}",
 	        "type": "Creature — Human ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-files/Malevolent Heartbreaker.png"
+	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSC-files/Malevolent Heartbreaker.png"
 	        }
 	    },
 	    {
@@ -326,7 +326,7 @@
 	        "mana_cost": "{2}{R}",
 	        "type": "Creature — Human Horror  ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-files/Merchant of Lives.png"
+	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSC-files/Merchant of Lives.png"
 	        }
 	    },
 	    {
@@ -335,7 +335,7 @@
 	        "mana_cost": "{3}{U}{U}",
 	        "type": "Legendary Creature — Human Artist ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-files/Ishakawa, Mysterious Idol.png"
+	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSC-files/Ishakawa, Mysterious Idol.png"
 	        }
 	    },
 	    {
@@ -344,7 +344,7 @@
 	        "mana_cost": "{3}{R}",
 	        "type": "Creature — Human Artificer ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-files/Nexus Savant.png"
+	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSC-files/Nexus Savant.png"
 	        }
 	    },
 	    {
@@ -352,7 +352,7 @@
 	        "mana_cost": "{2}{G}",
 	        "type": "Creature — Zombie Horror ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-files/Nowhere Lurkers.png"
+	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSC-files/Nowhere Lurkers.png"
 	        },
 	        "printed names": {
 	            "en": "Nowhere Lurkers"
@@ -363,7 +363,7 @@
 	                "en": "Liminal Walk"
 	            },
 	            "image_uris": {
-	                "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-files/Liminal Walk.png"
+	                "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSC-files/Liminal Walk.png"
 	            },
 	            "type": "Sorcery — Tale "
 	        }
@@ -374,7 +374,7 @@
 	        "mana_cost": "{X}{G}{G}",
 	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-files/Off the Rails.png"
+	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSC-files/Off the Rails.png"
 	        }
 	    },
 	    {
@@ -382,7 +382,7 @@
 	        "mana_cost": "{1}{W}",
 	        "type": "Creature — Human Artist ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-files/Parasol Bearer.png"
+	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSC-files/Parasol Bearer.png"
 	        },
 	        "printed names": {
 	            "en": "Parasol Bearer"
@@ -393,7 +393,7 @@
 	                "en": "Rain or Shine"
 	            },
 	            "image_uris": {
-	                "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-files/Rain or Shine.png"
+	                "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSC-files/Rain or Shine.png"
 	            },
 	            "type": "Sorcery — Tale "
 	        }
@@ -404,7 +404,7 @@
 	        "mana_cost": "{2}{R}",
 	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-files/Redshift.png"
+	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSC-files/Redshift.png"
 	        }
 	    },
 	    {
@@ -413,7 +413,7 @@
 	        "mana_cost": "{4}",
 	        "type": "Creature — Human ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-files/Rail Line Runaway.png"
+	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSC-files/Rail Line Runaway.png"
 	        }
 	    },
 	    {
@@ -422,7 +422,7 @@
 	        "mana_cost": "{2}{R}",
 	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-files/Red Flags.png"
+	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSC-files/Red Flags.png"
 	        }
 	    },
 	    {
@@ -431,7 +431,7 @@
 	        "mana_cost": "{3}{W}",
 	        "type": "Legendary Creature — Human Artist ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-files/Iason, Sunrise Renegade.png"
+	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSC-files/Iason, Sunrise Renegade.png"
 	        }
 	    },
 	    {
@@ -440,7 +440,7 @@
 	        "mana_cost": "{4}{G}",
 	        "type": "Legendary Enchantment",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-files/Rustic Spirits Tavern.png"
+	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSC-files/Rustic Spirits Tavern.png"
 	        }
 	    },
 	    {
@@ -449,7 +449,7 @@
 	        "mana_cost": "{2}{G}",
 	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-files/Search Query.png"
+	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSC-files/Search Query.png"
 	        }
 	    },
 	    {
@@ -458,7 +458,7 @@
 	        "mana_cost": "{U}{R}",
 	        "type": "Legendary Creature — Human Artificer ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-files/Serin, Old World Tinker.png"
+	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSC-files/Serin, Old World Tinker.png"
 	        }
 	    },
 	    {
@@ -467,7 +467,7 @@
 	        "mana_cost": "{1}{U}{U}",
 	        "type": "Instant — Revelation ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-files/Shine Like a Diamond.png"
+	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSC-files/Shine Like a Diamond.png"
 	        }
 	    },
 	    {
@@ -476,7 +476,7 @@
 	        "mana_cost": "{U}",
 	        "type": "Instant — Revelation ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-files/Swallow the Moon.png"
+	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSC-files/Swallow the Moon.png"
 	        }
 	    },
 	    {
@@ -485,7 +485,7 @@
 	        "mana_cost": "{X}{G}{G}",
 	        "type": "Legendary Creature — Horror Artist ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-files/The Fervent Conductor.png"
+	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSC-files/The Fervent Conductor.png"
 	        }
 	    },
 	    {
@@ -494,7 +494,7 @@
 	        "mana_cost": "{2}{W}{B}",
 	        "type": "Legendary Creature — Human Assassin ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-files/The Red-eyed Jester.png"
+	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSC-files/The Red-eyed Jester.png"
 	        }
 	    },
 	    {
@@ -503,7 +503,7 @@
 	        "mana_cost": "{3}{W}",
 	        "type": "Legendary Enchantment",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-files/The Scarlet Citron.png"
+	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSC-files/The Scarlet Citron.png"
 	        }
 	    },
 	    {
@@ -512,7 +512,7 @@
 	        "mana_cost": "{1}",
 	        "type": "Artifact — Clue ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-files/Trail of Blood.png"
+	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSC-files/Trail of Blood.png"
 	        }
 	    },
 	    {
@@ -520,7 +520,7 @@
 	        "mana_cost": "{3}{U}",
 	        "type": "Creature — Human Artificer Noble ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-files/Trinket Princess.png"
+	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSC-files/Trinket Princess.png"
 	        },
 	        "printed names": {
 	            "en": "Trinket Princess"
@@ -531,7 +531,7 @@
 	                "en": "Tinker Fugue"
 	            },
 	            "image_uris": {
-	                "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-files/Tinker Fugue.png"
+	                "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSC-files/Tinker Fugue.png"
 	            },
 	            "type": "Sorcery — Tale "
 	        }
@@ -542,7 +542,7 @@
 	        "mana_cost": "{1}{G}",
 	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-files/Walls Stained Red.png"
+	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSC-files/Walls Stained Red.png"
 	        }
 	    },
 	    {
@@ -551,7 +551,7 @@
 	        "mana_cost": "{B}{B}",
 	        "type": "Instant — Revelation ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-files/Unleash Nemesis Protocols.png"
+	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSC-files/Unleash Nemesis Protocols.png"
 	        }
 	    },
 	    {
@@ -560,7 +560,7 @@
 	        "mana_cost": "{2}{B}",
 	        "type": "Legendary Creature — Human Rogue ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-files/Valeria, Yri's Second.png"
+	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSC-files/Valeria, Yri's Second.png"
 	        }
 	    },
 	    {
@@ -569,7 +569,7 @@
 	        "mana_cost": "{1}{R}",
 	        "type": "Creature — Human Warrior ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-files/Veteran Bladesinger.png"
+	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSC-files/Veteran Bladesinger.png"
 	        }
 	    },
 	    {
@@ -577,7 +577,7 @@
 	        "mana_cost": "{1}{B}",
 	        "type": "Creature — Human Scout ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-files/Eminevoyance Adept.png"
+	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSC-files/Eminevoyance Adept.png"
 	        },
 	        "printed names": {
 	            "en": "Eminevoyance Adept"
@@ -588,7 +588,7 @@
 	                "en": "In A Dream"
 	            },
 	            "image_uris": {
-	                "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-files/In A Dream.png"
+	                "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSC-files/In A Dream.png"
 	            },
 	            "type": "Sorcery — Tale "
 	        }
@@ -599,7 +599,7 @@
 	        "mana_cost": "{1}{R}",
 	        "type": "Sorcery — Revelation ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-files/Violence Without Reason.png"
+	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSC-files/Violence Without Reason.png"
 	        }
 	    },
 	    {
@@ -607,7 +607,7 @@
 	        "mana_cost": "{1}{W}{U}",
 	        "type": "Legendary Creature — Angel Artist ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-files/Voc, Beloved Songstress.png"
+	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSC-files/Voc, Beloved Songstress.png"
 	        },
 	        "printed names": {
 	            "en": "Voc, Beloved Songstress"
@@ -618,7 +618,7 @@
 	                "en": "Da Capo"
 	            },
 	            "image_uris": {
-	                "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-files/Da Capo.png"
+	                "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSC-files/Da Capo.png"
 	            },
 	            "type": "Sorcery — Tale "
 	        }
@@ -629,7 +629,7 @@
 	        "mana_cost": "{4}{G}",
 	        "type": "Creature — Horror Giant ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-files/Void Tyrant.png"
+	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSC-files/Void Tyrant.png"
 	        }
 	    },
 	    {
@@ -638,7 +638,7 @@
 	        "mana_cost": "{3}{W}",
 	        "type": "Creature — Human Artist ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-files/Waywarden of the Flow.png"
+	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSC-files/Waywarden of the Flow.png"
 	        }
 	    },
 	    {
@@ -647,7 +647,7 @@
 	        "mana_cost": "{1}{G}",
 	        "type": "Creature — Human ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-files/Welcoming Hostess.png"
+	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSC-files/Welcoming Hostess.png"
 	        }
 	    },
 	    {
@@ -656,7 +656,7 @@
 	        "mana_cost": "{2}{R}{R}",
 	        "type": "Sorcery — Revelation ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-files/Wield the Strength of Stars.png"
+	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSC-files/Wield the Strength of Stars.png"
 	        }
 	    },
 	    {
@@ -665,7 +665,7 @@
 	        "mana_cost": "{1}{R}",
 	        "type": "Legendary Enchantment",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-files/Xenon Cabaret.png"
+	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSC-files/Xenon Cabaret.png"
 	        }
 	    },
 	    {
@@ -674,7 +674,7 @@
 	        "mana_cost": "{1}{W}{U}{B}{R}",
 	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-files/Aekyu Never Sleeps.png"
+	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSC-files/Aekyu Never Sleeps.png"
 	        }
 	    },
 	    {
@@ -683,7 +683,7 @@
 	        "mana_cost": "{3}{W}{U}{B}{R}",
 	        "type": "Legendary Creature — Reflection God ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-files/Isolani, Goddess in White.png"
+	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSC-files/Isolani, Goddess in White.png"
 	        }
 	    },
 	    {
@@ -692,7 +692,7 @@
 	        "mana_cost": "{B}{B}{B}",
 	        "type": "Enchantment",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-files/Necroelysia.png"
+	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSC-files/Necroelysia.png"
 	        }
 	    },
 	    {
@@ -701,7 +701,7 @@
 	        "mana_cost": "{1}{R}",
 	        "type": "Legendary Creature — Human Artist ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-files/Alicia, the Final Dawn.png"
+	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSC-files/Alicia, the Final Dawn.png"
 	        }
 	    },
 	    {
@@ -710,7 +710,7 @@
 	        "mana_cost": "{1}{B}{B}",
 	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-files/Backstreets of Kaede.png"
+	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSC-files/Backstreets of Kaede.png"
 	        }
 	    },
 	    {
@@ -719,7 +719,7 @@
 	        "mana_cost": "{2}{W}",
 	        "type": "Enchantment",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-files/Barhopping in Miseko.png"
+	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSC-files/Barhopping in Miseko.png"
 	        }
 	    },
 	    {
@@ -728,7 +728,7 @@
 	        "mana_cost": "{B}{B}",
 	        "type": "Enchantment",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-files/Blackout Zone.png"
+	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSC-files/Blackout Zone.png"
 	        }
 	    },
 	    {
@@ -737,7 +737,7 @@
 	        "mana_cost": "{U}",
 	        "type": "Creature — Human Scout ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-files/Renegade Deputy.png"
+	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSC-files/Renegade Deputy.png"
 	        }
 	    },
 	    {
@@ -746,7 +746,7 @@
 	        "mana_cost": "{2}{W}",
 	        "type": "Creature — Angel Horror ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-files/Blasphemous Displacer.png"
+	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSC-files/Blasphemous Displacer.png"
 	        }
 	    },
 	    {
@@ -755,7 +755,7 @@
 	        "mana_cost": "{2}{W}",
 	        "type": "Creature — Human Knight Rogue Wizard ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-files/Crafters of Fantasy.png"
+	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSC-files/Crafters of Fantasy.png"
 	        }
 	    },
 	    {
@@ -764,7 +764,7 @@
 	        "mana_cost": "{U}",
 	        "type": "Creature — Human Gamer ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-files/Digital Champion.png"
+	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSC-files/Digital Champion.png"
 	        }
 	    },
 	    {
@@ -773,7 +773,7 @@
 	        "mana_cost": "{3}{W}",
 	        "type": "Enchantment",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-files/Doomsday Sirens.png"
+	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSC-files/Doomsday Sirens.png"
 	        }
 	    },
 	    {
@@ -782,7 +782,7 @@
 	        "mana_cost": "{3}{G}{G}",
 	        "type": "Enchantment",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-files/Enigmatic Prismata.png"
+	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSC-files/Enigmatic Prismata.png"
 	        }
 	    },
 	    {
@@ -791,7 +791,7 @@
 	        "mana_cost": "{B}",
 	        "type": "Creature — Human Cleric ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-files/Evangel of Metamorphosis.png"
+	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSC-files/Evangel of Metamorphosis.png"
 	        }
 	    },
 	    {
@@ -800,7 +800,7 @@
 	        "mana_cost": "{2}{B}{B}",
 	        "type": "Legendary Creature — Angel Horror ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-files/Fractia, Angel of None.png"
+	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSC-files/Fractia, Angel of None.png"
 	        }
 	    },
 	    {
@@ -809,7 +809,7 @@
 	        "mana_cost": "{X}{U}{U}{U}",
 	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-files/Halcyon Steel Revolution.png"
+	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSC-files/Halcyon Steel Revolution.png"
 	        }
 	    },
 	    {
@@ -818,7 +818,7 @@
 	        "mana_cost": "{X}{5}{G}{G}",
 	        "type": "Legendary Creature — Human Warlock ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-files/Hazreim, Vertical Stampede.png"
+	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSC-files/Hazreim, Vertical Stampede.png"
 	        }
 	    },
 	    {
@@ -827,7 +827,7 @@
 	        "mana_cost": "{3}{W}{U}",
 	        "type": "Legendary Creature — Human Artist ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-files/Hyacin, Azure Princess.png"
+	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSC-files/Hyacin, Azure Princess.png"
 	        }
 	    },
 	    {
@@ -836,7 +836,7 @@
 	        "mana_cost": "{2}{U}",
 	        "type": "Creature — Human Artist ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-files/Rival of the Spotlight.png"
+	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSC-files/Rival of the Spotlight.png"
 	        }
 	    },
 	    {
@@ -845,7 +845,7 @@
 	        "mana_cost": "{1}{W}",
 	        "type": "Legendary Creature — Human Advisor ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-files/Kalista, Gilded Mixologist.png"
+	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSC-files/Kalista, Gilded Mixologist.png"
 	        }
 	    },
 	    {
@@ -854,7 +854,7 @@
 	        "mana_cost": "{3}{W}{B}",
 	        "type": "Creature — Skeleton Horror Artist ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-files/Kura of the Zombie Network.png"
+	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSC-files/Kura of the Zombie Network.png"
 	        }
 	    },
 	    {
@@ -863,7 +863,7 @@
 	        "mana_cost": "{1}{R}{R}",
 	        "type": "Legendary Creature — Human Scout ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-files/Kylthess, the Pale Lantern.png"
+	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSC-files/Kylthess, the Pale Lantern.png"
 	        }
 	    },
 	    {
@@ -872,7 +872,7 @@
 	        "mana_cost": "{1}{G}",
 	        "type": "Enchantment",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-files/Live Large.png"
+	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSC-files/Live Large.png"
 	        }
 	    },
 	    {
@@ -881,7 +881,7 @@
 	        "mana_cost": "{1}{G}",
 	        "type": "Creature — Human Artist ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-files/Mistencharm Resplendant.png"
+	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSC-files/Mistencharm Resplendant.png"
 	        }
 	    },
 	    {
@@ -890,7 +890,7 @@
 	        "mana_cost": "{2}{U}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-files/Nonchalance.png"
+	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSC-files/Nonchalance.png"
 	        }
 	    },
 	    {
@@ -899,7 +899,7 @@
 	        "mana_cost": "{1}{G}",
 	        "type": "Creature — Human Scout ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-files/Skylight Aspirant.png"
+	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSC-files/Skylight Aspirant.png"
 	        }
 	    },
 	    {
@@ -908,7 +908,7 @@
 	        "mana_cost": "{2}{R}",
 	        "type": "Creature — Plant Horror ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-files/Slicer of Simplicity.png"
+	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSC-files/Slicer of Simplicity.png"
 	        }
 	    },
 	    {
@@ -917,7 +917,7 @@
 	        "mana_cost": "{2}{G}{G}",
 	        "type": "Creature — Human Assassin Artist ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-files/Social Executioner.png"
+	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSC-files/Social Executioner.png"
 	        }
 	    },
 	    {
@@ -926,7 +926,7 @@
 	        "mana_cost": "{1}{R}{R}",
 	        "type": "Creature — Human Artist ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-files/Starflame Songstress.png"
+	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSC-files/Starflame Songstress.png"
 	        }
 	    },
 	    {
@@ -935,7 +935,7 @@
 	        "mana_cost": "{1}{R}",
 	        "type": "Enchantment",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-files/Cascading Vengeance.png"
+	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSC-files/Cascading Vengeance.png"
 	        }
 	    },
 	    {
@@ -944,7 +944,7 @@
 	        "mana_cost": "{2}{B}",
 	        "type": "Creature — Horror Cleric ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-files/Warden of the Boundary.png"
+	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSC-files/Warden of the Boundary.png"
 	        }
 	    },
 	    {
@@ -953,7 +953,7 @@
 	        "mana_cost": "{1}{W}",
 	        "type": "Enchantment",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-files/White Lies.png"
+	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSC-files/White Lies.png"
 	        }
 	    },
 	    {
@@ -962,7 +962,7 @@
 	        "mana_cost": "{4}",
 	        "type": "Creature — Reflection ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-files/Agent of Digitas.png"
+	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSC-files/Agent of Digitas.png"
 	        }
 	    },
 	    {
@@ -971,7 +971,7 @@
 	        "mana_cost": "{3}",
 	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-files/Dream.png"
+	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSC-files/Dream.png"
 	        }
 	    },
 	    {
@@ -980,7 +980,7 @@
 	        "mana_cost": "{2}",
 	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-files/Heaven is Forged From Steel.png"
+	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSC-files/Heaven is Forged From Steel.png"
 	        }
 	    },
 	    {
@@ -989,7 +989,7 @@
 	        "mana_cost": "{1}",
 	        "type": "Creature — Human Artist ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-files/Color Savant.png"
+	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSC-files/Color Savant.png"
 	        }
 	    },
 	    {
@@ -998,7 +998,7 @@
 	        "mana_cost": "{2}{W}",
 	        "type": "Creature — Eye Horror ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-files/Breaker of Promises.png"
+	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSC-files/Breaker of Promises.png"
 	        }
 	    },
 	    {
@@ -1007,7 +1007,7 @@
 	        "mana_cost": "{3}{W}",
 	        "type": "Creature — Human ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-files/Cheering Fangirl.png"
+	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSC-files/Cheering Fangirl.png"
 	        }
 	    },
 	    {
@@ -1016,7 +1016,7 @@
 	        "mana_cost": "{X}{X}{R}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-files/Cosmic Revelations.png"
+	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSC-files/Cosmic Revelations.png"
 	        }
 	    },
 	    {
@@ -1025,7 +1025,7 @@
 	        "mana_cost": "{1}{W}",
 	        "type": "Creature — Human Noble ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-files/Drinker of Night's Melodies.png"
+	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSC-files/Drinker of Night's Melodies.png"
 	        }
 	    },
 	    {
@@ -1034,7 +1034,7 @@
 	        "mana_cost": "{2}{W}",
 	        "type": "Enchantment",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-files/Flâneur.png"
+	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSC-files/Flâneur.png"
 	        }
 	    },
 	    {
@@ -1043,7 +1043,7 @@
 	        "mana_cost": "{2}{W}{W}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-files/Hive Connectivity.png"
+	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSC-files/Hive Connectivity.png"
 	        }
 	    },
 	    {
@@ -1052,7 +1052,7 @@
 	        "mana_cost": "{1}{W}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-files/Lean on Me.png"
+	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSC-files/Lean on Me.png"
 	        }
 	    },
 	    {
@@ -1060,7 +1060,7 @@
 	        "mana_cost": "{4}{W}",
 	        "type": "Creature — Human Artist ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-files/Lightshow Ensemble.png"
+	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSC-files/Lightshow Ensemble.png"
 	        },
 	        "printed names": {
 	            "en": "Lightshow Ensemble"
@@ -1071,7 +1071,7 @@
 	                "en": "Scream Out"
 	            },
 	            "image_uris": {
-	                "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-files/Scream Out.png"
+	                "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSC-files/Scream Out.png"
 	            },
 	            "type": "Sorcery — Tale "
 	        }
@@ -1082,7 +1082,7 @@
 	        "mana_cost": "{2}{W}",
 	        "type": "Creature — Human Cleric ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-files/Lonely Medium.png"
+	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSC-files/Lonely Medium.png"
 	        }
 	    },
 	    {
@@ -1091,7 +1091,7 @@
 	        "mana_cost": "{3}{W}",
 	        "type": "Creature — Human Horror Horse ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-files/Nightmarish Actors.png"
+	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSC-files/Nightmarish Actors.png"
 	        }
 	    },
 	    {
@@ -1100,7 +1100,7 @@
 	        "mana_cost": "{1}{W}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-files/Off on a Date.png"
+	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSC-files/Off on a Date.png"
 	        }
 	    },
 	    {
@@ -1109,7 +1109,7 @@
 	        "mana_cost": "{W}",
 	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-files/Network Anonymity.png"
+	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSC-files/Network Anonymity.png"
 	        }
 	    },
 	    {
@@ -1118,7 +1118,7 @@
 	        "mana_cost": "{W}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-files/Out of Order.png"
+	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSC-files/Out of Order.png"
 	        }
 	    },
 	    {
@@ -1127,7 +1127,7 @@
 	        "mana_cost": "{W}",
 	        "type": "Artifact",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-files/Playful Record.png"
+	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSC-files/Playful Record.png"
 	        }
 	    },
 	    {
@@ -1136,7 +1136,7 @@
 	        "mana_cost": "{W}",
 	        "type": "Creature — Human Artist ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-files/Star of the Show.png"
+	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSC-files/Star of the Show.png"
 	        }
 	    },
 	    {
@@ -1145,7 +1145,7 @@
 	        "mana_cost": "{1}{W}",
 	        "type": "Creature — Human Scout ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-files/Technopath Renegade.png"
+	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSC-files/Technopath Renegade.png"
 	        }
 	    },
 	    {
@@ -1154,7 +1154,7 @@
 	        "mana_cost": "{2}{W}",
 	        "type": "Creature — Human Avatar ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-files/Witness of New Humanity.png"
+	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSC-files/Witness of New Humanity.png"
 	        }
 	    },
 	    {
@@ -1163,7 +1163,7 @@
 	        "mana_cost": "{U}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-files/Alone With My Thoughts.png"
+	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSC-files/Alone With My Thoughts.png"
 	        }
 	    },
 	    {
@@ -1171,7 +1171,7 @@
 	        "mana_cost": "{1}{U}",
 	        "type": "Creature — Human Rogue ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-files/Censored Speaker.png"
+	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSC-files/Censored Speaker.png"
 	        },
 	        "printed names": {
 	            "en": "Censored Speaker"
@@ -1182,7 +1182,7 @@
 	                "en": "Say the Word"
 	            },
 	            "image_uris": {
-	                "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-files/Say the Word.png"
+	                "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSC-files/Say the Word.png"
 	            },
 	            "type": "Sorcery — Tale "
 	        }
@@ -1193,7 +1193,7 @@
 	        "mana_cost": "{U}",
 	        "type": "Sorcery — Revelation ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-files/Gaze Skyward and Weep.png"
+	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSC-files/Gaze Skyward and Weep.png"
 	        }
 	    },
 	    {
@@ -1202,7 +1202,7 @@
 	        "mana_cost": "{1}{U}",
 	        "type": "Enchantment — Aura ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-files/Lost to the Music.png"
+	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSC-files/Lost to the Music.png"
 	        }
 	    },
 	    {
@@ -1211,7 +1211,7 @@
 	        "mana_cost": "{1}{U}{U}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-files/Edge of Realism.png"
+	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSC-files/Edge of Realism.png"
 	        }
 	    },
 	    {
@@ -1220,7 +1220,7 @@
 	        "mana_cost": "{2}{U}",
 	        "type": "Creature — Human Artist ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-files/Miseko Idols.png"
+	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSC-files/Miseko Idols.png"
 	        }
 	    },
 	    {
@@ -1229,7 +1229,7 @@
 	        "mana_cost": "{3}{U}{U}",
 	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-files/Prophecy Flood.png"
+	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSC-files/Prophecy Flood.png"
 	        }
 	    },
 	    {
@@ -1238,7 +1238,7 @@
 	        "mana_cost": "{U}",
 	        "type": "Sorcery — Revelation ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-files/Ponder Infinite Misfortunes.png"
+	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSC-files/Ponder Infinite Misfortunes.png"
 	        }
 	    },
 	    {
@@ -1247,7 +1247,7 @@
 	        "mana_cost": "{3}{U}",
 	        "type": "Creature — Human Artist ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-files/Rhythm Seer.png"
+	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSC-files/Rhythm Seer.png"
 	        }
 	    },
 	    {
@@ -1256,7 +1256,7 @@
 	        "mana_cost": "{U}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-files/Ripples of Tomorrow.png"
+	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSC-files/Ripples of Tomorrow.png"
 	        }
 	    },
 	    {
@@ -1265,7 +1265,7 @@
 	        "mana_cost": "{5}{U}",
 	        "type": "Creature — Human Artist ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-files/Smokesign Mystic.png"
+	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSC-files/Smokesign Mystic.png"
 	        }
 	    },
 	    {
@@ -1274,7 +1274,7 @@
 	        "mana_cost": "{2}{U}",
 	        "type": "Creature — Human Artificer ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-files/Technopath Operative.png"
+	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSC-files/Technopath Operative.png"
 	        }
 	    },
 	    {
@@ -1282,7 +1282,7 @@
 	        "mana_cost": "{U}",
 	        "type": "Creature — Human Scout ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-files/Crossroads Wayfarer.png"
+	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSC-files/Crossroads Wayfarer.png"
 	        },
 	        "printed names": {
 	            "en": "Crossroads Wayfarer"
@@ -1293,7 +1293,7 @@
 	                "en": "New Roads"
 	            },
 	            "image_uris": {
-	                "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-files/New Roads.png"
+	                "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSC-files/New Roads.png"
 	            },
 	            "type": "Sorcery — Tale "
 	        }
@@ -1304,7 +1304,7 @@
 	        "mana_cost": "{3}{U}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-files/Plunge into the Brink.png"
+	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSC-files/Plunge into the Brink.png"
 	        }
 	    },
 	    {
@@ -1313,7 +1313,7 @@
 	        "mana_cost": "{4}{U}",
 	        "type": "Creature — Human Scout ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-files/Wavedasher.png"
+	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSC-files/Wavedasher.png"
 	        }
 	    },
 	    {
@@ -1322,7 +1322,7 @@
 	        "mana_cost": "{2}{U}",
 	        "type": "Creature — Human Avatar ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-files/Witness of Last Flight.png"
+	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSC-files/Witness of Last Flight.png"
 	        }
 	    },
 	    {
@@ -1330,7 +1330,7 @@
 	        "mana_cost": "{2}{B}",
 	        "type": "Creature — Horror Angel  ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-files/Abeyant Dreamer.png"
+	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSC-files/Abeyant Dreamer.png"
 	        },
 	        "printed names": {
 	            "en": "Abeyant Dreamer"
@@ -1341,7 +1341,7 @@
 	                "en": "Incomplete"
 	            },
 	            "image_uris": {
-	                "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-files/Incomplete.png"
+	                "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSC-files/Incomplete.png"
 	            },
 	            "type": "Sorcery — Tale "
 	        }
@@ -1352,7 +1352,7 @@
 	        "mana_cost": "{4}{B}",
 	        "type": "Creature — Human Assassin ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-files/Blade Maid.png"
+	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSC-files/Blade Maid.png"
 	        }
 	    },
 	    {
@@ -1361,7 +1361,7 @@
 	        "mana_cost": "{3}{B}",
 	        "type": "Creature — Human Horror ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-files/Child of Fallacies.png"
+	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSC-files/Child of Fallacies.png"
 	        }
 	    },
 	    {
@@ -1370,7 +1370,7 @@
 	        "mana_cost": "{1}{B}",
 	        "type": "Creature — Human Advisor ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-files/Darkside Accountant.png"
+	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSC-files/Darkside Accountant.png"
 	        }
 	    },
 	    {
@@ -1379,7 +1379,7 @@
 	        "mana_cost": "{B}",
 	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-files/Disconnect.png"
+	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSC-files/Disconnect.png"
 	        }
 	    },
 	    {
@@ -1388,7 +1388,7 @@
 	        "mana_cost": "{1}{B}",
 	        "type": "Creature — Horror ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-files/Dreamer's Bane.png"
+	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSC-files/Dreamer's Bane.png"
 	        }
 	    },
 	    {
@@ -1397,7 +1397,7 @@
 	        "mana_cost": "{1}{B}",
 	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-files/Eerie Night Stroll.png"
+	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSC-files/Eerie Night Stroll.png"
 	        }
 	    },
 	    {
@@ -1406,7 +1406,7 @@
 	        "mana_cost": "{6}{B}{B}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-files/Conciousness Not Found.png"
+	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSC-files/Conciousness Not Found.png"
 	        }
 	    },
 	    {
@@ -1415,7 +1415,7 @@
 	        "mana_cost": "{2}{B}",
 	        "type": "Sorcery — Revelation ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-files/Forged Through Nightmare.png"
+	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSC-files/Forged Through Nightmare.png"
 	        }
 	    },
 	    {
@@ -1424,7 +1424,7 @@
 	        "mana_cost": "{B}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-files/Intrusive Thoughts.png"
+	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSC-files/Intrusive Thoughts.png"
 	        }
 	    },
 	    {
@@ -1433,7 +1433,7 @@
 	        "mana_cost": "{2}{B}",
 	        "type": "Creature — Zombie Horror Cleric ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-files/Seventh Street Oracle.png"
+	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSC-files/Seventh Street Oracle.png"
 	        }
 	    },
 	    {
@@ -1442,7 +1442,7 @@
 	        "mana_cost": "{B}",
 	        "type": "Creature — Spirit Horror ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-files/Splintered Soul.png"
+	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSC-files/Splintered Soul.png"
 	        }
 	    },
 	    {
@@ -1451,7 +1451,7 @@
 	        "mana_cost": "{2}{B}",
 	        "type": "Creature — Human ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-files/Studious Pupil.png"
+	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSC-files/Studious Pupil.png"
 	        }
 	    },
 	    {
@@ -1460,7 +1460,7 @@
 	        "mana_cost": "{B}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-files/Never Let Go.png"
+	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSC-files/Never Let Go.png"
 	        }
 	    },
 	    {
@@ -1469,7 +1469,7 @@
 	        "mana_cost": "{B}",
 	        "type": "Instant — Revelation ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-files/Watch the Sun Fade.png"
+	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSC-files/Watch the Sun Fade.png"
 	        }
 	    },
 	    {
@@ -1478,7 +1478,7 @@
 	        "mana_cost": "{2}{B}",
 	        "type": "Creature — Human Avatar ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-files/Witness of No Return.png"
+	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSC-files/Witness of No Return.png"
 	        }
 	    },
 	    {
@@ -1487,7 +1487,7 @@
 	        "mana_cost": "{B}",
 	        "type": "Creature — Human Rogue ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-files/Yri's Frontrunner.png"
+	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSC-files/Yri's Frontrunner.png"
 	        }
 	    },
 	    {
@@ -1496,7 +1496,7 @@
 	        "mana_cost": "{2}{R}",
 	        "type": "Creature — Horror Avatar ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-files/Avatar of Revels.png"
+	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSC-files/Avatar of Revels.png"
 	        }
 	    },
 	    {
@@ -1505,7 +1505,7 @@
 	        "mana_cost": "{R}",
 	        "type": "Instant — Revelation ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-files/Corrupted Angelic Songs.png"
+	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSC-files/Corrupted Angelic Songs.png"
 	        }
 	    },
 	    {
@@ -1514,7 +1514,7 @@
 	        "mana_cost": "{R}",
 	        "type": "Creature — Human Cleric ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-files/Foul-Tongued Acolyte.png"
+	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSC-files/Foul-Tongued Acolyte.png"
 	        }
 	    },
 	    {
@@ -1523,7 +1523,7 @@
 	        "mana_cost": "{1}{R}",
 	        "type": "Creature — Human Artist ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-files/Frustrated Artist.png"
+	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSC-files/Frustrated Artist.png"
 	        }
 	    },
 	    {
@@ -1532,7 +1532,7 @@
 	        "mana_cost": "{2}{R}",
 	        "type": "Creature — Human Pilot ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-files/Getaway Driver.png"
+	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSC-files/Getaway Driver.png"
 	        }
 	    },
 	    {
@@ -1541,7 +1541,7 @@
 	        "mana_cost": "{R}",
 	        "type": "Sorcery — Revelation ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-files/His Overwhelming Bloodlust.png"
+	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSC-files/His Overwhelming Bloodlust.png"
 	        }
 	    },
 	    {
@@ -1550,7 +1550,7 @@
 	        "mana_cost": "{2}{R}",
 	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-files/Merely Players.png"
+	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSC-files/Merely Players.png"
 	        }
 	    },
 	    {
@@ -1558,7 +1558,7 @@
 	        "mana_cost": "{2}{R}",
 	        "type": "Creature — Human Rogue ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-files/Kaede Troublemakers.png"
+	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSC-files/Kaede Troublemakers.png"
 	        },
 	        "printed names": {
 	            "en": "Kaede Troublemakers"
@@ -1569,7 +1569,7 @@
 	                "en": "Oops, Collateral"
 	            },
 	            "image_uris": {
-	                "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-files/Oops, Collateral.png"
+	                "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSC-files/Oops, Collateral.png"
 	            },
 	            "type": "Sorcery — Tale "
 	        }
@@ -1580,7 +1580,7 @@
 	        "mana_cost": "{R}",
 	        "type": "Creature — Human Pilot ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-files/Neon City Racer.png"
+	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSC-files/Neon City Racer.png"
 	        }
 	    },
 	    {
@@ -1589,7 +1589,7 @@
 	        "mana_cost": "{1}{R}",
 	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-files/Do Not Go Quietly.png"
+	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSC-files/Do Not Go Quietly.png"
 	        }
 	    },
 	    {
@@ -1598,7 +1598,7 @@
 	        "mana_cost": "{X}{R}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-files/Protagonism.png"
+	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSC-files/Protagonism.png"
 	        }
 	    },
 	    {
@@ -1607,7 +1607,7 @@
 	        "mana_cost": "{1}{R}",
 	        "type": "Artifact — Vehicle ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-files/Red Hot Racer.png"
+	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSC-files/Red Hot Racer.png"
 	        }
 	    },
 	    {
@@ -1616,7 +1616,7 @@
 	        "mana_cost": "{1}{R}",
 	        "type": "Creature — Human Scout ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-files/Satsukai Fixer.png"
+	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSC-files/Satsukai Fixer.png"
 	        }
 	    },
 	    {
@@ -1625,7 +1625,7 @@
 	        "mana_cost": "{R}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-files/Fiery Erasure.png"
+	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSC-files/Fiery Erasure.png"
 	        }
 	    },
 	    {
@@ -1634,7 +1634,7 @@
 	        "mana_cost": "{R}",
 	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-files/Waiting for You.png"
+	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSC-files/Waiting for You.png"
 	        }
 	    },
 	    {
@@ -1643,7 +1643,7 @@
 	        "mana_cost": "{2}{R}",
 	        "type": "Creature — Human Avatar ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-files/Witness of Red Skies.png"
+	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSC-files/Witness of Red Skies.png"
 	        }
 	    },
 	    {
@@ -1652,7 +1652,7 @@
 	        "mana_cost": "{4}{G}{G}",
 	        "type": "Artifact Creature — Dinosaur Construct ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-files/Colossal Metalmaw.png"
+	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSC-files/Colossal Metalmaw.png"
 	        }
 	    },
 	    {
@@ -1661,7 +1661,7 @@
 	        "mana_cost": "{G}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-files/God Mode.png"
+	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSC-files/God Mode.png"
 	        }
 	    },
 	    {
@@ -1670,7 +1670,7 @@
 	        "mana_cost": "{G}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-files/Blissful Small Talks.png"
+	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSC-files/Blissful Small Talks.png"
 	        }
 	    },
 	    {
@@ -1679,7 +1679,7 @@
 	        "mana_cost": "{1}{W}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-files/Nostalgic Voyage.png"
+	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSC-files/Nostalgic Voyage.png"
 	        }
 	    },
 	    {
@@ -1688,7 +1688,7 @@
 	        "mana_cost": "{1}{G}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-files/Thunderous Entrance.png"
+	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSC-files/Thunderous Entrance.png"
 	        }
 	    },
 	    {
@@ -1697,7 +1697,7 @@
 	        "mana_cost": "{1}{G}",
 	        "type": "Creature — Human Druid ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-files/Joyous Shopkeeper.png"
+	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSC-files/Joyous Shopkeeper.png"
 	        }
 	    },
 	    {
@@ -1706,7 +1706,7 @@
 	        "mana_cost": "{1}{G}",
 	        "type": "Creature — Human Scout ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-files/Lo-Fi Listener.png"
+	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSC-files/Lo-Fi Listener.png"
 	        }
 	    },
 	    {
@@ -1715,7 +1715,7 @@
 	        "mana_cost": "{2}{B}{G}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-files/Multifactor Authentication.png"
+	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSC-files/Multifactor Authentication.png"
 	        }
 	    },
 	    {
@@ -1724,7 +1724,7 @@
 	        "mana_cost": "{4}{G}",
 	        "type": "Creature — Human Warrior ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-files/Midnight Alley Hunters.png"
+	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSC-files/Midnight Alley Hunters.png"
 	        }
 	    },
 	    {
@@ -1733,7 +1733,7 @@
 	        "mana_cost": "{G}",
 	        "type": "Creature — Human Scout ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-files/Nighttime Wanderer.png"
+	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSC-files/Nighttime Wanderer.png"
 	        }
 	    },
 	    {
@@ -1742,7 +1742,7 @@
 	        "mana_cost": "{1}{G}",
 	        "type": "Creature — Human Scout ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-files/Rainbow Seeker.png"
+	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSC-files/Rainbow Seeker.png"
 	        }
 	    },
 	    {
@@ -1751,7 +1751,7 @@
 	        "mana_cost": "{3}{G}",
 	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-files/Serin's Masterwork.png"
+	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSC-files/Serin's Masterwork.png"
 	        }
 	    },
 	    {
@@ -1760,7 +1760,7 @@
 	        "mana_cost": "{1}{G}",
 	        "type": "Creature — Human Scout ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-files/Seventh Street Stalker.png"
+	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSC-files/Seventh Street Stalker.png"
 	        }
 	    },
 	    {
@@ -1769,7 +1769,7 @@
 	        "mana_cost": "{1}{G}",
 	        "type": "Creature — Human Scout ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-files/Renegade Fixer.png"
+	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSC-files/Renegade Fixer.png"
 	        }
 	    },
 	    {
@@ -1778,7 +1778,7 @@
 	        "mana_cost": "{G}",
 	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-files/Traverse the City.png"
+	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSC-files/Traverse the City.png"
 	        }
 	    },
 	    {
@@ -1786,7 +1786,7 @@
 	        "mana_cost": "{3}{G}{G}",
 	        "type": "Artifact Creature — Construct Samurai ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-files/Neon Streetcleaner.png"
+	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSC-files/Neon Streetcleaner.png"
 	        },
 	        "printed names": {
 	            "en": "Neon Streetcleaner"
@@ -1797,7 +1797,7 @@
 	                "en": "Bot Overclock"
 	            },
 	            "image_uris": {
-	                "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-files/Bot Overclock.png"
+	                "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSC-files/Bot Overclock.png"
 	            },
 	            "type": "Sorcery — Tale "
 	        }
@@ -1808,7 +1808,7 @@
 	        "mana_cost": "{2}{G}",
 	        "type": "Creature — Human Avatar ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-files/Witness of the Brink.png"
+	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSC-files/Witness of the Brink.png"
 	        }
 	    },
 	    {
@@ -1817,7 +1817,7 @@
 	        "mana_cost": "{1}{U}{R}",
 	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-files/Strange Electric Dreams.png"
+	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSC-files/Strange Electric Dreams.png"
 	        }
 	    },
 	    {
@@ -1826,7 +1826,7 @@
 	        "mana_cost": "{2}{U}{B}",
 	        "type": "Creature — Nephil Horror ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-files/Featherflayer.png"
+	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSC-files/Featherflayer.png"
 	        }
 	    },
 	    {
@@ -1835,7 +1835,7 @@
 	        "mana_cost": "{B}{R}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-files/Enter Mephisto's Gate.png"
+	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSC-files/Enter Mephisto's Gate.png"
 	        }
 	    },
 	    {
@@ -1844,7 +1844,7 @@
 	        "mana_cost": "{1}{W}{B}",
 	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-files/Faceless Many.png"
+	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSC-files/Faceless Many.png"
 	        }
 	    },
 	    {
@@ -1853,7 +1853,7 @@
 	        "mana_cost": "{G}{W}",
 	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-files/Humanity Perseveres.png"
+	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSC-files/Humanity Perseveres.png"
 	        }
 	    },
 	    {
@@ -1862,7 +1862,7 @@
 	        "mana_cost": "{G}{U}",
 	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-files/Moonlit Lantern Festival.png"
+	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSC-files/Moonlit Lantern Festival.png"
 	        }
 	    },
 	    {
@@ -1871,7 +1871,7 @@
 	        "mana_cost": "{R}{G}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-files/Reckless Aspirations.png"
+	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSC-files/Reckless Aspirations.png"
 	        }
 	    },
 	    {
@@ -1880,7 +1880,7 @@
 	        "mana_cost": "{W}{U}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-files/Retcon.png"
+	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSC-files/Retcon.png"
 	        }
 	    },
 	    {
@@ -1889,7 +1889,7 @@
 	        "mana_cost": "{R}{W}",
 	        "type": "Creature — Human Warrior ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-files/Satsukai Paladin.png"
+	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSC-files/Satsukai Paladin.png"
 	        }
 	    },
 	    {
@@ -1898,7 +1898,7 @@
 	        "mana_cost": "{4}",
 	        "type": "Artifact Creature — Construct Horror ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-files/Machine of Broken Queries.png"
+	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSC-files/Machine of Broken Queries.png"
 	        }
 	    },
 	    {
@@ -1907,7 +1907,7 @@
 	        "mana_cost": "{3}{G}",
 	        "type": "Creature — Horror Avatar ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-files/Knight of Irae.png"
+	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSC-files/Knight of Irae.png"
 	        }
 	    },
 	    {
@@ -1916,7 +1916,7 @@
 	        "mana_cost": "",
 	        "type": "Basic Land — Forest ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-files/Forest.png"
+	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSC-files/Forest.png"
 	        }
 	    },
 	    {
@@ -1925,7 +1925,7 @@
 	        "mana_cost": "",
 	        "type": "Basic Land — Island ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-files/Island.png"
+	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSC-files/Island.png"
 	        }
 	    },
 	    {
@@ -1934,7 +1934,7 @@
 	        "mana_cost": "",
 	        "type": "Basic Land — Mountain ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-files/Mountain.png"
+	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSC-files/Mountain.png"
 	        }
 	    },
 	    {
@@ -1943,7 +1943,7 @@
 	        "mana_cost": "",
 	        "type": "Basic Land — Plains ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-files/Plains.png"
+	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSC-files/Plains.png"
 	        }
 	    },
 	    {
@@ -1952,7 +1952,7 @@
 	        "mana_cost": "",
 	        "type": "Basic Land — Swamp ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-files/Swamp.png"
+	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSC-files/Swamp.png"
 	        }
 	    },
 	    {
@@ -1961,7 +1961,7 @@
 	        "mana_cost": "",
 	        "type": "Land",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-files/Thunder Stage.png"
+	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSC-files/Thunder Stage.png"
 	        }
 	    },
 	    {
@@ -1970,7 +1970,7 @@
 	        "mana_cost": "",
 	        "type": "Land",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-files/Vielle's Perch.png"
+	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSC-files/Vielle's Perch.png"
 	        }
 	    },
 	    {
@@ -1979,7 +1979,7 @@
 	        "mana_cost": "",
 	        "type": "Land",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-files/Wayfarer's Shrine.png"
+	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSC-files/Wayfarer's Shrine.png"
 	        }
 	    },
 	    {
@@ -1987,7 +1987,7 @@
 	        "mana_cost": "",
 	        "type": "Land — Station ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-files/7th and Tenson Intersection.png"
+	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSC-files/7th and Tenson Intersection.png"
 	        },
 	        "printed names": {
 	            "en": "7th and Tenson Intersection"
@@ -1998,7 +1998,7 @@
 	                "en": "Ticket to 2nd"
 	            },
 	            "image_uris": {
-	                "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-files/Ticket to 2nd.png"
+	                "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSC-files/Ticket to 2nd.png"
 	            },
 	            "type": "Sorcery — Tale "
 	        }
@@ -2008,7 +2008,7 @@
 	        "mana_cost": "",
 	        "type": "Land — Station ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-files/Abandoned Pines Railway.png"
+	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSC-files/Abandoned Pines Railway.png"
 	        },
 	        "printed names": {
 	            "en": "Abandoned Pines Railway"
@@ -2019,7 +2019,7 @@
 	                "en": "Ticket to Nyano"
 	            },
 	            "image_uris": {
-	                "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-files/Ticket to Nyano.png"
+	                "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSC-files/Ticket to Nyano.png"
 	            },
 	            "type": "Sorcery — Tale "
 	        }
@@ -2029,7 +2029,7 @@
 	        "mana_cost": "",
 	        "type": "Land — Station ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-files/Lumina-Vista Railway.png"
+	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSC-files/Lumina-Vista Railway.png"
 	        },
 	        "printed names": {
 	            "en": "Lumina-Vista Railway"
@@ -2040,7 +2040,7 @@
 	                "en": "Ticket to Tsukuri"
 	            },
 	            "image_uris": {
-	                "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-files/Ticket to Tsukuri.png"
+	                "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSC-files/Ticket to Tsukuri.png"
 	            },
 	            "type": "Sorcery — Tale "
 	        }
@@ -2050,7 +2050,7 @@
 	        "mana_cost": "",
 	        "type": "Land — Station ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-files/Blade Alley Nexus.png"
+	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSC-files/Blade Alley Nexus.png"
 	        },
 	        "printed names": {
 	            "en": "Blade Alley Nexus"
@@ -2061,7 +2061,7 @@
 	                "en": "Ticket to Kaede"
 	            },
 	            "image_uris": {
-	                "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-files/Ticket to Kaede.png"
+	                "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSC-files/Ticket to Kaede.png"
 	            },
 	            "type": "Sorcery — Tale "
 	        }
@@ -2071,7 +2071,7 @@
 	        "mana_cost": "",
 	        "type": "Land — Station ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-files/Evans Company Railway.png"
+	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSC-files/Evans Company Railway.png"
 	        },
 	        "printed names": {
 	            "en": "Evans Company Railway"
@@ -2082,7 +2082,7 @@
 	                "en": "Ticket to Satsukai"
 	            },
 	            "image_uris": {
-	                "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-files/Ticket to Satsukai.png"
+	                "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSC-files/Ticket to Satsukai.png"
 	            },
 	            "type": "Sorcery — Tale "
 	        }
@@ -2092,7 +2092,7 @@
 	        "mana_cost": "",
 	        "type": "Land — Station ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-files/Masahi Street Subway.png"
+	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSC-files/Masahi Street Subway.png"
 	        },
 	        "printed names": {
 	            "en": "Masahi Street Subway"
@@ -2103,7 +2103,7 @@
 	                "en": "Ticket to the Brink"
 	            },
 	            "image_uris": {
-	                "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-files/Ticket to the Brink.png"
+	                "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSC-files/Ticket to the Brink.png"
 	            },
 	            "type": "Sorcery — Tale "
 	        }
@@ -2113,7 +2113,7 @@
 	        "mana_cost": "",
 	        "type": "Land — Station ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-files/Skybound Aeroport.png"
+	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSC-files/Skybound Aeroport.png"
 	        },
 	        "printed names": {
 	            "en": "Skybound Aeroport"
@@ -2124,7 +2124,7 @@
 	                "en": "Ticket to Ro Serei"
 	            },
 	            "image_uris": {
-	                "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-files/Ticket to Ro Serei.png"
+	                "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSC-files/Ticket to Ro Serei.png"
 	            },
 	            "type": "Sorcery — Tale "
 	        }
@@ -2134,7 +2134,7 @@
 	        "mana_cost": "",
 	        "type": "Land — Station ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-files/Somewhere Between Planes.png"
+	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSC-files/Somewhere Between Planes.png"
 	        },
 	        "printed names": {
 	            "en": "Somewhere Between Planes"
@@ -2145,7 +2145,7 @@
 	                "en": "Ticket to Eternity"
 	            },
 	            "image_uris": {
-	                "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-files/Ticket to Eternity.png"
+	                "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSC-files/Ticket to Eternity.png"
 	            },
 	            "type": "Sorcery — Tale "
 	        }
@@ -2155,7 +2155,7 @@
 	        "mana_cost": "",
 	        "type": "Land — Station ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-files/Sora Isle Docks.png"
+	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSC-files/Sora Isle Docks.png"
 	        },
 	        "printed names": {
 	            "en": "Sora Isle Docks"
@@ -2166,7 +2166,7 @@
 	                "en": "Ticket to Hiro Isle"
 	            },
 	            "image_uris": {
-	                "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-files/Ticket to Hiro Isle.png"
+	                "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSC-files/Ticket to Hiro Isle.png"
 	            },
 	            "type": "Sorcery — Tale "
 	        }
@@ -2176,7 +2176,7 @@
 	        "mana_cost": "",
 	        "type": "Land — Station ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-files/Spirit-East Railway.png"
+	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSC-files/Spirit-East Railway.png"
 	        },
 	        "printed names": {
 	            "en": "Spirit-East Railway"
@@ -2187,7 +2187,7 @@
 	                "en": "Ticket to Miseko"
 	            },
 	            "image_uris": {
-	                "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-files/Ticket to Miseko.png"
+	                "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSC-files/Ticket to Miseko.png"
 	            },
 	            "type": "Sorcery — Tale "
 	        }
@@ -2198,7 +2198,7 @@
 	        "mana_cost": "{2}{B}{B}{R}{R}",
 	        "type": "Legendary Creature — Vampire Cleric ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-files/Kyv, the First Nightwalker.png"
+	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSC-files/Kyv, the First Nightwalker.png"
 	        }
 	    },
 	    {
@@ -2207,7 +2207,7 @@
 	        "mana_cost": "{2}{R}{G}",
 	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-files/Solar Torrent.png"
+	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSC-files/Solar Torrent.png"
 	        }
 	    },
 	    {
@@ -2216,7 +2216,7 @@
 	        "mana_cost": "{3}{R}",
 	        "type": "Legendary Artifact — Umbrella ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-files/Aethion, the Suncaster.png"
+	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSC-files/Aethion, the Suncaster.png"
 	        }
 	    },
 	    {
@@ -2225,7 +2225,7 @@
 	        "mana_cost": "{B}{R}",
 	        "type": "Enchantment",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-files/Raven Requiems.png"
+	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSC-files/Raven Requiems.png"
 	        }
 	    },
 	    {
@@ -2234,7 +2234,7 @@
 	        "mana_cost": "{U}",
 	        "type": "Creature — Human Scout ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-files/Tsukuri Kiteflier.png"
+	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSC-files/Tsukuri Kiteflier.png"
 	        }
 	    },
 	    {
@@ -2243,7 +2243,7 @@
 	        "mana_cost": "{1}{R}{R}",
 	        "type": "Enchantment",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-files/Powerstorming Session.png"
+	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSC-files/Powerstorming Session.png"
 	        }
 	    },
 	    {
@@ -2252,7 +2252,7 @@
 	        "mana_cost": "{4}{W}{W}",
 	        "type": "Creature — Human Warrior ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-files/Miseko Sword Saint.png"
+	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSC-files/Miseko Sword Saint.png"
 	        }
 	    },
 	    {
@@ -2261,7 +2261,7 @@
 	        "mana_cost": "{1}{G}",
 	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-files/Overwhelming Presence.png"
+	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSC-files/Overwhelming Presence.png"
 	        }
 	    },
 	    {
@@ -2270,7 +2270,7 @@
 	        "mana_cost": "{1}{B}",
 	        "type": "Legendary Creature — Human Rogue ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-files/Yri, Lost Within Nightmares.png"
+	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSC-files/Yri, Lost Within Nightmares.png"
 	        }
 	    },
 	    {
@@ -2279,7 +2279,7 @@
 	        "mana_cost": "{3}{R}{R}",
 	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-files/Kylthess Incinerates Heaven.png"
+	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSC-files/Kylthess Incinerates Heaven.png"
 	        }
 	    },
 	    {
@@ -2288,7 +2288,7 @@
 	        "mana_cost": "{4}{R}{R}",
 	        "type": "Legendary Creature — Nephil Horror ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-files/The King of Husks.png"
+	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSC-files/The King of Husks.png"
 	        }
 	    },
 	    {
@@ -2297,7 +2297,7 @@
 	        "mana_cost": "{1}{R}{W}",
 	        "type": "Legendary Planeswalker — Winmaeri ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-files/Winmeari, Scarlet Sentinel.png"
+	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSC-files/Winmeari, Scarlet Sentinel.png"
 	        }
 	    },
 	    {
@@ -2306,7 +2306,7 @@
 	        "mana_cost": "{W}{W}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-files/No More Heresies.png"
+	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSC-files/No More Heresies.png"
 	        }
 	    },
 	    {
@@ -2315,7 +2315,7 @@
 	        "mana_cost": "{W}",
 	        "type": "Enchantment",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-files/Make Believe Together.png"
+	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSC-files/Make Believe Together.png"
 	        }
 	    },
 	    {
@@ -2324,7 +2324,7 @@
 	        "mana_cost": "{1}",
 	        "type": "Artifact",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-files/Abandoned Trainyard.png"
+	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSC-files/Abandoned Trainyard.png"
 	        }
 	    },
 	    {
@@ -2333,7 +2333,7 @@
 	        "mana_cost": "{2}{U}{B}{R}",
 	        "type": "Legendary Creature — Avatar ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-files/Touka, Who Deals With Devils.png"
+	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSC-files/Touka, Who Deals With Devils.png"
 	        }
 	    },
 	    {
@@ -2342,7 +2342,7 @@
 	        "mana_cost": "",
 	        "type": "Land",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-files/Kaede, the City Below.png"
+	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSC-files/Kaede, the City Below.png"
 	        }
 	    },
 	    {
@@ -2351,7 +2351,7 @@
 	        "mana_cost": "",
 	        "type": "Land",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-files/Miseko, Sunrise Capital.png"
+	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSC-files/Miseko, Sunrise Capital.png"
 	        }
 	    },
 	    {
@@ -2360,7 +2360,7 @@
 	        "mana_cost": "",
 	        "type": "Land",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-files/Nyano, Renegade Hideout.png"
+	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSC-files/Nyano, Renegade Hideout.png"
 	        }
 	    },
 	    {
@@ -2369,7 +2369,7 @@
 	        "mana_cost": "",
 	        "type": "Land",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-files/Satsukai, City of Lights.png"
+	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSC-files/Satsukai, City of Lights.png"
 	        }
 	    },
 	    {
@@ -2378,7 +2378,7 @@
 	        "mana_cost": "",
 	        "type": "Land",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-files/Tsukuri, Lantern Sanctum.png"
+	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSC-files/Tsukuri, Lantern Sanctum.png"
 	        }
 	    },
 	    {
@@ -2387,7 +2387,7 @@
 	        "mana_cost": "{5}",
 	        "type": "Legendary Creature — Human Rogue ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-files/Araki, Network Cleaner.png"
+	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSC-files/Araki, Network Cleaner.png"
 	        }
 	    },
 	    {
@@ -2396,7 +2396,7 @@
 	        "mana_cost": "",
 	        "type": "Land",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-files/Liminal Space.png"
+	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSC-files/Liminal Space.png"
 	        }
 	    },
 	    {
@@ -2405,7 +2405,7 @@
 	        "mana_cost": "{3}{U}{B}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-files/Ricochet Through Hell.png"
+	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSC-files/Ricochet Through Hell.png"
 	        }
 	    },
 	    {
@@ -2414,7 +2414,7 @@
 	        "mana_cost": "{3}{B}{B}",
 	        "type": "Legendary Planeswalker — Ai ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-files/Spark Hunter Kajiwara Ai.png"
+	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSC-files/Spark Hunter Kajiwara Ai.png"
 	        }
 	    },
 	    {
@@ -2423,7 +2423,7 @@
 	        "mana_cost": "{3}{U}",
 	        "type": "Enchantment",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-files/Katalepsis.png"
+	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSC-files/Katalepsis.png"
 	        }
 	    },
 	    {
@@ -2432,7 +2432,7 @@
 	        "mana_cost": "{1}{U}",
 	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-files/Nightmares Even in Waking.png"
+	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSC-files/Nightmares Even in Waking.png"
 	        }
 	    },
 	    {
@@ -2441,7 +2441,7 @@
 	        "mana_cost": "{1}{U}",
 	        "type": "Enchantment",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-files/Lucid Nightmares.png"
+	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSC-files/Lucid Nightmares.png"
 	        }
 	    },
 	    {
@@ -2450,7 +2450,7 @@
 	        "mana_cost": "{R}{G}{W}",
 	        "type": "Enchantment",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-files/Ideological Schism.png"
+	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSC-files/Ideological Schism.png"
 	        }
 	    },
 	    {
@@ -2459,7 +2459,7 @@
 	        "mana_cost": "{3}{W}{W}",
 	        "type": "Enchantment",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-files/Iason's Call to Arms.png"
+	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSC-files/Iason's Call to Arms.png"
 	        }
 	    },
 	    {
@@ -2468,7 +2468,7 @@
 	        "mana_cost": "{1}{U}",
 	        "type": "Enchantment",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-files/Unspool Forever.png"
+	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSC-files/Unspool Forever.png"
 	        }
 	    },
 	    {
@@ -2477,7 +2477,7 @@
 	        "mana_cost": "{3}{U}{U}",
 	        "type": "Enchantment",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-files/Playing With Puddles.png"
+	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSC-files/Playing With Puddles.png"
 	        }
 	    },
 	    {
@@ -2486,7 +2486,7 @@
 	        "mana_cost": "{1}{B}",
 	        "type": "Legendary Creature — Elemental ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-files/Starspinner Aintsa.png"
+	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSC-files/Starspinner Aintsa.png"
 	        }
 	    },
 	    {
@@ -2495,7 +2495,7 @@
 	        "mana_cost": "{1}{G}{G}",
 	        "type": "Creature — Human Noble Artist ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-files/Lunar Contessa.png"
+	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSC-files/Lunar Contessa.png"
 	        }
 	    },
 	    {
@@ -2504,7 +2504,7 @@
 	        "mana_cost": "",
 	        "type": "Land",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-files/Prismatic Eternity.png"
+	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSC-files/Prismatic Eternity.png"
 	        }
 	    },
 	    {
@@ -2513,7 +2513,7 @@
 	        "mana_cost": "{1}{G}{G}{G}",
 	        "type": "Creature — Human Artist ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-files/Idyllic Idol.png"
+	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSC-files/Idyllic Idol.png"
 	        }
 	    },
 	    {
@@ -2522,7 +2522,7 @@
 	        "mana_cost": "{1}{W}",
 	        "type": "Legendary Artifact Creature — Angel ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-files/Rxl, Unblemished Yet Adrift.png"
+	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSC-files/Rxl, Unblemished Yet Adrift.png"
 	        }
 	    },
 	    {
@@ -2531,7 +2531,7 @@
 	        "mana_cost": "{1}{U}{R}",
 	        "type": "Creature — Human Scout ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-files/Afterimage Adept.png"
+	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSC-files/Afterimage Adept.png"
 	        }
 	    },
 	    {
@@ -2540,7 +2540,7 @@
 	        "mana_cost": "{2}{W}{W}",
 	        "type": "Legendary Creature — Reflection  ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-files/Ædei, Destiny Muse.png"
+	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSC-files/Ædei, Destiny Muse.png"
 	        }
 	    },
 	    {
@@ -2549,7 +2549,7 @@
 	        "mana_cost": "{2}{R}",
 	        "type": "Artifact",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-files/Prototype Weapon.png"
+	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSC-files/Prototype Weapon.png"
 	        }
 	    },
 	    {
@@ -2557,7 +2557,7 @@
 	        "mana_cost": "{1}{B}{G}",
 	        "type": "Creature — Human Assassin ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-files/Bloodbath Renegades.png"
+	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSC-files/Bloodbath Renegades.png"
 	        },
 	        "printed names": {
 	            "en": "Bloodbath Renegades"
@@ -2568,7 +2568,7 @@
 	                "en": "Suddenly Alert"
 	            },
 	            "image_uris": {
-	                "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-files/Suddenly Alert.png"
+	                "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSC-files/Suddenly Alert.png"
 	            },
 	            "type": "Instant — Tale "
 	        }
@@ -2579,7 +2579,7 @@
 	        "mana_cost": "{2}{G}{W}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-files/Genesis Chamber.png"
+	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSC-files/Genesis Chamber.png"
 	        }
 	    },
 	    {
@@ -2588,7 +2588,7 @@
 	        "mana_cost": "{G}{U}",
 	        "type": "Legendary Planeswalker — Shiroyuki ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-files/Shiroyuki, the Everygirl.png"
+	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSC-files/Shiroyuki, the Everygirl.png"
 	        }
 	    },
 	    {
@@ -2597,7 +2597,7 @@
 	        "mana_cost": "",
 	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-files/Eternal Nightmares.png"
+	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSC-files/Eternal Nightmares.png"
 	        }
 	    },
 	    {
@@ -2606,7 +2606,7 @@
 	        "mana_cost": "{2}{U}",
 	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-files/Divination.png"
+	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSC-files/Divination.png"
 	        }
 	    },
 	    {
@@ -2615,7 +2615,7 @@
 	        "mana_cost": "{2}{G}{G}",
 	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-files/Host Conversion.png"
+	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSC-files/Host Conversion.png"
 	        }
 	    },
 	    {
@@ -2624,7 +2624,7 @@
 	        "mana_cost": "{B}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-files/Human Frailty.png"
+	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSC-files/Human Frailty.png"
 	        }
 	    },
 	    {
@@ -2633,7 +2633,7 @@
 	        "mana_cost": "{3}",
 	        "type": "Legendary Creature — Reflection Horror ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-files/Azalea, Otherworld Executioner.png"
+	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSC-files/Azalea, Otherworld Executioner.png"
 	        }
 	    },
 	    {
@@ -2642,7 +2642,7 @@
 	        "mana_cost": "{W}{B}",
 	        "type": "Legendary Creature — Human Axiom ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-files/Vielle, Aekyu's Antihero.png"
+	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSC-files/Vielle, Aekyu's Antihero.png"
 	        }
 	    },
 	    {
@@ -2651,7 +2651,7 @@
 	        "mana_cost": "{1}{U}{R}{W}",
 	        "type": "Legendary Creature — Construct Pilot ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-files/Ezren, Steelwing Ascendant.png"
+	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSC-files/Ezren, Steelwing Ascendant.png"
 	        }
 	    },
 	    {
@@ -2660,7 +2660,7 @@
 	        "mana_cost": "{4}",
 	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-files/Reality Slash.png"
+	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSC-files/Reality Slash.png"
 	        }
 	    },
 	    {
@@ -2669,7 +2669,7 @@
 	        "mana_cost": "{1}{B}",
 	        "type": "Legendary Artifact Creature — Umbrella Elf ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-files/Nicholas and Serenyi.png"
+	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSC-files/Nicholas and Serenyi.png"
 	        }
 	    },
 	    {
@@ -2678,7 +2678,7 @@
 	        "mana_cost": "{2}{R}{R}",
 	        "type": "Creature — Human Horror Artist ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-files/Idol of Playthings.png"
+	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSC-files/Idol of Playthings.png"
 	        }
 	    },
 	    {
@@ -2686,7 +2686,7 @@
 	        "mana_cost": "{3}{U}",
 	        "type": "Creature — Vampire Horror ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-files/Crimson Secretbinder.png"
+	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSC-files/Crimson Secretbinder.png"
 	        },
 	        "printed names": {
 	            "en": "Crimson Secretbinder"
@@ -2697,7 +2697,7 @@
 	                "en": "Where Is It"
 	            },
 	            "image_uris": {
-	                "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-files/Where Is It.png"
+	                "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSC-files/Where Is It.png"
 	            },
 	            "type": "Sorcery — Tale "
 	        }
@@ -2708,7 +2708,7 @@
 	        "mana_cost": "{B}{R}{G}",
 	        "type": "Creature — Horror ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-files/Gnarled Spire.png"
+	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSC-files/Gnarled Spire.png"
 	        }
 	    },
 	    {
@@ -2717,7 +2717,7 @@
 	        "mana_cost": "{1}{G}{U}",
 	        "type": "Legendary Enchantment — Shrine ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-files/The Aekyan Veil.png"
+	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSC-files/The Aekyan Veil.png"
 	        }
 	    },
 	    {
@@ -2726,7 +2726,7 @@
 	        "mana_cost": "{1}{G}",
 	        "type": "Legendary Artifact — Vehicle Shaman ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-files/Harbinger V.png"
+	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSC-files/Harbinger V.png"
 	        }
 	    },
 	    {
@@ -2735,7 +2735,7 @@
 	        "mana_cost": "{4}{G}",
 	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-files/Gruesome Reassembly.png"
+	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSC-files/Gruesome Reassembly.png"
 	        }
 	    },
 	    {
@@ -2744,7 +2744,7 @@
 	        "mana_cost": "{U}{B}",
 	        "type": "Legendary Creature — Human Axiom ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-files/Vielle, Undercity Wayfarer.png"
+	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSC-files/Vielle, Undercity Wayfarer.png"
 	        }
 	    },
 	    {
@@ -2753,7 +2753,7 @@
 	        "mana_cost": "{3}{W}{W}",
 	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-files/Witness the Divine.png"
+	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSC-files/Witness the Divine.png"
 	        }
 	    },
 	    {
@@ -2762,7 +2762,7 @@
 	        "mana_cost": "{2}{R}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-files/Risk Factor.png"
+	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSC-files/Risk Factor.png"
 	        }
 	    },
 	    {
@@ -2771,7 +2771,7 @@
 	        "mana_cost": "{1}{U}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-files/Surge of Brilliance.png"
+	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSC-files/Surge of Brilliance.png"
 	        }
 	    },
 	    {
@@ -2780,7 +2780,7 @@
 	        "mana_cost": "{1}{G}{W}",
 	        "type": "Creature — Human Scout ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-files/Lone Survivor.png"
+	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSC-files/Lone Survivor.png"
 	        }
 	    },
 	    {
@@ -2789,7 +2789,7 @@
 	        "mana_cost": "",
 	        "type": "Land",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-files/Reliquary Tower.png"
+	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSC-files/Reliquary Tower.png"
 	        }
 	    },
 	    {
@@ -2798,7 +2798,7 @@
 	        "mana_cost": "{R}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-files/Creative Salvage.png"
+	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSC-files/Creative Salvage.png"
 	        }
 	    },
 	    {
@@ -2807,7 +2807,7 @@
 	        "mana_cost": "{3}{G}{G}",
 	        "type": "Creature — Horror Beast  ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-files/Apex Abomination.png"
+	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSC-files/Apex Abomination.png"
 	        }
 	    },
 	    {
@@ -2816,7 +2816,7 @@
 	        "mana_cost": "{2}{B}",
 	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-files/Come Back Wrong.png"
+	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSC-files/Come Back Wrong.png"
 	        }
 	    }
 	]
@@ -3376,4 +3376,5 @@
 		25 Nyano, Renegade Hideout
 		25 Satsukai, City of Lights
 		25 Tsukuri, Lantern Sanctum
+	
 	
