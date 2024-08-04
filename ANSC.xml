@@ -1458,10 +1458,10 @@ At the beginning of your second main phase, if two or more creatures you control
         <colors></colors>
         <manacost>2</manacost>
         <cmc>2</cmc>
-        <type>Enchantment</type>
-        <maintype>Enchantment</maintype>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
       </prop>
-      <tablerow>1</tablerow>
+      <tablerow>3</tablerow>
       <text>Put a paradise counter on each land you control. (It has “{T}: Add one mana of any color.”)
 Blackout (You may play this face down as a land with “{T}: Add {C}.”)</text>
     </card>
@@ -2904,7 +2904,7 @@ Whenever two or more creatures you control attack, conjure Forest into your hand
         <maintype>Land</maintype>
       </prop>
       <tablerow>0</tablerow>
-      <text>{T}: Add one mana of any color. Spend this mana only to cast a spell or activate an ability with {X} in its mana cost. When you do, put an awe counter on Thunder Stage.
+      <text>{T}: Add one mana of any color. Spend this mana only to cast a spell or activate an ability with {X} In its mana cost. When you do, put an awe counter on Thunder Stage.
 When the fifth awe counter is put on Thunder Stage, you draw five cards and gain 5 life. Exile Thunder Stage.</text>
     </card>
     <card>
@@ -3464,7 +3464,7 @@ Permanents you control with no name have “{T}: Cache.” (Create a Clue or Tre
       <text>Put target spell or nontoken nonland permanent on the bottom of its owner’s library. That player exiles cards from the top of their library until they exile a card that shares a card type with it. You may cast that card without paying its mana cost.</text>
     </card>
     <card>
-      <name>Spark Hunter Kajiwara</name>
+      <name>Spark Hunter Kajiwara Ai</name>
       <set rarity="mythic">ANS</set>
       <prop>
         <colors>B</colors>

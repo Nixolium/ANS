@@ -2285,7 +2285,7 @@ rare
 Heaven is Forged From Steel
 colorless
 <img src='magic-mana-small-2.png' alt='2' width='14' height='14'>
-Enchantment
+Sorcery
 
 
 Put a paradise counter on each land you control. <i>(It has &#8220;<span class="symbol"><img src='magic-mana-small-T.png' alt='T' width='14' height='14'></span>: Add one mana of any color.&#8221;)</i><br>///br///Blackout <i>(You may play this face down as a land with &#8220;<span class="symbol"><img src='magic-mana-small-T.png' alt='T' width='14' height='14'></span>: Add <span class="symbol"><img src='magic-mana-small-C.png' alt='C' width='14' height='14'></span>.&#8221;)</i>
@@ -4611,7 +4611,7 @@ land, multicolor
 Land
 
 
-<span class="symbol"><img src='magic-mana-small-T.png' alt='T' width='14' height='14'></span>: Add one mana of any color. Spend this mana only to cast a spell or activate an ability with <span class="symbol"><img src='magic-mana-small-X.png' alt='X' width='14' height='14'></span> in its mana cost. When you do, put an awe counter on Thunder Stage.<br>///br///When the fifth awe counter is put on Thunder Stage, you draw five cards and gain 5 life. Exile Thunder Stage.
+<span class="symbol"><img src='magic-mana-small-T.png' alt='T' width='14' height='14'></span>: Add one mana of any color. Spend this mana only to cast a spell or activate an ability with <span class="symbol"><img src='magic-mana-small-X.png' alt='X' width='14' height='14'></span> In its mana cost. When you do, put an awe counter on Thunder Stage.<br>///br///When the fifth awe counter is put on Thunder Stage, you draw five cards and gain 5 life. Exile Thunder Stage.
 
 Shilin
 
@@ -5456,7 +5456,7 @@ normal
 111/277
 5
 mythic rare
-Spark Hunter Kajiwara
+Spark Hunter Kajiwara Ai
 black
 <img src='magic-mana-small-3.png' alt='3' width='14' height='14'><img src='magic-mana-small-B.png' alt='B' width='14' height='14'><img src='magic-mana-small-B.png' alt='B' width='14' height='14'>
 Legendary Planeswalker — Ai 

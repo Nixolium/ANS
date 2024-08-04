@@ -978,7 +978,7 @@
 	        "name": "Heaven is Forged From Steel",
 	        "rarity": "rare",
 	        "mana_cost": "{2}",
-	        "type": "Enchantment",
+	        "type": "Sorcery",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-files/Heaven is Forged From Steel.png"
 	        }
@@ -2409,12 +2409,12 @@
 	        }
 	    },
 	    {
-	        "name": "Spark Hunter Kajiwara",
+	        "name": "Spark Hunter Kajiwara Ai",
 	        "rarity": "mythic",
 	        "mana_cost": "{3}{B}{B}",
 	        "type": "Legendary Planeswalker — Ai ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-files/Spark Hunter Kajiwara.png"
+	            "en": "https://raw.githubusercontent.com/Nixolium/ANS/main/ANSV1C-files/Spark Hunter Kajiwara Ai.png"
 	        }
 	    },
 	    {
@@ -2620,7 +2620,7 @@
 	    },
 	    {
 	        "name": "Human Frailty",
-	        "rarity": "masterpiece",
+	        "rarity": "mythic",
 	        "mana_cost": "{B}",
 	        "type": "Instant",
 	        "image_uris": {
@@ -2740,7 +2740,7 @@
 	    },
 	    {
 	        "name": "Vielle, Undercity Wayfarer",
-	        "rarity": "masterpiece",
+	        "rarity": "mythic",
 	        "mana_cost": "{U}{B}",
 	        "type": "Legendary Creature — Human Axiom ",
 	        "image_uris": {
@@ -2749,7 +2749,7 @@
 	    },
 	    {
 	        "name": "Witness the Divine",
-	        "rarity": "masterpiece",
+	        "rarity": "mythic",
 	        "mana_cost": "{3}{W}{W}",
 	        "type": "Sorcery",
 	        "image_uris": {
@@ -2758,7 +2758,7 @@
 	    },
 	    {
 	        "name": "Risk Factor",
-	        "rarity": "masterpiece",
+	        "rarity": "mythic",
 	        "mana_cost": "{2}{R}",
 	        "type": "Instant",
 	        "image_uris": {
@@ -2767,7 +2767,7 @@
 	    },
 	    {
 	        "name": "Surge of Brilliance",
-	        "rarity": "masterpiece",
+	        "rarity": "mythic",
 	        "mana_cost": "{1}{U}",
 	        "type": "Instant",
 	        "image_uris": {
@@ -2776,7 +2776,7 @@
 	    },
 	    {
 	        "name": "Lone Survivor",
-	        "rarity": "masterpiece",
+	        "rarity": "mythic",
 	        "mana_cost": "{1}{G}{W}",
 	        "type": "Creature — Human Scout ",
 	        "image_uris": {
@@ -2785,7 +2785,7 @@
 	    },
 	    {
 	        "name": "Reliquary Tower",
-	        "rarity": "masterpiece",
+	        "rarity": "mythic",
 	        "mana_cost": "",
 	        "type": "Land",
 	        "image_uris": {
@@ -2794,7 +2794,7 @@
 	    },
 	    {
 	        "name": "Creative Salvage",
-	        "rarity": "masterpiece",
+	        "rarity": "mythic",
 	        "mana_cost": "{R}",
 	        "type": "Instant",
 	        "image_uris": {
@@ -2803,7 +2803,7 @@
 	    },
 	    {
 	        "name": "Apex Abomination",
-	        "rarity": "masterpiece",
+	        "rarity": "mythic",
 	        "mana_cost": "{3}{G}{G}",
 	        "type": "Creature — Horror Beast  ",
 	        "image_uris": {
@@ -2812,7 +2812,7 @@
 	    },
 	    {
 	        "name": "Come Back Wrong",
-	        "rarity": "masterpiece",
+	        "rarity": "mythic",
 	        "mana_cost": "{2}{B}",
 	        "type": "Sorcery",
 	        "image_uris": {
@@ -2892,7 +2892,7 @@
 		10 Winmeari, Scarlet Sentinel
 		10 Touka, Who Deals With Devils
 		10 Araki, Network Cleaner
-		10 Spark Hunter Kajiwara
+		10 Spark Hunter Kajiwara Ai
 		10 Katalepsis
 		10 Idyllic Idol
 		10 Shiroyuki, the Everygirl
@@ -2980,7 +2980,7 @@
 		50 Tsukuri, Lantern Sanctum
 		50 Liminal Space
 		50 Nightmares Even in Waking
-	[CommonSlot(10)]
+	[CommonSlot(8)]
 		50 Malevolent Heartbreaker
 		50 Nexus Savant
 		50 Red Flags
@@ -3072,7 +3072,20 @@
 		50 Retcon
 		50 Satsukai Paladin
 		50 Machine of Broken Queries
-		50 Wayfarer's Shrine
+		25 Wayfarer's Shrine
+		25 7th and Tenson Intersection
+		25 Abandoned Pines Railway
+		25 Lumina-Vista Railway
+		25 Blade Alley Nexus
+		25 Evans Company Railway
+		25 Masahi Street Subway
+		25 Skybound Aeroport
+		25 Somewhere Between Planes
+		25 Sora Isle Docks
+		25 Spirit-East Railway
+		50 Overwhelming Presence
+		50 Prismatic Eternity
+	[LandSlot(1)]
 		50 7th and Tenson Intersection
 		50 Abandoned Pines Railway
 		50 Lumina-Vista Railway
@@ -3083,12 +3096,11 @@
 		50 Somewhere Between Planes
 		50 Sora Isle Docks
 		50 Spirit-East Railway
-		50 Overwhelming Presence
+		50 Wayfarer's Shrine
 		50 Prismatic Eternity
-	[BasicSlot(1)]
-		50 Forest
-		50 Island
-		50 Mountain
-		50 Plains
-		50 Swamp
+		25 Kaede, the City Below
+		25 Miseko, Sunrise Capital
+		25 Nyano, Renegade Hideout
+		25 Satsukai, City of Lights
+		25 Tsukuri, Lantern Sanctum
 	
